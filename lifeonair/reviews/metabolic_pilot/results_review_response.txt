@@ -1,0 +1,14 @@
+Disposition of Gemini Pro results review, 12 October 2026
+
+The reviewer found no report corrections and independently confirmed the main
+counts and the no-go decision. No manuscript claims were added.
+
+Two phrases in the review itself are stronger than the evidence and are not
+adopted: reconstruction differences do not prove that all positive phenotypes
+are gap-filling artifacts; and the 122 gapseq rows are successfully extracted
+translations with no exact curated-sequence match, not "missing translations".
+Different predicted start sites remain a mapping limitation. The report retains
+these distinctions. A neither control is not a universal hydrogenase knockout.
+
+The report additionally records the all-zero anoxic and H2-reaction-knockout
+controls (tolerance 1e-6). All source scientific conclusions remain unchanged.

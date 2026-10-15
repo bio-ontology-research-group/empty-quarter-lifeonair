@@ -1,0 +1,25 @@
+{
+  "comp50": {
+    "total_queries": 6478,
+    "queries_with_cov50_hits": 6332,
+    "above_threshold_queries": 27,
+    "max_cov50_identity": 66.7,
+    "affected_groups": [
+      "coxL_other",
+      "hydB_1h",
+      "hydB_1l"
+    ]
+  },
+  "comp70": {
+    "total_queries": 6478,
+    "queries_with_cov50_hits": 6425,
+    "above_threshold_queries": 34,
+    "max_cov50_identity": 83.3,
+    "affected_groups": [
+      "coxL_formI",
+      "coxL_other",
+      "hydB_1h",
+      "hydB_1l"
+    ]
+  }
+}

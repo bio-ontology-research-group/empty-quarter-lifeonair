@@ -1,0 +1,24 @@
+{
+  "candidates": 759,
+  "identity": {
+    "exact": 720,
+    "missing_source_or_models": 39
+  },
+  "exact_groups": {
+    "neither": 590,
+    "1h": 60,
+    "1l": 70
+  },
+  "panel": 36,
+  "orders": {
+    "IMCC26256": 3,
+    "Myxococcales": 3,
+    "Mycobacteriales": 3,
+    "Pyrinomonadales": 3,
+    "Acidimicrobiales": 6,
+    "Longimicrobiales": 9,
+    "Rhodothermales": 3,
+    "Gp7-AA8": 3,
+    "Solirubrobacterales": 3
+  }
+}

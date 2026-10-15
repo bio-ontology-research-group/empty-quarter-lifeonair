@@ -1,0 +1,16 @@
+{
+  "models": 72,
+  "orders": 13,
+  "variants": 3,
+  "scenario_LPs": 10584,
+  "statuses": {
+    "optimal": 10584
+  },
+  "monotonicity_checks": 3240,
+  "missing_model_gene_counts": [
+    0
+  ],
+  "mapped_carrier_models": 44,
+  "native_linked_carrier_models": 1,
+  "script_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536"
+}

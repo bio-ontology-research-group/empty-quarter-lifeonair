@@ -1,0 +1,7 @@
+I have read the exact rows from the results and manuscript.
+
+I explicitly **reject and withdraw** my earlier allegation that Group 1l carriers have a significantly larger genome and a coefficient of +0.08. You are absolutely right: I mistakenly read the p-value (0.0847) as a positive effect coefficient.
+
+The actual baseline data shows a coefficient of -0.0189 (SE 0.0109, p ≈ 0.085) for `log_est_mb`, and the sensitivity/exclusion model shows a consistent coefficient of -0.0161 (SE 0.0109). This perfectly matches the manuscript's text stating that Group 1l genomes are of "similar size (-1.9%, p=0.08)." Group 1l carriers do *not* have significantly larger genomes in your models.
+
+With this hallucinated finding withdrawn, I can confirm there are **no unresolved scientific blockers** remaining from the addendum. The sensitivity analysis results (the excluded MAGs) are consistent with the reported baseline findings across the board. The only remaining steps are the acknowledged limitations and fulfilling the pre-submission public-release requirement for the data.

@@ -1,0 +1,636 @@
+(PDF) Shifts in Genome Size and Energy Utilization Strategies Sustain Microbial Functions Along an Aridity Gradient (https://www.researchgate.net/publication/395548451_Shifts_in_Genome_Size_and_Energy_Utilization_Strategies_Sustain_Microbial_Functions_Along_an_Aridity_Gradient)
+citeturn4view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"turn1view0","lineno":278}); Total lines: 2533
+L87: Shifts in Genome Size and Energy Utilization Strategies
+L88:
+L89: Sustain Microbial Functions Along an Aridity Gradient
+L90:
+L91: XiaojunWang 1,2 | WancaiWang 1,2 | LeiDeng 1,2 | TingLi 1,2 | ShilongLei 2 | LuZhang 1,2 | LirongLiao 2 | ZilinSong 3 |
+L92:
+L93: GuobinLiu 1,2 | ChaoZhang 1, 2
+L94:
+L95: 1 State Key Laboratory of Soil and Water Conservation and Desertification Control, College of Soil and Water Conser vation Science and Engineering,
+L96: Northwest A&F University, Yangling, China | 2 Institute of Soil and Water Conservation, Chinese Academy of Sciences and Ministry of Water Resources,
+L97:
+L98: Yangling, China | 3 College of Natural Resources and Environment, Northwest A&F University, Yangling,China
+L99:
+L100: Correspondence: Chao Zhang (zhangchao1985@nwafu.edu.cn)
+L101:
+L102: Received: 13 May 2025 | Revised: 3 September 2025 | Accepted: 3 September 2025
+L103: Funding: This research was supported by the National Key Research and Development Program of China (2023Y FF1305103), National Science Foundation
+L104:
+L105: of China (42130717, 42177449), and Shaanxi Provincial Science Fund for Distinguished Young Scholars (2024JC- JCQN- 35).
+L106:
+L107: Keywords: aridification| energy acquisition| environmental adaptation| genomic trait| life history strategy| trace gas oxidation
+L108:
+L109: ABSTRACT
+L110: Microbes acquire energy to sustain their survival and function through the decomposition of organic carbon (C) or by oxidizing
+L111:
+L112: atmospheric trace gases (e.g., H 2, CO, CH 4). However, how these two microbial energy- acquisition strategies change along en-
+L113:
+L114: vironmental gradients and the underlying mechanisms are unclear. This study investigated the energy strategies and genomic
+L115:
+L116: traits of soil microbiomes along a natural aridity gradient, ranging from semi- humid forests to arid deserts. By analyzing 374
+L117: metagenome- assembled genomes from 13 microbial phyla, we found that the most prevalent microbes are metabolically versatile
+L118:
+L119: aerobes that use atmospheric trace gases to support aerobic respiration, C fixation, and N, P, and S cycling. Soil microbes adapt
+L120:
+L121: genomic traits associated with reduced energy expenditure in more arid soils, including smaller genome sizes, lower GC content,
+L122: and fewer 16S rRNA gene copies. Microbial communities in diverse arid habitats are capable of utilizing organic compounds and
+L123:
+L124: the oxidation of trace gases (e.g., H 2, CO, CH 4, and H 2 S) as energy sources. However, the utilization of organic energy decreased
+L125:
+L126: while reliance on trace gas oxidation increased with increasing aridity. Higher consumption rates of H 2, CO, and CH 4 in desert
+L127: soils from ex situ culture experiments confirmed that increased aridity stimulates microbial oxidation of atmospheric trace gases.
+L128:
+L129: This shift in energy utilization was strongly correlated with declining soil organic C levels. As organic C decreased along the
+L130:
+L131: aridity gradient, the abundance of trace gas oxidizers (both specialized and multi- gas oxidizers) increased significantly, while
+L132: that of non- oxidizers declined. Trace gas oxidizers exhibited smaller genomes, lower 16S rRNA operon copy numbers, and slower
+L133:
+L134: predicted growth rates, indicative of oligotrophic lifestyles. In contrast, copiotrophic non- oxidizers had larger genomes and faster
+L135:
+L136: growth rates. These findings reveal that microbial communities adapt their genomic traits and energy- acquisition strategies to
+L137: sustain functionality across aridity gradients, enhancing our understanding of soil microbiome responses to climate change.
+L138:
+L139: 1 | Introduction
+L140:
+L141: Aridification is one of the most pressing global challenges of this
+L142:
+L143: century and threatens terrestrial biodiversity, food security, and
+L144:
+L145: ecosystem functions (Tariq etal.2024). In the context of climate
+L146:
+L147: change, elevated temperatu re, abnormal precipitation, increased
+L148:
+L149: evaporation, and groundwater depletion have contributed to the
+L150: expansion of arid regions at a rate of 14.3 × 10 4 km 2 over the past
+L151:
+L152: three decades (UN2024). By 2050, more than 70% of arable land
+L153:
+L154: is expected to face the impacts of severe drought (IPCC 2022).
+L155:
+L156: Drought- induced water scarcity and reduced carbon (C) avail-
+L157:
+L158: ability jeopardize the survival of soil microbial communities
+L159:
+L160: © 2025 John Wiley & Sons Ltd.
+L161:
+L162: 2 of 14 Global Change Biology, 2025
+L163:
+L164: and impair their ecological functions (Wang et al. 2014; Hu
+L165: etal.2021; Kong etal.2022). Understanding the survival strat-
+L166:
+L167: egies of microbiomes under drought stress is therefore critical
+L168:
+L169: for predicting and mitigating the impacts of climate change on
+L170:
+L171: terrestrial ecosystems.
+L172:
+L173: Genomic trait variation is a fundamental mechanism of mi-
+L174:
+L175: crobial adaptation to environmental stress. Key traits such as
+L176:
+L177: average genome size, GC content, and rRNA gene copy num-
+L178:
+L179: bers have been established as critical indicators for capturing
+L180: microbial life history strategies and resource allocation patterns
+L181:
+L182: (Gallet etal. 2017; Pereira- Flores et al. 2019; Luan etal.2020).
+L183:
+L184: Although drought stress has been shown to have profound ef-
+L185:
+L186: fects on genomic traits, its specific effects remain controver-
+L187:
+L188: sial. Early evidence from organismal metabolism suggests that
+L189:
+L190: elevated temperatures enhance the reproduction rates and
+L191:
+L192: metabolic processes of microbial communities. Consequently,
+L193:
+L194: Copiotrophs whose genomes encode more ribosomal rRNA
+L195: genes supporting rapid growth become resource- dependent to
+L196:
+L197: prioritize reproduction and rapidly occupy ecological niches
+L198:
+L199: (Roller etal. 2016). As predicted by the Red Queen Hypothesis
+L200:
+L201: (RQH), microbial communities increase their functional com-
+L202:
+L203: plexity through genomic expansion, proposing that microbes
+L204:
+L205: invest in diverse resource acquisition strategies to accelerate
+L206:
+L207: growth, which is favorable for survival and colonization in chal-
+L208:
+L209: lenging environments (Hall and Scanlan 2011). By contrast,
+L210: some researchers have found that drought and associated envi-
+L211:
+L212: ronmental changes, such as water limitation, impose selection
+L213:
+L214: pressures on microbial communities (Banerjee etal.2019; Ullah
+L215:
+L216: etal.2018). Oligotrophs, which are more competitive at the ex-
+L217:
+L218: pense of growth due to their higher resource- use efficiency, are
+L219:
+L220: linked to energy- efficient strategies (Chen and Kushwaha2021).
+L221:
+L222: This aligns with the evolutionary framework of the Black
+L223:
+L224: Queen Hypothesis (BQH), which emphasizes microbial genome
+L225: streamlining to enhance resource- use efficiency and reduce en-
+L226:
+L227: ergy costs (Giovannoni etal. 2014). Similarly, drought restricts
+L228:
+L229: microbial energy availability by reducing plant productivity and
+L230:
+L231: organic C content, which can also drive genome streamlining
+L232:
+L233: (Flagg etal.2023). Therefore, in contrast to the RQH, microbial
+L234:
+L235: genome size may decrease in increasingly arid environments,
+L236:
+L237: with oligotrophs becoming more prevalent.
+L238:
+L239: Cyanobacteria and microalgae are traditionally regarded as pri-
+L240: mary producers in soils—capable of generating organic C to sup-
+L241:
+L242: port organoheterotrophic bacteria (Cary etal. 2010). However,
+L243:
+L244: evidence from deserts and arid ecosystems indicates that these
+L245:
+L246: photoautotrophic producers are extremely scarce, limiting their
+L247:
+L248: ability to supply sufficient energy to the microbial community
+L249:
+L250: (Pointing and Belnap 2012; Bay, Waite, and Hugenholtz2021).
+L251:
+L252: Growing evidence indicates that certain soil microbial mem-
+L253:
+L254: bers can scavenge atmospheric trace gases (H 2 and CO) for sur-
+L255: vival or as alternative energy sources. For example, in volcanic
+L256:
+L257: craters (Weber and King 2010; Greening etal.2015), Antarctic
+L258:
+L259: dry valleys (Cary etal.2010), and arid deserts (Ji etal.2 017; Li
+L260:
+L261: etal.2023), these gases are considered dominant energy sources
+L262:
+L263: that microbes highly rely on. This unconventional energy ac-
+L264:
+L265: quisition strategy challenges the conventional view that soil
+L266:
+L267: microbial communities in arid ecosystems primarily rely on
+L268: phototrophy (Bay, Waite, and Hugenholtz2021). Although nu-
+L269:
+L270: merous studies have highlighted the critical role of trace gas
+L271:
+L272: oxidation in sustaining microbial energy demands, such reports
+L273:
+L274: have predominantly focused on regional scales and limited
+L275:
+L276: metagenome- assembled genomes (MAGs, typically < 100), with
+L277:
+L278: few addressing life history strategies of microbes utilizing these
+L279:
+L280: distinct energy sources. A recent study from arid ecosystems
+L281:
+L282: has shown that the oxidation rates of trace gases increase along
+L283: an aridity gradient and correlate with reduced organic C (Li
+L284:
+L285: etal.2023). In more arid, C- limited habitats, trace gas- oxidizing
+L286:
+L287: microbes may confer a competitive advantage. Similarly, or-
+L288:
+L289: ganic C has been demonstrated to influence microbial life strat-
+L290:
+L291: egies (Leung etal.2020), as oligotrophs commonly inhabit these
+L292:
+L293: nutrient- poor environments and are more likely to utilize trace
+L294:
+L295: gases as an energy source, thereby sustaining local ecosystem
+L296: functions (Greening and Grinter 2022). Therefore, integrating
+L297:
+L298: trace gas oxidation capacity with survival strategies of oligotro-
+L299:
+L300: phic microbes when exploring aridity gradients is scientifically
+L301:
+L302: justified.
+L303:
+L304: Here, we assessed how soil microbes modulate their genomic
+L305:
+L306: traits and energy utilization in response to increasing aridity.
+L307:
+L308: We hypothesize that: (i) consistent with a strategy of genome
+L309:
+L310: streamlining, soil microbes in arid environments exhibit ge-
+L311: nomic traits associated with low energy investment, including
+L312:
+L313: smaller genome sizes, lower GC content, and fewer 16S rRNA
+L314:
+L315: gene copies; (ii) as aridity increases, microbes intensify their re-
+L316:
+L317: liance on atmospheric trace gases (e.g., H 2, CO, CH 4, and H 2 S)
+L318:
+L319: to maintain soil functions in more arid habitats; and (iii) shifts
+L320:
+L321: in energy utilization strategies are closely linked to changes
+L322:
+L323: in microbial genomic traits and life history strategies. To test
+L324: these hypotheses, soil samples were collected along a natural
+L325:
+L326: aridity gradient spanning semi- humid forests, semi- arid grass-
+L327:
+L328: lands, and arid deserts. Binning- based metagenomic shotgun
+L329:
+L330: sequencing and energy utilization analyses were performed (Li
+L331:
+L332: etal.2023; Bay, Dong, etal.2021). Our study elucidates micro-
+L333:
+L334: bial survival mechanisms along an aridity gradient, providing
+L335:
+L336: a foundation for understanding soil microbiome responses to
+L337:
+L338: climate change.
+L339:
+L340: 2 | Materials and Methods
+L341: 2.1 | Site Description and Soil Sampling
+L342:
+L343: Soil samples were collected from northern China (34°48′–
+L344:
+L345: 39°70′ N, 104°13′–112°56′ E). The region has a monsoon conti-
+L346:
+L347: nental climate, with annual precipitation ranging from 750 mm
+L348:
+L349: in the southeast to 50 mm in the northwest. This climatic gra-
+L350:
+L351: dient produces differences in vegetation from southeast to
+L352:
+L353: northwest: forest (semi- humid, aridity index ≥ 0.50), gras sland
+L354:
+L355: (semi- arid, 0.20 ≤ aridity index ≤ 0.50), and desert (arid, arid-
+L356: ity index < 0.20). In August 2023, soil samples were collected
+L357:
+L358: from eight sites within each vegetation type (Figure 1a). To
+L359:
+L360: minimize the influence of human disturbance, each site was
+L361:
+L362: located at least 50 km from human habitation and at least 1 km
+L363:
+L364: from major roads. Six 1 × 1 m plots were established at each site,
+L365:
+L366: and soil cores were collected from five points within each plot
+L367:
+L368: (four corners and the center) at three depths (0–20, 20 –40, and
+L369:
+L370: 40–60 cm). All five samples collected from the same depth in
+L371: each plot were thoroughly mixed to create a composite sam-
+L372:
+L373: ple, resulting in a total of 72 soil samples (24 sites × 3 depths).
+L374:
+L375: Each sample was then passed through a 2- mm sieve, homog-
+L376:
+L377: enized, and divided into three portions: one was air- dried for
+L378: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L379:
+L380: 3 of 14
+L381:
+L382: physicochemical analysis, one was stored at 4°C for ex situ trace
+L383:
+L384: gas oxidation rate measurements, and one was stored at −80°C
+L385: for DNA extraction and sequencing. Plant diversity, biomass,
+L386:
+L387: and soil properties (moisture, organic C, total N, pH, available P,
+L388:
+L389: available K, and sand content) were also measured, as described
+L390:
+L391: in AppendixS1, Methods S1.
+L392:
+L393: 2.2 | DNA Extraction, Shotgun Metagenomic
+L394:
+L395: Sequencing, and MAG Recovery
+L396:
+L397: Total genomic DNA was extracted from 0.5 g of soil using a
+L398:
+L399: FastDNA SPIN Kit (MP Biochemicals, Solon, OH, USA) accord-
+L400:
+L401: ing to manufacturer's instructions. Metagenomic shotgun se-
+L402: quencing was perfor med using the Nova seq platform at Majorbio
+L403:
+L404: Biotechnology Co. Ltd., with a sequencing depth of 10 Gb per
+L405:
+L406: sample. Raw sequencing data were trimmed and filtered, and
+L407:
+L408: clean sequences were assembled into contigs using MEGAHIT
+L409:
+L410: v1.1.3 (Li etal. 2015). Redundant contigs were removed using
+L411:
+L412: MMseq2 (Steinegger and Söding2017), and open reading frames
+L413:
+L414: (ORFs) were predicted using MetaGeneMark (Zhu etal.2010).
+L415:
+L416: Non- redundant protein- coding sequences were quantified with
+L417: Salmon v1.5.2 to calculate transcripts per million (TPM) val-
+L418:
+L419: ues for each gene (Patro etal. 2 017). To recover metagenome-
+L420:
+L421: assembled genomes (MAGs), sequencing data from soil samples
+L422:
+L423: collected from the same habitat and depth were combined.
+L424:
+L425: Contigs were binned using the metaWRAP pipeline, integrating
+L426:
+L427: MetaBAT2 v2.12.1 and MaxBin v2.2.6, with a minimum contig
+L428:
+L429: size of 1500 bp (Alneberg etal. 2014). Bin quality was assessed
+L430:
+L431: using CheckM v1.1.2 based on completeness and contamina-
+L432: tion estimates (Parks etal.2015). Bins with > 90% completeness
+L433:
+L434: and < 5% contamination were classified as high- quality MAGs,
+L435:
+L436: while those with > 50% completeness and < 10% contamination
+L437:
+L438: were considered medium quality; bins outside these thresh-
+L439:
+L440: olds were excluded. Genes within each MAG were annotated
+L441:
+L442: against the KEGG and CA Zy databases. Detailed metagenomic
+L443:
+L444: FIGUR E  | Recovery of MAGs and the main metabolic pathways in the samples. (a) Locations of sampling sites. (b) Composition and the relative
+L445: abundance of MAGs recovered from three habitats at the phylum level. The pie charts show the relative abundance of MAGs in different soil depths
+L446:
+L447: (0–20, 20 –40, and 4 0–60 cm) in each habitat. The phylogenetic relationships of de- redundant assembled M AGs are shown in AppendixS1, FigureS1.
+L448:
+L449: (c) Functional potential annotation of MAGs. The ability of the assembled genomes at the phylum level to participate in aerobic respiration, trace gas
+L450: oxidation (H 2, CO, CH 4, and H 2 S), carbon fixation, N cycling, and S cycling. T he numbers in parentheses within the bar charts represent the number
+L451:
+L452: of genomes in which each specific gene was detected (out of the total 374 genomes analyzed). (b, c) use the same color classification (as indicated in
+L453:
+L454: the legend in the bottom right corner).
+L455: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L456:
+L457: 4 of 14 Global Change Biology, 2025
+L458:
+L459: data processing and MAG recovery procedures are provided in
+L460:
+L461: AppendixS1, Methods S2 and S3.
+L462: Based on gene annotation of the assembled genomes, we as-
+L463:
+L464: sessed microbial metabolic potential and energy utilization. For
+L465:
+L466: this analysis, we mainly selected gene families that code for ox-
+L467:
+L468: idative enzymes supporting aerobic respiration as well as genes
+L469:
+L470: related to biogeochemical cycling, including C fixation pathways
+L471:
+L472: (the Calvin- Benson- Bassham cycle, the 3- Hydroxypropionate
+L473:
+L474: bi- cycle, the Wood- Ljungdahl pathway, Crassulacean acid me-
+L475:
+L476: tabolism, and the reductive citrate cycle, containing 8 gene
+L477: families), N cycling pathways (nitrification and denitrification,
+L478:
+L479: containing 11 gene families), and S cycling pathways (oxidation
+L480:
+L481: or reduction of elemental sulfur (H 2 S), thiosulfate, and sulfite,
+L482:
+L483: containing 18 gene families).
+L484:
+L485: To explore microbial potential for utilizing different energy
+L486:
+L487: sources in response to aridity, we focused on gene annotations
+L488:
+L489: related to carbohydrate use and inorganic trace gas oxidation.
+L490:
+L491: We focused on genes related to four major organic energ y sources
+L492: (the TCA cycle, pentose phosphate pathway, glycolysis, and the
+L493:
+L494: Entner–Doudoroff pathway) and four inorganic energy sources
+L495:
+L496: (H 2 oxidation, CO oxidation, CH 4 oxidation, and H 2 S oxidation).
+L497:
+L498: To visualize the high- affinity trace gas oxidase subgroups, a
+L499:
+L500: neighbor- joining phylogenetic tree was constructed by aligning
+L501:
+L502: retrieved sequences with reference sequences of type strains in
+L503:
+L504: the NCBI Protein Data Bank using ClustalW in MEGA7 (Kumar
+L505:
+L506: etal.2016).
+L507:
+L508: 2.3 | Genomic Traits Calculation
+L509: Microbial genomic traits were calculated using established
+L510:
+L511: methods. Average 16S rRNA gene copy number and genome size
+L512:
+L513: were estimated following Pereira- Flores etal.(2019), and aver-
+L514:
+L515: age GC content was calculated using Quast v5.2.0 (Barberán
+L516:
+L517: et al. 2012). Codon usage bias was determined as the inverse
+L518:
+L519: of the average number of effective codons across all ribosomal
+L520:
+L521: genes (Boon etal.2014). Minimum generation time (h) was pre-
+L522:
+L523: dicted based on codon usage bias using Vieira- Silva's method
+L524: (Vieira- Silva and Rocha 2010), and the maximum growth rate
+L525:
+L526: (h−1) was derived as the reciprocal of the minimum generation
+L527:
+L528: time (Vieira- Silva etal.2016). Additionally, average gene num-
+L529:
+L530: ber was calculated by dividing the total number of genes by
+L531:
+L532: the number of genomes in the metagenome, and gene density
+L533:
+L534: was computed by dividing the total number of genes by the ge-
+L535:
+L536: nome size.
+L537:
+L538: 2.4 | Trace Gas Oxidation Rate Measurement
+L539:
+L540: For each field- collected sample, 5 g of fresh soil was placed
+L541: into 150 mL sterile serum bottles and sealed with butyl rubber
+L542:
+L543: stoppers. Trace gases (H 2, CO, CH 4, and H 2 S) were added to
+L544:
+L545: achieve initial headspace concentrations of approximately 60,
+L546:
+L547: 20, 60, and 10 ppmv, respectively (with reference to their com-
+L548:
+L549: ponent concentrations in the atmosphere). Headspace gas sam-
+L550:
+L551: ples (2 mL per sample) were collected at 0, 3, 8, 24, 48, and 72 h
+L552:
+L553: using a gas- tight syringe (SiGma, A- 2, Germany) (Greening and
+L554: Grint er 2022). Each sample was analyzed in triplicate, except
+L555:
+L556: for samples collected from autoclaved control soil. Bottles were
+L557:
+L558: sealed with plastic film to prevent gas leaks during sampling.
+L559:
+L560: Gas concentrations were measured using a gas chromatograph
+L561:
+L562: (GC- 2030, Shimadzu, Japan). The detailed measurement pro-
+L563:
+L564: cess of trace gas oxidation rates is described in the AppendixS1,
+L565:
+L566: Methods S4.
+L567:
+L568: 2.5 | Statistical Analyses
+L569:
+L570: After testing for normality (shapiro.test) and homogeneity
+L571: of variance (bartlett.test), analysis of variance (ANOVA) or
+L572:
+L573: Kruskal–Wallis nonparametric tests were used, with logarith-
+L574:
+L575: mic transformations where necessary (Li etal.2021). Principal
+L576:
+L577: coordinate analysis (PCoA) based on Bray- Curtis distance and
+L578:
+L579: permutation multivariate analysis of variance (PERMANOVA)
+L580:
+L581: were used to assess differences in the functional composition
+L582:
+L583: of microorganisms and to evaluate their significance using the
+L584:
+L585: “vegan” package. Random forest models were used to predict
+L586: the significance of factors influencing changes in the abun-
+L587:
+L588: dance of different energy- utilizing genes, with higher values
+L589:
+L590: of MSE (mean squared error) used to assess the importance of
+L591:
+L592: predictor variables. Significance was assessed using 5000 per-
+L593:
+L594: mutations of the response variables using the “randomForest”
+L595:
+L596: and “rfPermute” packages. Structural equation modeling (SEM)
+L597:
+L598: was developed to further determine the direct and indirect ef-
+L599:
+L600: fects of climatic factors, soil properties, plant variables, and ge-
+L601: nomic traits on microbial energy metabolism gene abundance.
+L602:
+L603: We began with a hypothetical conceptual model (Figure S12)
+L604:
+L605: that contained all plausible pathways. Non- significant pathways
+L606:
+L607: and covariances were then sequentially removed, and additional
+L608:
+L609: correlations were introduced based on model residuals where
+L610:
+L611: appropriate. Model fit was assessed using four metrics: χ 2/df,
+L612:
+L613: p- value, Root Mean Square Error of Approximation (RMSEA),
+L614:
+L615: and Goodness of Fit Index (GFI) (Põlme and Abarenkov2021).
+L616: Sankey diagrams illustrating the taxonomic classification of
+L617:
+L618: trace gas- oxidizing microorganisms were generated using the
+L619:
+L620: “ggsankey” package. Ordinary least squares linear regression
+L621:
+L622: analysis revealed the relationship between genomic traits and
+L623:
+L624: the abundance of genes involved in carbohydrate utilization and
+L625:
+L626: trace gas oxidation (“ggpmisc” packages). All analyses were per-
+L627:
+L628: formed using R software (version v4.3.3; http:// www. r- proje ct.
+L629:
+L630: org/ ) and visualized using the “ggplot2” package.
+L631: 3 | Results
+L632:
+L633: 3.1 | Metabolic Potential and Genomic Traits
+L634:
+L635: of Recovered MAGs
+L636:
+L637: A total of 723 moderate- to high- quality microbial genomes
+L638:
+L639: (completeness ≥ 50 %, contam ination ≤ 10%) were recovered,
+L640:
+L641: mapping to an average of 18.4% of reads per metagenome. After
+L642:
+L643: deduplication at 99% nucleotide identity, 374 non- redundant
+L644:
+L645: MAGs (287 bacterial and 87 archaeal) were selected (FigureS1).
+L646:
+L647: These MAGs spanned 13 phyla, primarily Actinomycetota
+L648:
+L649: (117 MAGs), Pseudomonadota (98), Thermoproteota (87),
+L650: Acidobacteriota (22), Chloroflexota (11), Gemmatimonadota
+L651:
+L652: (11), and Planctomycetota (7). Most MAGs could not be classi-
+L653:
+L654: fied at the species level, indicating the presence of numerous
+L655:
+L656: previously unidentified microbial taxa. The relative abundance
+L657:
+L658: of Actinomycetota increased significantly with aridity and
+L659: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L660:
+L661: 5 of 14
+L662:
+L663: soil depth, while the relative abundances of Pseudomonadota,
+L664:
+L665: Thermoproteota, and Acidobacteriota decreased (Figure1b).
+L666: Genomic metabolic analyses revealed diverse metabolic path-
+L667:
+L668: ways across microbial lineages (Figure 1). Terminal oxidase
+L669:
+L670: genes for aerobic respiration were identified in all 13 phyla
+L671:
+L672: (Figure1c). Most MAGs harbored CO 2 f ixation pat hways, includ-
+L673:
+L674: ing the Calvin- Benson- Bassham cycle, the 3- Hydroxypropionate
+L675:
+L676: bi- cycle, the Wood–Ljungdahl pathway, Crassulacean acid me-
+L677:
+L678: tabolism, and the reductive citrate cycle. Genes encoding at-
+L679:
+L680: mospheric trace gas oxidases were widespread. Phylogenetic
+L681: analysis showed that most hydrogenases (hupL, hhyL, and
+L682:
+L683: hhyS) belonged to high- affinity [NiFe] groups 1h, 1d, and 2a
+L684:
+L685: (Figures1c and S2), while all CO dehydrogenases (coxL, coxS,
+L686:
+L687: and coxM) were classified as type I, supporting atmospheric
+L688:
+L689: H 2 and CO oxidation (Figures1c and S3). Particulate methane
+L690:
+L691: monooxygenase (pMMO) (Figures 1c and S4) and sulfide: qui-
+L692:
+L693: none oxidoreductase (encoded by fccA and fccB, functionally
+L694:
+L695: analogous to flavocytochrome c sulfide dehydrogenase, sqr)
+L696: (Figures1c and S5) facilitated CH 4 and H 2 S oxidation, respec-
+L697:
+L698: tively. Genes involved in ammonia oxidation, N cycling, and S
+L699:
+L700: cycling were also identified (Figure1c).
+L701:
+L702: Microbial genome traits vary significantly along the aridity
+L703:
+L704: gradient (Figure2). Average genome size, 16S rRNA gene copy
+L705:
+L706: number, GC content, codon usage bias, and gene number de-
+L707:
+L708: creased with increasing aridity (Figure 2a–e), while gene den-
+L709:
+L710: sity increased (Figure2f). Across habitats, these traits exhibited
+L711: consistent trends with soil depth, with samples collected from 0
+L712:
+L713: to 20 cm marked by larger genome sizes, more 16S rRNA gene
+L714:
+L715: copies, and higher GC content compared to samples taken from
+L716:
+L717: 20 to 40 and 40 to 60 cm. However, soil depth did not have a sig-
+L718:
+L719: nificant effect on codon usage bias, gene count, or gene density.
+L720:

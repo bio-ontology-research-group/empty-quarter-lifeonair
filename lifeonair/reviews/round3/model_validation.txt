@@ -1,0 +1,25 @@
+   variant excluded genomes growth_genomes genera carriers_1l carriers_1h
+1 baseline        2    5436           4814    289         597         410
+2 excluded      387    5051           4430    281         594         395
+    variant family                 model    term   n   estimate        se
+14 baseline  genus                phylum frac_1l 289 -0.8118325 0.1798606
+19 baseline  genus                 order frac_1l 289 -1.0348779 0.2211188
+23 baseline    CBB          within_order    is1l 927  0.7252714 0.3925610
+24 baseline    CBB completeness_adjusted    is1l 927  0.9630141 0.4151152
+25 baseline    CBB                  hc90    is1l 512  1.2912154 0.5395215
+39 excluded  genus                phylum frac_1l 281 -0.7695843 0.1791280
+44 excluded  genus                 order frac_1l 281 -0.9637940 0.2149472
+48 excluded    CBB          within_order    is1l 911  0.7857397 0.4010156
+49 excluded    CBB completeness_adjusted    is1l 911  1.0364822 0.4250988
+50 excluded    CBB                  hc90    is1l 501  1.4945177 0.5737114
+   singular
+14       NA
+19       NA
+23    FALSE
+24    FALSE
+25    FALSE
+39       NA
+44       NA
+48    FALSE
+49    FALSE
+50    FALSE

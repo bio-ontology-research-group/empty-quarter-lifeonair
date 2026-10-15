@@ -1,0 +1,85 @@
+Gapseq-first predictive feasibility pilot — 12 October 2026
+Specified before model phenotypes or their ecological associations are inspected.
+
+Aim: test whether gapseq-derived metabolic traits improve prediction of relative
+root-versus-bulk abundance responses. Gapsmith is not an input or validity gate.
+Use existing gapseq reconstructions only when original input contig sequences
+exactly match current representatives. Model availability determines scope.
+
+Select at most 60 MAGs: 20 order-matched triplets of group-1l, group-1h and neither
+controls. Require >=90% completeness, <=5% contamination, no R3 contamination
+flags, no contig-subset IDs. Carrier groups exclude 1l/1h/2a co-carriage; neither
+also excludes form-I CoxL. Use the previously frozen taxonomy/quality/marker
+inventory but not gapsmith phenotypes. Prioritise within-genus/family matching
+and genome quality, distribute triplets across all available orders before
+adding a second/third triplet, and do not use abundance responses in selection.
+Scope initially restricted to single-sample MAGs with traceable gapseq inputs.
+
+Run draft and filled gapseq models. Keep original models unchanged. Close biomass
+for ATP-maintenance tests; close non-exchange boundary reactions. Run closed,
+inorganic, permissive-growth and native-medium controls. Separate solver failure
+from optimal zero. Equal-organic-carbon panel of 12 substrates as in the earlier
+pilot, oxygen cap 10. Test ATP maintenance and growth with common mineral/trace
+metal medium. Growth failure is a model/media limitation unless positive controls
+and biosynthetic requirements are reconciled. ATP features do not claim growth.
+
+Primary predictor set (fixed, no feature search): ATP substrate breadth /12 and
+log1p ATP production on a mixture of all 12 substrates at total 6 mmol organic
+C/gDW/h (equal carbon per substrate). Run carbon 0.06/0.6/6 and oxygen 0.1/1/10
+factorially as secondary diagnostics. H2 absent for primary traits: these tests
+must not simply reproduce the marker used to define the groups. Also record
+H2 benefit at zero organic carbon, but do not infer atmospheric affinity.
+
+Field response: CoverM relative-abundance percent, restricted to current
+high-quality read-screened samples (id_floor60, >=10 SCGs), root and depth-matched
+bulk. Median biological replicates in site x expedition x compartment. For each
+MAG and paired visit compute log2((root+epsilon)/(bulk+epsilon)), epsilon0.001
+percentage points, with 0.0001 and0.01 sensitivities. Do not renormalise to the
+selected MAG panel. Require detection >=0.01% in either compartment in >=5 paired
+visits across >=3 sites, assessed without using response direction. Both-zero
+visits are excluded from that MAG's fit. Treat the response as relative only.
+
+Predict equal-site-weighted mean responses for each MAG. Baseline predictors:
+log predicted doubling time (missingness indicator and training-only median
+imputation), log genome length, completeness, contamination, marker group and
+order. Use fixed ridge penalty10 with training-only continuous scaling and
+categorical encoding; compare the baseline with baseline+the two metabolic
+traits. No model/hyperparameter/feature selection based on pilot performance.
+
+Validation A: five deterministic grouped folds by genus (unassigned genera are
+kept together within their family/order). Train on all sites for training genera,
+predict held-out genera's across-site response. Validation B: five grouped site
+folds; fit MAG-level training-site means and predict test-site means. B measures
+geographic repeatability for represented MAGs, not novel-lineage generalisation.
+Require >=3 sites on each side for a MAG in B. Evaluate MSE improvement and fold
+consistency; also report baseline-relative MAE. All splitting is group-aware.
+Use 199 within-order shuffles of the paired metabolic trait vector to benchmark
+improvement while preserving marker/quality/taxonomic baseline features.
+
+Pragmatic scale-up rule (not a claim of statistical confirmation): >=80% filled
+models pass energy QC and have positive ATP on at least one supplied carbon
+source; >=30 usable MAGs, >=15 genus groups and >=6 orders in the field analysis;
+>=5% lower cross-validated MSE in BOTH genus and site validation, improvement in
+>=3/5 folds of each, and combined improvement above the90th percentile of the
+within-order permutation null. Require positive improvement at both alternative
+pseudocounts; report draft sensitivity rather than requiring agreement with an
+incomplete draft. If criteria pass, extend to the remaining exact-match eligible
+gapseq MAGs, freeze the pilot as discovery, and evaluate the added cohort with
+pilot-selected specifications. Do not tune against the new cohort.
+
+If criteria fail, finish the pilot, report which gate failed, and do not scale
+automatically. A feasibility/representation failure is not a biological null.
+This is exploratory work using an already-studied field dataset, not prospective
+external validation. Traits are feasible capacities under assumed media.
+
+Implementation clarification before outcomes: require all five validation folds
+and at least30 distinct test MAGs in each validation scheme. The within-order
+shuffle is a heuristic screening reference, not a formal conditional-independence
+p-value. Taxonomic and quality covariates may correlate with metabolic traits.
+
+Cohort correction after the initial diagnostic run: apply the paper's established
+sites1-60 restriction (h123_v2.R line55). The initial implementation inadvertently
+included the site64 paired visit. Preserve the initial output and script under
+superseded_site_scope/. This is correction to the target study population, not
+selection based on the sign or predictive gain. All analysis choices and gates
+remain unchanged.

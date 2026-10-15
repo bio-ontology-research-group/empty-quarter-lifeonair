@@ -1,0 +1,10 @@
+variant	group	n	energy_qc_pass	rich_growth_positive	native_typed_h2_positive	carbon_ATP_breadth_median	carbon_growth_breadth_median	hydrogen_ATP_benefit_positive
+draft	1l	24	24	0	1	3.0	0.0	0
+draft	1h	24	24	0	0	5.0	0.0	0
+draft	neither	24	24	0	0	4.0	0.0	0
+filled	1l	24	24	24	1	6.0	0.0	0
+filled	1h	24	24	24	0	6.5	0.0	0
+filled	neither	24	24	24	0	6.0	0.0	1
+filled_grounded_h2	1l	24	24	23	1	6.0	0.0	0
+filled_grounded_h2	1h	24	24	21	0	6.5	0.0	0
+filled_grounded_h2	neither	24	24	24	0	6.0	0.0	0

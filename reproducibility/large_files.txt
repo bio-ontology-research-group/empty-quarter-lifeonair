@@ -1,0 +1,2 @@
+# Frozen derived inputs downloaded from the public release; see public_inputs.json.
+lifeonair/results/reads/per_sample_counts.tar.gz

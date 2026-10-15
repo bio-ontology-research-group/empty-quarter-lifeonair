@@ -1,0 +1,39 @@
+{
+  "panel": 36,
+  "paired_visits": 106,
+  "samples": 430,
+  "missing_coverm_samples": [],
+  "sites": 47,
+  "scenario_LPs": 3312,
+  "statuses": {
+    "optimal": 3312
+  },
+  "qc_fraction": 1.0,
+  "analysis_counts": [
+    {
+      "variant": "filled",
+      "models": 26,
+      "genera": 23,
+      "orders": 9
+    },
+    {
+      "variant": "draft",
+      "models": 26,
+      "genera": 23,
+      "orders": 9
+    }
+  ],
+  "checks": {
+    "model_qc": true,
+    "field_coverage": false,
+    "cv_coverage": false,
+    "predictive_gain": false,
+    "fold_consistency": false,
+    "permutation": false,
+    "pseudocount": false
+  },
+  "scale_up": false,
+  "combined_improvement": -0.020929862791014164,
+  "null_90th_percentile": 0.0023971457764421947,
+  "permutation_tail_fraction": 0.295
+}

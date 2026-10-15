@@ -1,0 +1,6 @@
+# Duplicate per-MAG simulation shards remain on IBEX.
+audit_[0-9]*.tsv
+scenarios_[0-9]*.tsv
+hashes_[0-9]*.tsv
+hydrogen_reactions_[0-9]*.tsv
+runtime_[0-9]*.json

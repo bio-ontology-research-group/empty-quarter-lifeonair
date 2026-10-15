@@ -1,0 +1,2551 @@
+sample_id	trip	compartment	dna_concentration	dna_kit	wgs_flag	wgs_library_kit
+1Dr1	Trip1	Deep	0.4565193607	PowerSoil	False	
+1Dr2	Trip1	Deep	5.403373084	PowerSoil	True	NEBNext
+1Dr3	Trip1	Deep		PowerSoil	False	
+1Sr1	Trip1	Surface	0.01451739141	Pro	False	
+1Sr2	Trip1	Surface	0.138	PowerSoil	False	
+1Sr3	Trip1	Surface	0.4157023472	PowerSoil	True	NEBNext
+1PRr1	Trip1	Rhizosphere	93.00846637	Pro	True	NEBNext
+1PRr2	Trip1	Rhizosphere	6.3147509	PowerSoil	False	
+1PRr3	Trip1	Rhizosphere	9.758590509	PowerSoil	False	
+2Dr1	Trip1	Deep			True	NEBNext
+2Dr2	Trip1	Deep	0.763	PowerSoil	False	
+2Dr3	Trip1	Deep			False	
+2Sr1	Trip1	Surface			False	
+2Sr2	Trip1	Surface			False	
+2Sr3	Trip1	Surface	0.8890955	PowerSoil	True	NEBNext
+2PRr1	Trip1	Rhizosphere	4.030660588	PowerSoil	False	
+2PRr2	Trip1	Rhizosphere	11.18929	Pro	True	NEBNext
+2PRr3	Trip1	Rhizosphere			False	
+3Dr1	Trip1	Deep			False	
+3Dr2	Trip1	Deep	0.07161913098	PowerSoil	False	
+3Dr3	Trip1	Deep	0.015228	PowerSoil	False	
+3Sr1	Trip1	Surface		PowerSoil	False	
+3Sr2	Trip1	Surface	0.0118663895	Pro	False	
+3Sr3	Trip1	Surface	0	Pro	False	
+3PRr1	Trip1	Rhizosphere	0.4743005274	PowerSoil	False	
+3PRr2	Trip1	Rhizosphere	1.946129958	Pro	False	
+3PRr3	Trip1	Rhizosphere	0.8313875	PowerSoil	True	NEBNext
+4Dr1	Trip1	Deep	0.8313875	PowerSoil	False	
+4Dr2	Trip1	Deep	3.763539045	Pro	True	NEBNext
+4Dr3	Trip1	Deep	1.319988554	Pro	False	
+4Sr1	Trip1	Surface	0.01906196612	Pro	False	
+4Sr2	Trip1	Surface			False	
+4Sr3	Trip1	Surface	0.3100830647	Pro	True	NEBNext
+4PRr1	Trip1	Rhizosphere	5.150896712	PowerSoil	True	NEBNext
+4PRr2	Trip1	Rhizosphere	0.3214445015	Pro	False	
+4PRr3	Trip1	Rhizosphere			False	
+5Dr1	Trip1	Deep	0.07149289279	Pro	False	
+5Dr2	Trip1	Deep	0.1324751944	PowerSoil	False	
+5Dr3	Trip1	Deep			False	
+5Sr1	Trip1	Surface	0.02398525538	Pro	False	
+5Sr2	Trip1	Surface	0.2982792315	PowerSoil	True	NEBNext
+5Sr3	Trip1	Surface	0.01405451806	Pro	False	
+5PRr1	Trip1	Rhizosphere			False	
+5PRr2	Trip1	Rhizosphere			False	
+5PRr3	Trip1	Rhizosphere			False	
+6Dr1	Trip1	Deep	2.488112571	Pro	True	NEBNext
+6Dr2	Trip1	Deep			False	
+6Dr3	Trip1	Deep		PowerSoil	False	
+6Sr1	Trip1	Surface	0	PowerSoil	False	
+6Sr2	Trip1	Surface	0.003702986795	Pro	False	
+6Sr3	Trip1	Surface			False	
+6PRr1	Trip1	Rhizosphere	1.187977463	PowerSoil	False	
+6PRr2	Trip1	Rhizosphere	3.389032426		True	NEBNext
+6PRr3	Trip1	Rhizosphere			False	
+7Dr1	Trip1	Deep		PowerSoil	False	
+7Dr2	Trip1	Deep	0	Pro	False	
+7Dr3	Trip1	Deep			False	
+7Sr1	Trip1	Surface	0.0446462	Pro	False	
+7Sr2	Trip1	Surface			False	
+7Sr3	Trip1	Surface	0.2021522296	PowerSoil	False	
+7PRr1	Trip1	Rhizosphere		PowerSoil	False	
+7PRr2	Trip1	Rhizosphere	0.7411280951	PowerSoil	True	NEBNext
+7PRr3	Trip1	Rhizosphere			False	
+8Dr1	Trip1	Deep	0.02395637794	PowerSoil	False	
+8Dr2	Trip1	Deep	0.00467081288976	Pro	False	
+8Dr3	Trip1	Deep			False	
+8Sr1	Trip1	Surface			False	
+8Sr2	Trip1	Surface	0.04165549298	PowerSoil	False	
+8Sr3	Trip1	Surface	0.010014896105973	Pro	False	
+8PRr1	Trip1	Rhizosphere	0	PowerSoil	False	
+8PRr2	Trip1	Rhizosphere	0.0347725038	PowerSoil	False	
+8PRr3	Trip1	Rhizosphere	0.007069338427745	Pro	False	
+9Dr1	Trip1	Deep	0.033579357531791	Pro	False	
+9Dr2	Trip1	Deep			False	
+9Dr3	Trip1	Deep			True	NEBNext
+9Sr1	Trip1	Surface	0	PowerSoil	False	
+9Sr2	Trip1	Surface			True	NEBNext
+9Sr3	Trip1	Surface	0	Pro	False	
+9PRr1	Trip1	Rhizosphere			False	
+9PRr2	Trip1	Rhizosphere	0.022470397145334	Pro	False	
+9PRr3	Trip1	Rhizosphere	0.035851644883566	Pro	False	
+10Dr1	Trip1	Deep	0.01115103978186	Pro	False	
+10Dr2	Trip1	Deep	0.023396143844205	Pro	False	
+10Dr3	Trip1	Deep			False	
+10Sr1	Trip1	Surface			False	
+10Sr2	Trip1	Surface	0.015569376299201	Pro	False	
+10Sr3	Trip1	Surface	0.009257466988714	Pro	False	
+10PRr1	Trip1	Rhizosphere			False	
+10PRr2	Trip1	Rhizosphere	0	Pro	False	
+10PRr3	Trip1	Rhizosphere	0.008500037871456	Pro	False	
+11Dr1	Trip1	Deep	0.025836748777594	Pro	False	
+11Dr2	Trip1	Deep			False	
+11Dr3	Trip1	Deep	5.34025399123065	Pro	True	NEBNext
+11Sr1	Trip1	Surface	0.004628733494357	Pro	False	
+11Sr2	Trip1	Surface	0.00324011344605	Pro	False	
+11Sr3	Trip1	Surface			False	
+11PRr1	Trip1	Rhizosphere		PowerSoil	False	
+11PRr2	Trip1	Rhizosphere	0	Pro	False	
+11PRr3	Trip1	Rhizosphere			True	NEBNext
+12Dr1	Trip1	Deep			False	
+12Dr2	Trip1	Deep	0.018514933977429	Pro	False	
+12Dr3	Trip1	Deep	0.004754971680567	Pro	False	
+12Sr1	Trip1	Surface	0.008331720289843	Pro	False	
+12Sr2	Trip1	Surface			False	
+12Sr3	Trip1	Surface	0	Pro	False	
+12PRr1	Trip1	Rhizosphere	0.014896105972749	Pro	False	
+12PRr2	Trip1	Rhizosphere			False	
+12PRr3	Trip1	Rhizosphere	0.062782457941644	Pro	False	
+13Dr1	Trip1	Deep	0.013128771365813	Pro	False	
+13Dr2	Trip1	Deep			False	
+13Dr3	Trip1	Deep	0.002945557678227	Pro	False	
+13Sr1	Trip1	Surface			False	
+13Sr2	Trip1	Surface	0.01321293015662	Pro	False	
+13Sr3	Trip1	Surface	0	Pro	False	
+13PRr1	Trip1	Rhizosphere			False	
+13PRr2	Trip1	Rhizosphere			False	
+13PRr3	Trip1	Rhizosphere			False	
+14Dr1	Trip1	Deep	0.014391153227911	Pro	False	
+14Dr2	Trip1	Deep		PowerSoil	False	
+14Dr3	Trip1	Deep	1.3103102934617	PowerSoil	True	NEBNext
+14Sr1	Trip1	Surface	0	PowerSoil	False	
+14Sr2	Trip1	Surface	0.415281553234643	Pro	True	NEBNext
+14Sr3	Trip1	Surface			False	
+14PRr1	Trip1	Rhizosphere	1.44454356479806	Pro	False	
+14PRr2	Trip1	Rhizosphere	7.17070769127189	Pro	True	NEBNext
+14PRr3	Trip1	Rhizosphere			False	
+15Dr1	Trip1	Deep	0.060720567566885	Pro	False	
+15Dr2	Trip1	Deep			False	
+15Dr3	Trip1	Deep	0.028193194920175	Pro	False	
+15Sr1	Trip1	Surface	0.047675954991879	Pro	False	
+15Sr2	Trip1	Surface	0.009898225933	PowerSoil	False	
+15Sr3	Trip1	Surface	0.011740151317506	Pro	False	
+15PRr1	Trip1	Rhizosphere	0.835654713313079	PowerSoil	False	
+15PRr2	Trip1	Rhizosphere	0.793996111863865	Pro	True	NEBNext
+15PRr3	Trip1	Rhizosphere	0.4523114211895	Pro	False	
+16Dr1	Trip1	Deep	0.038460567398568	Pro	False	
+16Dr2	Trip1	Deep			False	
+16Dr3	Trip1	Deep	0.017420869696944	Pro	False	
+16Sr1	Trip1	Surface	0.033789754508807	Pro	False	
+16Sr2	Trip1	Surface			False	
+16Sr3	Trip1	Surface	0.124765407370627	Pro	False	
+16PRr1	Trip1	Rhizosphere	0	PowerSoil	False	
+16PRr2	Trip1	Rhizosphere	0.04704476406083	Pro	False	
+16PRr3	Trip1	Rhizosphere	0.056428469235754	Pro	False	
+17Dr1	Trip1	Deep	0.02099761830622	Pro	False	
+17Dr2	Trip1	Deep	0.035912794091521	PowerSoil	False	
+17Dr3	Trip1	Deep	0.01152975434049	Pro	False	
+17Sr1	Trip1	Surface	0.015925991726098	PowerSoil	False	
+17Sr2	Trip1	Surface	0	Pro	False	
+17Sr3	Trip1	Surface	0.006648544473713	Pro	False	
+17PRr1	Trip1	Rhizosphere			False	
+17PRr2	Trip1	Rhizosphere	4.00928271462596	Pro	True	NEBNext
+17PRr3	Trip1	Rhizosphere		PowerSoil	False	
+18Dr1	Trip1	Deep	0.00828964089444	PowerSoil	False	
+18Dr2	Trip1	Deep	0.003045607979493	PowerSoil	False	
+18Dr3	Trip1	Deep	0.01283421559799	Pro	False	
+18Sr1	Trip1	Surface	0	Pro	False	
+18Sr2	Trip1	Surface	0.00336635163226	Pro	False	
+18Sr3	Trip1	Surface			False	
+18PRr1	Trip1	Rhizosphere	0.075784991121248	Pro	False	
+18PRr2	Trip1	Rhizosphere	9.11898369844222	Pro	True	NEBNext
+18PRr3	Trip1	Rhizosphere			False	
+19Dr1	Trip1	Deep			False	
+19Dr2	Trip1	Deep	0.002693081305808	PowerSoil	False	
+19Dr3	Trip1	Deep	0	Pro	False	
+19Sr1	Trip1	Surface	0	Pro	False	
+19Sr2	Trip1	Surface			False	
+19Sr3	Trip1	Surface	0.016953506293347	Pro	False	
+19PRr1	Trip1	Rhizosphere			False	
+19PRr2	Trip1	Rhizosphere	4.1109255929446	Pro	True	NEBNext
+19PRr3	Trip1	Rhizosphere	1.9163883894169	Pro	False	
+20Dr1	Trip1	Deep	1.28748180494905	Pro	False	
+20Dr2	Trip1	Deep	0	Pro	False	
+20Dr3	Trip1	Deep			False	
+20Sr1	Trip1	Surface	0.513014812912064	Pro	False	
+20Sr2	Trip1	Surface			False	
+20Sr3	Trip1	Surface	0	Pro	False	
+20PRr1	Trip1	Rhizosphere	0	Pro	False	
+20PRr2	Trip1	Rhizosphere	0.013699803065331	Pro	False	
+20PRr3	Trip1	Rhizosphere			False	
+21Dr1	Trip1	Deep			False	
+21Dr2	Trip1	Deep			False	
+21Dr3	Trip1	Deep			False	
+21Sr1	Trip1	Surface	0	Pro	False	
+21Sr2	Trip1	Surface			False	
+21Sr3	Trip1	Surface		PowerSoil	False	
+21PRr1	Trip1	Rhizosphere			False	
+21PRr2	Trip1	Rhizosphere			False	
+21PRr3	Trip1	Rhizosphere			False	
+22Dr1	Trip1	Deep	0.62218511858892	Pro	False	
+22Dr2	Trip1	Deep	0.033222022433428	Pro	False	
+22Dr3	Trip1	Deep	0.004187710971803	PowerSoil	False	
+22Sr1	Trip1	Surface	0	Pro	False	
+22Sr2	Trip1	Surface			False	
+22Sr3	Trip1	Surface	0	Pro	False	
+22PRr1	Trip1	Rhizosphere	0.069440876787396	Pro	False	
+22PRr2	Trip1	Rhizosphere			False	
+22PRr3	Trip1	Rhizosphere	0.041912835002997	Pro	False	
+23Dr1	Trip1	Deep	0	Pro	False	
+23Dr2	Trip1	Deep		PowerSoil	False	
+23Dr3	Trip1	Deep		PowerSoil	False	
+23Sr1	Trip1	Surface	0	Pro	False	
+23Sr2	Trip1	Surface			False	
+23Sr3	Trip1	Surface		PowerSoil	False	
+23PRr1	Trip1	Rhizosphere		PowerSoil	False	
+23PRr2	Trip1	Rhizosphere	1.84489254216971	Pro	True	NEBNext
+23PRr3	Trip1	Rhizosphere			False	
+24Dr1	Trip1	Deep	0.001712475383166	Pro	False	
+24Dr2	Trip1	Deep	0.067343094443017	Pro	False	
+24Dr3	Trip1	Deep			False	
+24Sr1	Trip1	Surface			False	
+24Sr2	Trip1	Surface		PowerSoil	False	
+24Sr3	Trip1	Surface	0.0673431	Pro	False	
+24PRr1	Trip1	Rhizosphere	9.12847846562206	PowerSoil	False	
+24PRr2	Trip1	Rhizosphere			True	NEBNext
+24PRr3	Trip1	Rhizosphere	0.079030738933128	PowerSoil	False	
+25Dr1	Trip1	Deep	0.007063960955561	Pro	False	
+25Dr2	Trip1	Deep			False	
+25Dr3	Trip1	Deep	0.004538059765391	Pro	False	
+25Sr1	Trip1	Surface	0	Pro	False	
+25Sr2	Trip1	Surface	0	Pro	False	
+25Sr3	Trip1	Surface			False	
+25PRr1	Trip1	Rhizosphere			False	
+25PRr2	Trip1	Rhizosphere	0.720224334275195	Pro	True	NEBNext
+25PRr3	Trip1	Rhizosphere			False	
+26Dr1	Trip1	Deep	0	Pro	False	
+26Dr2	Trip1	Deep	0	Pro	False	
+26Dr3	Trip1	Deep	0	PowerSoil	False	
+26Sr1	Trip1	Surface	0.012245882084211	PowerSoil	False	
+26Sr2	Trip1	Surface	0.004152752804178	Pro	False	
+26Sr3	Trip1	Surface	0	Pro	False	
+26PRr1	Trip1	Rhizosphere			False	
+26PRr2	Trip1	Rhizosphere	0.011559208836373	Pro	False	
+26PRr3	Trip1	Rhizosphere	0	Pro	False	
+27Dr1	Trip1	Deep	0	Pro	False	
+27Dr2	Trip1	Deep	0.120364965356209	PowerSoil	False	
+27Dr3	Trip1	Deep	0.057796044181865	Pro	False	
+27Sr1	Trip1	Surface			False	
+27Sr2	Trip1	Surface	0	Pro	False	
+27Sr3	Trip1	Surface	0	Pro	False	
+27PRr1	Trip1	Rhizosphere			True	NEBNext
+27PRr2	Trip1	Rhizosphere	0.141707337957017	Pro	False	
+27PRr3	Trip1	Rhizosphere			False	
+28Dr1	Trip1	Deep	0	Pro	False	
+28Dr2	Trip1	Deep			False	
+28Dr3	Trip1	Deep	0	Pro	False	
+28Sr1	Trip1	Surface		PowerSoil	False	
+28Sr2	Trip1	Surface	0	Pro	False	
+28Sr3	Trip1	Surface			False	
+28PRr1	Trip1	Rhizosphere		PowerSoil	False	
+28PRr2	Trip1	Rhizosphere	0	PowerSoil	False	
+28PRr3	Trip1	Rhizosphere	0.0288552	Pro	False	
+29Dr1	Trip1	Deep	0	Pro	False	
+29Dr2	Trip1	Deep	0	Pro	False	
+29Dr3	Trip1	Deep	0	PowerSoil	False	
+29Sr1	Trip1	Surface	0	Pro	False	
+29Sr2	Trip1	Surface	0	Pro	False	
+29Sr3	Trip1	Surface			False	
+29PRr1	Trip1	Rhizosphere			False	
+29PRr2	Trip1	Rhizosphere	0	Pro	False	
+29PRr3	Trip1	Rhizosphere	0.022334458516281	Pro	False	
+30Dr1	Trip1	Deep	0	Pro	False	
+30Dr2	Trip1	Deep			False	
+30Dr3	Trip1	Deep	0	Pro	False	
+30Sr1	Trip1	Surface	0	Pro	False	
+30Sr2	Trip1	Surface	0.012943833912845	PowerSoil	False	
+30Sr3	Trip1	Surface			False	
+30PRr1	Trip1	Rhizosphere	0.2375631	Pro	False	
+30PRr2	Trip1	Rhizosphere			False	
+30PRr3	Trip1	Rhizosphere	0.635028683962668	Pro	True	NEBNext
+31Dr1	Trip1	Deep			False	
+31Dr2	Trip1	Deep	0	Pro	False	
+31Dr3	Trip1	Deep	0	Pro	False	
+31Sr1	Trip1	Surface			False	
+31Sr2	Trip1	Surface	0.011302337528898	Pro	False	
+31Sr3	Trip1	Surface		PowerSoil	False	
+31PRr1	Trip1	Rhizosphere			False	
+31PRr2	Trip1	Rhizosphere	0.713374432742529	Pro	False	
+31PRr3	Trip1	Rhizosphere	1.13592773353883	Pro	True	NEBNext
+32Dr1	Trip1	Deep	0	Pro	False	
+32Dr2	Trip1	Deep			False	
+32Dr3	Trip1	Deep			False	
+32Sr1	Trip1	Surface	0	Pro	False	
+32Sr2	Trip1	Surface			False	
+32Sr3	Trip1	Surface	0	Pro	False	
+32PRr1	Trip1	Rhizosphere	0	PowerSoil	False	
+32PRr2	Trip1	Rhizosphere	0	PowerSoil	False	
+32PRr3	Trip1	Rhizosphere	0	Pro	False	
+33Dr1	Trip1	Deep	0	Pro	False	
+33Dr2	Trip1	Deep	0.00560835687987	PowerSoil	False	
+33Dr3	Trip1	Deep			False	
+33Sr1	Trip1	Surface	0	Pro	False	
+33Sr2	Trip1	Surface	0	Pro	False	
+33Sr3	Trip1	Surface			False	
+33PRr1	Trip1	Rhizosphere	0.016182892370922	Pro	False	
+33PRr2	Trip1	Rhizosphere	0	Pro	False	
+33PRr3	Trip1	Rhizosphere			False	
+34Dr1	Trip1	Deep			False	
+34Dr2	Trip1	Deep	0	Pro	False	
+34Dr3	Trip1	Deep	0.019950338213888	Pro	False	
+34Sr1	Trip1	Surface	0	Pro	False	
+34Sr2	Trip1	Surface			False	
+34Sr3	Trip1	Surface	0	Pro	False	
+34PRr1	Trip1	Rhizosphere	0.979664354824899		True	NEBNext
+34PRr2	Trip1	Rhizosphere			False	
+34PRr3	Trip1	Rhizosphere	0.833247709564175	Pro	False	
+35Dr1	Trip1	Deep			False	
+35Dr2	Trip1	Deep	0	Pro	False	
+35Dr3	Trip1	Deep	0.000899049576162	Pro	False	
+35Sr1	Trip1	Surface	0	Pro	False	
+35Sr2	Trip1	Surface	0.024507866234485	Pro	False	
+35Sr3	Trip1	Surface			False	
+35PRr1	Trip1	Rhizosphere	0.014111787493083		False	
+35PRr2	Trip1	Rhizosphere	0.096134081745593		False	
+35PRr3	Trip1	Rhizosphere		PowerSoil	False	
+36Dr1	Trip1	Deep			False	
+36Dr2	Trip1	Deep	0.195311882362242	Pro	False	
+36Dr3	Trip1	Deep	0.024468337417978	Pro	False	
+36Sr1	Trip1	Surface	0.015653411336865	PowerSoil	False	
+36Sr2	Trip1	Surface	0.070620035024492	PowerSoil	False	
+36Sr3	Trip1	Surface	0.001185864495217	Pro	False	
+36PRr1	Trip1	Rhizosphere	0.153490394497589	Pro	True	NEBNext
+36PRr2	Trip1	Rhizosphere	0.0152976519883	Pro	False	
+36PRr3	Trip1	Rhizosphere			False	
+37Dr1	Trip1	Deep			False	
+37Dr2	Trip1	Deep	0.022966242390703	Pro	False	
+37Dr3	Trip1	Deep	0.001818325559333	Pro	False	
+37Sr1	Trip1	Surface	0.005099217329433	Pro	False	
+37Sr2	Trip1	Surface	0.021898964345008	Pro	False	
+37Sr3	Trip1	Surface			False	
+37PRr1	Trip1	Rhizosphere			False	
+37PRr2	Trip1	Rhizosphere	1.2753972646059	Pro	True	NEBNext
+37PRr3	Trip1	Rhizosphere	0.425132421535299	Pro	False	
+38Dr1	Trip1	Deep			False	
+38Dr2	Trip1	Deep			False	
+38Dr3	Trip1	Deep	0.005454976677998	Pro	False	
+38Sr1	Trip1	Surface		PowerSoil	False	
+38Sr2	Trip1	Surface			False	
+38Sr3	Trip1	Surface	0.005020159696419	Pro	False	
+38PRr1	Trip1	Rhizosphere			False	
+38PRr2	Trip1	Rhizosphere	1.30148628350067	Pro	True	NEBNext
+38PRr3	Trip1	Rhizosphere		PowerSoil	False	
+39Dr1	Trip1	Deep	0.010040319392837	Pro	False	
+39Dr2	Trip1	Deep	0.020278282868211		False	
+39Dr3	Trip1	Deep		PowerSoil	False	
+39Sr1	Trip1	Surface		Pro	False	
+39Sr2	Trip1	Surface	0.011621472053127	Pro	False	
+39Sr3	Trip1	Surface	0	Pro	False	
+39PRr1	Trip1	Rhizosphere	0.09917780061665		False	
+39PRr2	Trip1	Rhizosphere	0.072840790842872	PowerSoil	False	
+39PRr3	Trip1	Rhizosphere	0.290734445410704	Pro	True	NEBNext
+40Dr1	Trip1	Deep		PowerSoil	False	
+40Dr2	Trip1	Deep	0.008024349750968	Pro	False	
+40Dr3	Trip1	Deep			False	
+40Sr1	Trip1	Surface		PowerSoil	False	
+40Sr2	Trip1	Surface	0.00442722744881	PowerSoil	False	
+40Sr3	Trip1	Surface	0.002213613724405	PowerSoil	False	
+40PRr1	Trip1	Rhizosphere			False	
+40PRr2	Trip1	Rhizosphere	0.013597912878488	Pro	False	
+40PRr3	Trip1	Rhizosphere	0.006482725907186	Pro	False	
+41Dr1	Trip1	Deep	0.036230044922718	PowerSoil	False	
+41Dr2	Trip1	Deep	0	Pro	False	
+41Dr3	Trip1	Deep	0.012491106016286	Pro	False	
+41Sr1	Trip1	Surface	0.039370701241205	Pro	False	
+41Sr2	Trip1	Surface		PowerSoil	False	
+41Sr3	Trip1	Surface	0.017629852162226	PowerSoil	False	
+41PRr1	Trip1	Rhizosphere	0.55201992252352	Pro	False	
+41PRr2	Trip1	Rhizosphere			True	Qiagen
+41PRr3	Trip1	Rhizosphere			False	
+42Dr1	Trip1	Deep	0.009091627796664	Pro	False	
+42Dr2	Trip1	Deep			False	
+42Dr3	Trip1	Deep	0.030832476875642	Pro	False	
+42Sr1	Trip1	Surface	0.02344058818879	Pro	False	
+42Sr2	Trip1	Surface	0.029172266582339	PowerSoil	False	
+42Sr3	Trip1	Surface		PowerSoil	False	
+42PRr1	Trip1	Rhizosphere	1.79006245553008	Pro	False	
+42PRr2	Trip1	Rhizosphere			True	Qiagen
+42PRr3	Trip1	Rhizosphere	1.02110352529124	PowerSoil	False	
+43Dr1	Trip1	Deep	0.055577516009171	Pro	False	
+43Dr2	Trip1	Deep	0.046169657680449	Pro	False	
+43Dr3	Trip1	Deep			False	
+43Sr1	Trip1	Surface	0	Pro	False	
+43Sr2	Trip1	Surface	0.02415210688592	Pro	False	
+43Sr3	Trip1	Surface			False	
+43PRr1	Trip1	Rhizosphere			False	
+43PRr2	Trip1	Rhizosphere	0.036761799351728	Pro	False	
+43PRr3	Trip1	Rhizosphere	1.25721400901257	Pro	True	NEBNext
+44Dr1	Trip1	Deep	0.831387528235324	PowerSoil	False	
+44Dr2	Trip1	Deep	1.20187366590244	Pro	True	NEBNext
+44Dr3	Trip1	Deep	0.017708909795241	Pro	False	
+44Sr1	Trip1	Surface	0.010870424539489	Pro	False	
+44Sr2	Trip1	Surface	0.024586923867499	Pro	False	
+44Sr3	Trip1	Surface			False	
+44PRr1	Trip1	Rhizosphere			False	
+44PRr2	Trip1	Rhizosphere	0.041189026800538	Pro	False	
+44PRr3	Trip1	Rhizosphere	0.025100798482094	Pro	False	
+45Dr1	Trip1	Deep	0.002885603605028	Pro	False	
+45Dr2	Trip1	Deep	0.307923656759981	PowerSoil	False	
+45Dr3	Trip1	Deep			False	
+45Sr1	Trip1	Surface	0.02229425251008	Pro	False	
+45Sr2	Trip1	Surface			False	
+45Sr3	Trip1	Surface	0.015608740894901	PowerSoil	False	
+45PRr1	Trip1	Rhizosphere	0	Pro	False	
+45PRr2	Trip1	Rhizosphere	7.96327772946478	Pro	True	Qiagen
+45PRr3	Trip1	Rhizosphere			False	
+46Dr1	Trip1	Deep	0	Pro	False	
+46Dr2	Trip1	Deep		PowerSoil	False	
+46Dr3	Trip1	Deep	0.017946082694284	Pro	False	
+46Sr1	Trip1	Surface	0.027116768123962	Pro	False	
+46Sr2	Trip1	Surface		PowerSoil	False	
+46Sr3	Trip1	Surface	0.011977231401692	Pro	False	
+46PRr1	Trip1	Rhizosphere	0.014744248557198	Pro	False	
+46PRr2	Trip1	Rhizosphere		PowerSoil	False	
+46PRr3	Trip1	Rhizosphere	0.273	Pro	True	NEBNext
+47Dr1	Trip1	Deep		PowerSoil	False	
+47Dr2	Trip1	Deep	0.012412048383271	Pro	False	
+47Dr3	Trip1	Deep	0.023322001739268	Pro	False	
+47Sr1	Trip1	Surface	0.029686141196933	Pro	False	
+47Sr2	Trip1	Surface		PowerSoil	False	
+47Sr3	Trip1	Surface	0.007826705668432	Pro	False	
+47PRr1	Trip1	Rhizosphere	0	Pro	False	
+47PRr2	Trip1	Rhizosphere	0.103723614514981	Pro	True	NEBNext
+47PRr3	Trip1	Rhizosphere		PowerSoil	False	
+48Dr1	Trip1	Deep		PowerSoil	False	
+48Dr2	Trip1	Deep	0.346470076685904	Pro	True	NEBNext
+48Dr3	Trip1	Deep			False	
+48Sr1	Trip1	Surface	5.04605107123093	PowerSoil	False	
+48Sr2	Trip1	Surface	65.4144596410783	Pro	True	Qiagen
+48Sr3	Trip1	Surface		PowerSoil	False	
+48PRr1	Trip1	Rhizosphere		PowerSoil	False	
+48PRr2	Trip1	Rhizosphere	16.1655071547158	PowerSoil	True	Qiagen
+48PRr3	Trip1	Rhizosphere			False	
+49Dr1	Trip1	Deep		PowerSoil	False	
+49Dr2	Trip1	Deep	3.25065222547237	Pro	True	NEBNext
+49Dr3	Trip1	Deep	0	Pro	False	
+49Sr1	Trip1	Surface			False	
+49Sr2	Trip1	Surface			False	
+49Sr3	Trip1	Surface	0.015020950272749	PowerSoil	False	
+49PRr1	Trip1	Rhizosphere	6.06	Pro	True	NEBNext
+49PRr2	Trip1	Rhizosphere	0.031425409123251	Pro	False	
+49PRr3	Trip1	Rhizosphere			False	
+50Dr1	Trip1	Deep	17.620167602182	Pro	True	NEBNext
+50Dr2	Trip1	Deep			False	
+50Dr3	Trip1	Deep		PowerSoil	False	
+50Sr1	Trip1	Surface	0.011068068622026	Pro	False	
+50Sr2	Trip1	Surface	0.054259408241709	PowerSoil	False	
+50Sr3	Trip1	Surface	0.006798956439244	Pro	False	
+50PRr1	Trip1	Rhizosphere	0.007629061585896	Pro	False	
+50PRr2	Trip1	Rhizosphere	0.159577832239703	Pro	True	NEBNext
+50PRr3	Trip1	Rhizosphere		PowerSoil	False	
+51Dr1	Trip1	Deep	0.716459799193612	Pro	True	NEBNext
+51Dr2	Trip1	Deep	0.007154715787809	Pro	False	
+51Dr3	Trip1	Deep	0.020120167602182	PowerSoil	False	
+51Sr1	Trip1	Surface	0.17759701530418	PowerSoil	True	NEBNext
+51Sr2	Trip1	Surface	0.023875405170369	Pro	False	
+51Sr3	Trip1	Surface	0.007629061585896	Pro	False	
+51PRr1	Trip1	Rhizosphere	0.014704719740691	Pro	False	
+51PRr2	Trip1	Rhizosphere		PowerSoil	False	
+51PRr3	Trip1	Rhizosphere	1.3082061823069	Pro	False	
+52Dr1	Trip1	Deep	0.032848446517511	Pro	False	
+52Dr2	Trip1	Deep	0	Pro	False	
+52Dr3	Trip1	Deep	0	PowerSoil	False	
+52Sr1	Trip1	Surface	0	Pro	False	
+52Sr2	Trip1	Surface	0	PowerSoil	False	
+52Sr3	Trip1	Surface	0	Pro	False	
+52PRr1	Trip1	Rhizosphere			False	
+52PRr2	Trip1	Rhizosphere			False	
+52PRr3	Trip1	Rhizosphere			False	
+53Dr1	Trip1	Deep	0	Pro	False	
+53Dr2	Trip1	Deep	0.008522727272727	PowerSoil	False	
+53Dr3	Trip1	Deep	0	Pro	False	
+53Sr1	Trip1	Surface	0.02604833546735	Pro	False	
+53Sr2	Trip1	Surface	0	Pro	False	
+53Sr3	Trip1	Surface			False	
+53PRr1	Trip1	Rhizosphere		PowerSoil	False	
+53PRr2	Trip1	Rhizosphere	0.056978233034571	PowerSoil	False	
+53PRr3	Trip1	Rhizosphere	0	Pro	False	
+54Dr1	Trip1	Deep	0	PowerSoil	False	
+54Dr2	Trip1	Deep	0.006121959026889	Pro	False	
+54Dr3	Trip1	Deep	0.004001280409731	Pro	False	
+54Sr1	Trip1	Surface	0	Pro	False	
+54Sr2	Trip1	Surface	0.007740920281211	PowerSoil	False	
+54Sr3	Trip1	Surface	0	Pro	False	
+54PRr1	Trip1	Rhizosphere	0.000920294494238	Pro	False	
+54PRr2	Trip1	Rhizosphere	0.055097631241998	PowerSoil	False	
+54PRr3	Trip1	Rhizosphere	0	Pro	False	
+55Dr1	Trip1	Deep	0	Pro	False	
+55Dr2	Trip1	Deep	13.4106514084507	Pro	True	Qiagen
+55Dr3	Trip1	Deep		PowerSoil	False	
+55Sr1	Trip1	Surface			False	
+55Sr2	Trip1	Surface	0	PowerSoil	False	
+55Sr3	Trip1	Surface	7.51276408450704	Pro	True	Qiagen
+55PRr1	Trip1	Rhizosphere	4.89192541613316	Pro	False	
+55PRr2	Trip1	Rhizosphere	12.9	PowerSoil	False	
+55PRr3	Trip1	Rhizosphere	0.063660371318822	Pro	False	
+56Dr1	Trip1	Deep	0.017005441741357	Pro	False	
+56Dr2	Trip1	Deep		PowerSoil	False	
+56Dr3	Trip1	Deep	0	Pro	False	
+56Sr1	Trip1	Surface	0	Pro	False	
+56Sr2	Trip1	Surface	0	Pro	False	
+56Sr3	Trip1	Surface	0.0010403	PowerSoil	False	
+56PRr1	Trip1	Rhizosphere			False	
+56PRr2	Trip1	Rhizosphere			False	
+56PRr3	Trip1	Rhizosphere			False	
+57Dr1	Trip1	Deep		PowerSoil	False	
+57Dr2	Trip1	Deep	0	Pro	False	
+57Dr3	Trip1	Deep	0.002200704225352	Pro	False	
+57Sr1	Trip1	Surface	0.004441421254802	Pro	False	
+57Sr2	Trip1	Surface	0.002200704225352	Pro	False	
+57Sr3	Trip1	Surface		PowerSoil	False	
+57PRr1	Trip1	Rhizosphere	0	Pro	False	
+57PRr2	Trip1	Rhizosphere		PowerSoil	False	
+57PRr3	Trip1	Rhizosphere	0.00520166453265	Pro	False	
+58Dr1	Trip1	Deep	0	Pro	False	
+58Dr2	Trip1	Deep		PowerSoil	False	
+58Dr3	Trip1	Deep	0	Pro	False	
+58Sr1	Trip1	Surface		PowerSoil	False	
+58Sr2	Trip1	Surface	0	Pro	False	
+58Sr3	Trip1	Surface	0.000240076824584	Pro	False	
+58PRr1	Trip1	Rhizosphere	0.022727272727273	Pro	False	
+58PRr2	Trip1	Rhizosphere	0.05	Pro	False	
+58PRr3	Trip1	Rhizosphere		PowerSoil	False	
+59Dr1	Trip1	Deep	0.019806338028169	Pro	False	
+59Dr2	Trip1	Deep	0.003601152368758	Pro	False	
+59Dr3	Trip1	Deep	1.16640440597954	PowerSoil	False	
+59Sr1	Trip1	Surface	0	Pro	False	
+59Sr2	Trip1	Surface	0	Pro	False	
+59Sr3	Trip1	Surface		PowerSoil	False	
+59PRr1	Trip1	Rhizosphere		PowerSoil	False	
+59PRr2	Trip1	Rhizosphere	0.006562099871959	Pro	False	
+59PRr3	Trip1	Rhizosphere	0.019486235595391	Pro	False	
+60Dr1	Trip1	Deep		PowerSoil	False	
+60Dr2	Trip1	Deep	0.02812900128041	Pro	False	
+60Dr3	Trip1	Deep	0	Pro	False	
+60Sr1	Trip1	Surface	0	Pro	False	
+60Sr2	Trip1	Surface	0	Pro	False	
+60Sr3	Trip1	Surface	0	PowerSoil	False	
+60PRr1	Trip1	Rhizosphere		PowerSoil	False	
+60PRr2	Trip1	Rhizosphere	0	Pro	False	
+60PRr3	Trip1	Rhizosphere			False	
+61Dr1	Trip1	Deep	0	PowerSoil	False	
+61Dr2	Trip1	Deep	0.019406209987196	Pro	False	
+61Dr3	Trip1	Deep	0.007802496798976	Pro	False	
+61Sr1	Trip1	Surface	0.001800576184379	PowerSoil	False	
+61Sr2	Trip1	Surface		PowerSoil	False	
+61Sr3	Trip1	Surface	0	Pro	False	
+61PRr1	Trip1	Rhizosphere	0.05237676056338	PowerSoil	False	
+61PRr2	Trip1	Rhizosphere	0.010643405889885	Pro	False	
+61PRr3	Trip1	Rhizosphere	0	Pro	False	
+62Dr1	Trip1	Deep	0.001160371318822	Pro	False	
+62Dr2	Trip1	Deep		PowerSoil	False	
+62Dr3	Trip1	Deep	0	Pro	False	
+62Sr1	Trip1	Surface	0	Pro	False	
+62Sr2	Trip1	Surface	0.009580975102155	PowerSoil	True	NEBNext
+62Sr3	Trip1	Surface	0	Pro	False	
+62PRr1	Trip1	Rhizosphere		PowerSoil	False	
+62PRr2	Trip1	Rhizosphere	0.17737676056338	Pro	True	NEBNext
+62PRr3	Trip1	Rhizosphere	0.144686299615877	Pro	False	
+63Dr1	Trip1	Deep			False	
+63Dr2	Trip1	Deep			False	
+63Dr3	Trip1	Deep	0.004481434058899	Pro	False	
+63Sr1	Trip1	Surface		PowerSoil	False	
+63Sr2	Trip1	Surface	0	Pro	False	
+63Sr3	Trip1	Surface	0	Pro	False	
+63PRr1	Trip1	Rhizosphere			False	
+63PRr2	Trip1	Rhizosphere	0.002920934699104	Pro	False	
+63PRr3	Trip1	Rhizosphere	0.003000960307298	Pro	False	
+64Dr1	Trip1	Deep			False	
+64Dr2	Trip1	Deep	8.3810419334187	Pro	False	
+64Dr3	Trip1	Deep	16.9357794494238	Pro	True	Qiagen
+64Sr1	Trip1	Surface	0.832626440460947	Pro	False	
+64Sr2	Trip1	Surface	1.15633002560819	Pro	False	
+64Sr3	Trip1	Surface	1.0446943021767	Pro	False	
+64PRr1	Trip1	Rhizosphere	74.1260803457106	PowerSoil	False	
+64PRr2	Trip1	Rhizosphere	89.731073943662	Pro	True	Qiagen
+64PRr3	Trip1	Rhizosphere	86.9301776568502	Pro	False	
+- Ctrl 1	Trip1		1.62848111395647	PowerSoil	False	
+- Ctrl 2	Trip1				False	
+- Ctrl 3	Trip1		3.26	PowerSoil	False	
+=+ Ctrl 1	Trip1		2.19	PowerSoil	False	
+=+ Ctrl 2	Trip1				False	
+=+ Ctrl 3	Trip1				False	
+- Ctrl PCR	Trip1				False	
+Extraction Ctrl	Trip1		0	PowerSoil	False	
+- Ctrl PCR 2	Trip1				False	
+Extraction Ctrl 2	Trip1		0	Pro	False	
+T1Dr1	Trip2	Deep	0.6052561008	PowerSoil	False	
+T1Dr2	Trip2	Deep	0.368	Pro	True	Qiagen
+T1Dr3	Trip2	Deep	0.329	Pro	False	
+T1Sr1	Trip2	Surface	0	Pro	False	
+T1Sr2	Trip2	Surface	0.03700724055	PowerSoil	False	
+T1Sr3	Trip2	Surface	0	Pro	False	
+T1PRr1	Trip2	Rhizosphere	7.63	Pro	False	
+T1PRr2	Trip2	Rhizosphere			True	Qiagen
+T1PRr3	Trip2	Rhizosphere	5.122106016	PowerSoil	False	
+T2Dr1	Trip2	Deep	0	Pro	False	
+T2Dr2	Trip2	Deep			True	Qiagen
+T2Dr3	Trip2	Deep	0	Pro	False	
+T2Sr1	Trip2	Surface	0	Pro	False	
+T2Sr2	Trip2	Surface	0.117	Pro	True	Qiagen
+T2Sr3	Trip2	Surface	0.1811924555	PowerSoil	False	
+T2PRr1	Trip2	Rhizosphere	23.29766693	PowerSoil	False	
+T2PRr2	Trip2	Rhizosphere			True	Qiagen
+T2PRr3	Trip2	Rhizosphere	39.3	Pro	False	
+T3Dr1	Trip2	Deep	0	Pro	False	
+T3Dr2	Trip2	Deep	0.009654062751	PowerSoil	False	
+T3Dr3	Trip2	Deep	0	Pro	False	
+T3Sr1	Trip2	Surface			False	
+T3Sr2	Trip2	Surface	0	Pro	False	
+T3Sr3	Trip2	Surface	0	Pro	False	
+T3PRr1	Trip2	Rhizosphere	0.0285152409	PowerSoil	False	
+T3PRr2	Trip2	Rhizosphere	0	Pro	False	
+T3PRr3	Trip2	Rhizosphere	0	Pro	False	
+T4Dr1	Trip2	Deep	0	Pro	False	
+T4Dr2	Trip2	Deep	0.02172164119	PowerSoil	False	
+T4Dr3	Trip2	Deep	0	Pro	False	
+T4Sr1	Trip2	Surface	0	Pro	False	
+T4Sr2	Trip2	Surface	0.01040582726	PowerSoil	False	
+T4Sr3	Trip2	Surface	0	Pro	False	
+T4PRr1	Trip2	Rhizosphere	1.936265308	PowerSoil	False	
+T4PRr2	Trip2	Rhizosphere	1.11	Pro	False	
+T4PRr3	Trip2	Rhizosphere			True	Qiagen
+T5Dr1	Trip2	Deep	0.094	Pro	False	
+T5Dr2	Trip2	Deep	1.62	Pro	False	
+T5Dr3	Trip2	Deep	2.73298901	PowerSoil	True	Qiagen
+T5Sr1	Trip2	Surface	1.18	Pro	False	
+T5Sr2	Trip2	Surface	2.65	Pro	True	Qiagen
+T5Sr3	Trip2	Surface	0.004441511637	PowerSoil	False	
+T5PRr1	Trip2	Rhizosphere			False	
+T5PRr2	Trip2	Rhizosphere			False	
+T5PRr3	Trip2	Rhizosphere			True	Qiagen
+T6Dr1	Trip2	Deep	0.02806829356	PowerSoil	False	
+T6Dr2	Trip2	Deep			False	
+T6Dr3	Trip2	Deep			True	Qiagen
+T6Sr1	Trip2	Surface	0	PowerSoil	False	
+T6Sr2	Trip2	Surface	0	Pro	False	
+T6Sr3	Trip2	Surface	0	Pro	False	
+T6PRr1	Trip2	Rhizosphere			True	Qiagen
+T6PRr2	Trip2	Rhizosphere	0.141	PowerSoil	False	
+T6PRr3	Trip2	Rhizosphere	14.3	Pro	False	
+T7Dr1	Trip2	Deep	0.0008045052293	PowerSoil	False	
+T7Dr2	Trip2	Deep	0	Pro	False	
+T7Dr3	Trip2	Deep			True	Qiagen
+T7Sr1	Trip2	Surface	0	Pro	False	
+T7Sr2	Trip2	Surface	0.003553209309	PowerSoil	False	
+T7Sr3	Trip2	Surface	0	Pro	False	
+T7PRr1	Trip2	Rhizosphere	0.186	Pro	True	Qiagen
+T7PRr2	Trip2	Rhizosphere	0.04505229284	PowerSoil	False	
+T7PRr3	Trip2	Rhizosphere	0	Pro	False	
+T8Dr1	Trip2	Deep	0	PowerSoil	True	Qiagen
+T8Dr2	Trip2	Deep	0	Pro	False	
+T8Dr3	Trip2	Deep			False	
+T8Sr1	Trip2	Surface			False	
+T8Sr2	Trip2	Surface	0.01528559936	PowerSoil	False	
+T8Sr3	Trip2	Surface	0.189	Pro	False	
+T8PRr1	Trip2	Rhizosphere			True	Qiagen
+T8PRr2	Trip2	Rhizosphere	0	Pro	False	
+T8PRr3	Trip2	Rhizosphere	0	Pro	False	
+F1Dr1	Trip3	Deep	2.94105588	PowerSoil	True	Qiagen
+F1Dr2	Trip3	Deep	2.017349136	PowerSoil	False	
+F1Dr3	Trip3	Deep	2.507607049	PowerSoil	False	
+F1Sr1	Trip3	Surface	0.4025397686	PowerSoil	True	Qiagen
+F1Sr2	Trip3	Surface	0.03860378483	PowerSoil	False	
+F1Sr3	Trip3	Surface	0.1378631196	PowerSoil	False	
+F1PRr1	Trip3	Rhizosphere	0.1990558957	PowerSoil	False	
+F1PRr2	Trip3	Rhizosphere	0.717449961	PowerSoil	False	
+F1PRr3	Trip3	Rhizosphere	1.016704107	PowerSoil	True	Qiagen
+F2Dr1	Trip3	Deep	0.99702222	PowerSoil	False	
+F2Dr2	Trip3	Deep	0.1442597329	PowerSoil	False	
+F2Dr3	Trip3	Deep	0.7281855358	PowerSoil	False	
+F2Sr1	Trip3	Surface	0.2252685907	PowerSoil	False	
+F2Sr2	Trip3	Surface	0.5720723864	PowerSoil	True	Qiagen
+F2Sr3	Trip3	Surface	0.4096968184	PowerSoil	False	
+F2PRr1	Trip3	Rhizosphere	11.369824	PowerSoil	False	
+F2PRr2	Trip3	Rhizosphere	10.9001426	PowerSoil	False	
+F2PRr3	Trip3	Rhizosphere	26.54724279	PowerSoil	True	Qiagen
+F3Dr1	Trip3	Deep	0.1725748113	PowerSoil	False	
+F3Dr2	Trip3	Deep	0.009796659268	PowerSoil	False	
+F3Dr3	Trip3	Deep	0.03426482337	PowerSoil	False	
+F3Sr1	Trip3	Surface	0.09013454359	PowerSoil	False	
+F3Sr2	Trip3	Surface	0.03006005659	PowerSoil	False	
+F3Sr3	Trip3	Surface	0.005055113757	PowerSoil	False	
+F3PRr1	Trip3	Rhizosphere	0.2387327907	PowerSoil	True	NEBNext
+F3PRr2	Trip3	Rhizosphere	0.152713998	PowerSoil	False	
+F3PRr3	Trip3	Rhizosphere	0.1138870027	PowerSoil	False	
+F4Dr1	Trip3	Deep	3.421025534	PowerSoil	True	Qiagen
+F4Dr2	Trip3	Deep	1.949804478	PowerSoil	False	
+F4Dr3	Trip3	Deep	1.379924386	PowerSoil	False	
+F4Sr1	Trip3	Surface	0.2802436797	PowerSoil	False	
+F4Sr2	Trip3	Surface	0.501843835	PowerSoil	True	Qiagen
+F4Sr3	Trip3	Surface	0.3376790045	PowerSoil	False	
+F4PRr1	Trip3	Rhizosphere	3.692546112	PowerSoil	False	
+F4PRr2	Trip3	Rhizosphere	5.219234303	PowerSoil	False	
+F4PRr3	Trip3	Rhizosphere	4.610885068	PowerSoil	False	
+F5Dr1	Trip3	Deep	2.244585468	PowerSoil	True	Qiagen
+F5Dr2	Trip3	Deep	1.636236233	PowerSoil	False	
+F5Dr3	Trip3	Deep	1.194735721	PowerSoil	False	
+F5Sr1	Trip3	Surface	0.1006911921	PowerSoil	False	
+F5Sr2	Trip3	Surface	0.4096968184	PowerSoil	False	
+F5Sr3	Trip3	Surface	0.1728879322	PowerSoil	False	
+F5PRr1	Trip3	Rhizosphere	0.8292788646	PowerSoil	False	
+F5PRr2	Trip3	Rhizosphere	2.208800219	PowerSoil	False	
+F5PRr3	Trip3	Rhizosphere	2.388621096	PowerSoil	True	Qiagen
+F6Dr1	Trip3	Deep	0.06396658016	PowerSoil	False	
+F6Dr2	Trip3	Deep	1.170133363	PowerSoil	True	Qiagen
+F6Dr3	Trip3	Deep	0.1514615143	PowerSoil	False	
+F6Sr1	Trip3	Surface	0.01297260013	PowerSoil	False	
+F6Sr2	Trip3	Surface	0.0482658021	PowerSoil	False	
+F6Sr3	Trip3	Surface	0.0189218978	PowerSoil	False	
+F6PRr1	Trip3	Rhizosphere	0.8596963264	PowerSoil	False	
+F6PRr2	Trip3	Rhizosphere	0.05323100541	PowerSoil	False	
+F6PRr3	Trip3	Rhizosphere	4.812177094	PowerSoil	True	Qiagen
+F7Dr1	Trip3	Deep	0.01400142604	PowerSoil	False	
+F7Dr2	Trip3	Deep	0.02992586191	PowerSoil	False	
+F7Dr3	Trip3	Deep	0.007381154951	PowerSoil	False	
+F7Sr1	Trip3	Surface	0.01471713103	PowerSoil	False	
+F7Sr2	Trip3	Surface	0.05117335359	PowerSoil	False	
+F7Sr3	Trip3	Surface	0.06875285723	PowerSoil	False	
+F7PRr1	Trip3	Rhizosphere	0.01418035229	PowerSoil	False	
+F7PRr2	Trip3	Rhizosphere	0.07005007251	PowerSoil	False	
+F7PRr3	Trip3	Rhizosphere	0.06396658016	PowerSoil	False	
+F8Dr1	Trip3	Deep	0.006531255284	PowerSoil	False	
+F8Dr2	Trip3	Deep	0.006486523722	PowerSoil	False	
+F8Dr3	Trip3	Deep	0.01874297155	PowerSoil	False	
+F8Sr1	Trip3	Surface	0.006486523722	PowerSoil	False	
+F8Sr2	Trip3	Surface	0.02674992105	PowerSoil	False	
+F8Sr3	Trip3	Surface	0	PowerSoil	False	
+F8PRr1	Trip3	Rhizosphere	0.2301443309	PowerSoil	False	
+F8PRr2	Trip3	Rhizosphere	0.3000597614	PowerSoil	False	
+F8PRr3	Trip3	Rhizosphere	0.5631260741	PowerSoil	True	Qiagen
+F9Dr1	Trip3	Deep	0.01954813966	PowerSoil	False	
+F9Dr2	Trip3	Deep	0.02308193301	PowerSoil	False	
+F9Dr3	Trip3	Deep	0.01030012431	PowerSoil	False	
+F9Sr1	Trip3	Surface	0.004128929142	PowerSoil	False	
+F9Sr2	Trip3	Surface	0.007369916533	PowerSoil	False	
+F9Sr3	Trip3	Surface	0	PowerSoil	False	
+F9PRr1	Trip3	Rhizosphere	0.3833244539	PowerSoil	False	
+F9PRr2	Trip3	Rhizosphere	0.6634700764	PowerSoil	False	
+F9PRr3	Trip3	Rhizosphere	0.2663825253	PowerSoil	False	
+F10Dr1	Trip3	Deep	0	PowerSoil	False	
+F10Dr2	Trip3	Deep	0	PowerSoil	False	
+F10Dr3	Trip3	Deep	0.0005327650506	PowerSoil	False	
+F10Sr1	Trip3	Surface	0.005860415557	PowerSoil	False	
+F10Sr2	Trip3	Surface	0	PowerSoil	False	
+F10Sr3	Trip3	Surface	0.0002663825253	PowerSoil	False	
+F10PRr1	Trip3	Rhizosphere	0.3664535606	PowerSoil	True	Qiagen
+F10PRr2	Trip3	Rhizosphere	0.03303143314	PowerSoil	False	
+F10PRr3	Trip3	Rhizosphere	0.02472917777	PowerSoil	False	
+F11Dr1	Trip3	Deep	0.003152193216	PowerSoil	False	
+F11Dr2	Trip3	Deep	0.009012608773	PowerSoil	False	
+F11Dr3	Trip3	Deep	0.004439708755	PowerSoil	False	
+F11Sr1	Trip3	Surface	0	PowerSoil	False	
+F11Sr2	Trip3	Surface	0.001509500977	PowerSoil	False	
+F11Sr3	Trip3	Surface	0.001731486414	PowerSoil	False	
+F11PRr1	Trip3	Rhizosphere	0.07068016338	PowerSoil	False	
+F11PRr2	Trip3	Rhizosphere	0.05966968567	PowerSoil	False	
+F11PRr3	Trip3	Rhizosphere	0.005061267981	PowerSoil	False	
+F12Dr1	Trip3	Deep	0.1753684958	PowerSoil	True	NEBNext
+F12Dr2	Trip3	Deep	0.1148552655	PowerSoil	False	
+F12Dr3	Trip3	Deep	0.07551944592	PowerSoil	False	
+F12Sr1	Trip3	Surface	0.0182028059	PowerSoil	False	
+F12Sr2	Trip3	Surface	0.02801456224	PowerSoil	False	
+F12Sr3	Trip3	Surface	0	PowerSoil	False	
+F12PRr1	Trip3	Rhizosphere	0.6976558338	PowerSoil	False	
+F12PRr2	Trip3	Rhizosphere	0.5915467945	PowerSoil	False	
+F12PRr3	Trip3	Rhizosphere	1.066595631	PowerSoil	True	Qiagen
+F13Dr1	Trip3	Deep	0.1555229977	PowerSoil	True	NEBNext
+F13Dr2	Trip3	Deep	0.06162315752	PowerSoil	False	
+F13Dr3	Trip3	Deep	0.01940152726	PowerSoil	False	
+F13Sr1	Trip3	Surface	0	PowerSoil	False	
+F13Sr2	Trip3	Surface	0	PowerSoil	False	
+F13Sr3	Trip3	Surface	0.007547504884	PowerSoil	False	
+F13PRr1	Trip3	Rhizosphere	2.040667732	PowerSoil	True	Qiagen
+F13PRr2	Trip3	Rhizosphere	1.739211508	PowerSoil	False	
+F13PRr3	Trip3	Rhizosphere	0.9667021843	PowerSoil	False	
+F14Dr1	Trip3	Deep	0.01434025928	PowerSoil	False	
+F14Dr2	Trip3	Deep	0.03609483218	PowerSoil	False	
+F14Dr3	Trip3	Deep	0	PowerSoil	False	
+F14Sr1	Trip3	Surface	0	PowerSoil	False	
+F14Sr2	Trip3	Surface	0.07072456047	PowerSoil	False	
+F14Sr3	Trip3	Surface	0.02872491565	PowerSoil	False	
+F14PRr1	Trip3	Rhizosphere	2.953027881	PowerSoil	False	
+F14PRr2	Trip3	Rhizosphere	3.012519979	PowerSoil	True	Qiagen
+F14PRr3	Trip3	Rhizosphere	1.876842479	PowerSoil	False	
+F15Dr1	Trip3	Deep	0.05034629728	PowerSoil	False	
+F15Dr2	Trip3	Deep	0.08457645178	PowerSoil	False	
+F15Dr3	Trip3	Deep	0.1195613568	PowerSoil	True	NEBNext
+F15Sr1	Trip3	Surface	0.3464748712	PowerSoil	False	
+F15Sr2	Trip3	Surface	0.382880483	PowerSoil	True	Qiagen
+F15Sr3	Trip3	Surface	0.1710175812	PowerSoil	False	
+F15PRr1	Trip3	Rhizosphere	1.991830936	PowerSoil	False	
+F15PRr2	Trip3	Rhizosphere	8.639406855	PowerSoil	False	
+F15PRr3	Trip3	Rhizosphere	4.594832179	PowerSoil	False	
+F16Dr1	Trip3	Deep	0.1366098384	PowerSoil	False	
+F16Dr2	Trip3	Deep	0.9271887764	PowerSoil	True	Qiagen
+F16Dr3	Trip3	Deep	0.003596164092	PowerSoil	False	
+F16Sr1	Trip3	Surface	0.02641626709	PowerSoil	False	
+F16Sr2	Trip3	Surface	0.03898064287	PowerSoil	False	
+F16Sr3	Trip3	Surface	0.0206890428	PowerSoil	False	
+F16PRr1	Trip3	Rhizosphere	0.02490676612	PowerSoil	False	
+F16PRr2	Trip3	Rhizosphere	0.08706268869	PowerSoil	False	
+F16PRr3	Trip3	Rhizosphere	0.04861481087	PowerSoil	False	
+F17Dr1	Trip3	Deep	0.01238678743	Pro	False	
+F17Dr2	Trip3	Deep	0.01203161073	Pro	False	
+F17Dr3	Trip3	Deep	0.005949209732	Pro	False	
+F17Sr1	Trip3	Surface	0.02677144379	Pro	False	
+F17Sr2	Trip3	Surface	0.005816018469	Pro	False	
+F17Sr3	Trip3	Surface	0	Pro	False	
+F17PRr1	Trip3	Rhizosphere	0.3247202983	Pro	False	
+F17PRr2	Trip3	Rhizosphere	0.3597939975	Pro	False	
+F17PRr3	Trip3	Rhizosphere	1.064819748	Pro	True	Qiagen
+F18Dr1	Trip3	Deep	0	Pro	False	
+F18Dr2	Trip3	Deep	0	Pro	False	
+F18Dr3	Trip3	Deep	0.01691529036	Pro	False	
+F18Sr1	Trip3	Surface	0.006038003907	Pro	False	
+F18Sr2	Trip3	Surface	0.02055585154	Pro	False	
+F18Sr3	Trip3	Surface	0.005594033031	Pro	False	
+F18PRr1	Trip3	Rhizosphere	0	Pro	False	
+F18PRr2	Trip3	Rhizosphere	0.01127686024	Pro	False	
+F18PRr3	Trip3	Rhizosphere	0	Pro	False	
+F19Dr1	Trip3	Deep	0.004306517492	Pro	False	
+F19Dr2	Trip3	Deep	0.009634167999	Pro	False	
+F19Dr3	Trip3	Deep	0.01842479133	Pro	False	
+F19Sr1	Trip3	Surface	0.01851358551	Pro	False	
+F19Sr2	Trip3	Surface	0.03556206713	Pro	False	
+F19Sr3	Trip3	Surface	0.005549635944	Pro	False	
+F19PRr1	Trip3	Rhizosphere	2.339863694	Pro	False	
+F19PRr2	Trip3	Rhizosphere	0.9402131369	Pro	False	
+F19PRr3	Trip3	Rhizosphere	1.018046054	Pro	False	
+F20Dr1	Trip3	Deep	0.01435927853	Pro	False	
+F20Dr2	Trip3	Deep	0.009259880531	Pro	False	
+F20Dr3	Trip3	Deep	0.007112765582	Pro	False	
+F20Sr1	Trip3	Surface	0.01869823999	Pro	False	
+F20Sr2	Trip3	Surface	0.02988113035	Pro	False	
+F20Sr3	Trip3	Surface	0.03408589712	Pro	False	
+F20PRr1	Trip3	Rhizosphere	0.0195034081	Pro	True	Qiagen
+F20PRr2	Trip3	Rhizosphere	0.01664058817	Pro	False	
+F20PRr3	Trip3	Rhizosphere	0.01341991574	Pro	False	
+F21Dr1	Trip3	Deep	0.08382739343	Pro	False	
+F21Dr2	Trip3	Deep	0.06557691637	Pro	False	
+F21Dr3	Trip3	Deep			True	Qiagen
+F21Sr1	Trip3	Surface	0.6691398747	Pro	False	
+F21Sr2	Trip3	Surface	1.199208878	Pro	True	Qiagen
+F21Sr3	Trip3	Surface	0.5993586389	Pro	False	
+F21PRr1	Trip3	Rhizosphere	0.8726684792	Pro	True	Qiagen
+F21PRr2	Trip3	Rhizosphere	0.1815211236	Pro	False	
+F21PRr3	Trip3	Rhizosphere	0.1024200917	Pro	False	
+F22Dr1	Trip3	Deep	0.01999476056	Pro	False	
+F22Dr2	Trip3	Deep	0.07987407089	Pro	False	
+F22Dr3	Trip3	Deep	0.0491129008	Pro	False	
+F22Sr1	Trip3	Surface	0.00963454452	Pro	False	
+F22Sr2	Trip3	Surface	0.003975219459	Pro	False	
+F22Sr3	Trip3	Surface	0.01497439155	Pro	False	
+F22PRr1	Trip3	Rhizosphere	0.05408763008	Pro	False	
+F22PRr2	Trip3	Rhizosphere	0.7136728381	Pro	True	Qiagen
+F22PRr3	Trip3	Rhizosphere	0.06992461231	Pro	False	
+F23Dr1	Trip3	Deep	0.0806499461	Pro	False	
+F23Dr2	Trip3	Deep	0.08685694778	Pro	False	
+F23Dr3	Trip3	Deep	0.08329704976	Pro	False	
+F23Sr1	Trip3	Surface	0.04331665658	Pro	False	
+F23Sr2	Trip3	Surface	0.03930036138	Pro	False	
+F23Sr3	Trip3	Surface	0.05153180586	Pro	False	
+F23PRr1	Trip3	Rhizosphere	2.951388223	Pro	True	Qiagen
+F23PRr2	Trip3	Rhizosphere	1.229401654	Pro	False	
+F23PRr3	Trip3	Rhizosphere	0.6191986213	Pro	False	
+F24Dr1	Trip3	Deep	0.01570462705	Pro	False	
+F24Dr2	Trip3	Deep	0.04564428221	Pro	False	
+F24Dr3	Trip3	Deep	0	PowerSoil	False	
+F24Sr1	Trip3	Surface	0.02127267267	PowerSoil	False	
+F24Sr2	Trip3	Surface	0.03172416815	PowerSoil	False	
+F24Sr3	Trip3	Surface	0.03980239828	PowerSoil	False	
+F24PRr1	Trip3	Rhizosphere	0.430706585	PowerSoil	True	Qiagen
+F24PRr2	Trip3	Rhizosphere	0.2387002904	PowerSoil	False	
+F24PRr3	Trip3	Rhizosphere	0.273751594	PowerSoil	False	
+F25Dr1	Trip3	Deep	0.1259245466	PowerSoil	False	
+F25Dr2	Trip3	Deep	0.1387493074	PowerSoil	True	NEBNext
+F25Dr3	Trip3	Deep	0.07006153147	PowerSoil	False	
+F25Sr1	Trip3	Surface	0.4950585877	PowerSoil	True	Qiagen
+F25Sr2	Trip3	Surface	0.2264232062	PowerSoil	False	
+F25Sr3	Trip3	Surface	0.3458167091	PowerSoil	False	
+F25PRr1	Trip3	Rhizosphere	1.288733288	PowerSoil	False	
+F25PRr2	Trip3	Rhizosphere	1.534274972	PowerSoil	False	
+F25PRr3	Trip3	Rhizosphere	1.729612966	PowerSoil	True	Qiagen
+F26Dr1	Trip3	Deep	0.04733295179	PowerSoil	False	
+F26Dr2	Trip3	Deep	0.120675979	PowerSoil	True	NEBNext
+F26Dr3	Trip3	Deep	0.06116178641	PowerSoil	False	
+F26Sr1	Trip3	Surface	0.05500042445	PowerSoil	False	
+F26Sr2	Trip3	Surface	0.05020825403	PowerSoil	False	
+F26Sr3	Trip3	Surface	0.01255548649	PowerSoil	False	
+F26PRr1	Trip3	Rhizosphere	1.418350088	PowerSoil	True	Qiagen
+F26PRr2	Trip3	Rhizosphere	1.19288988	PowerSoil	False	
+F26PRr3	Trip3	Rhizosphere	1.302881601	PowerSoil	False	
+F27Dr1	Trip3	Deep	0.1876750854	PowerSoil	True	NEBNext
+F27Dr2	Trip3	Deep	0.1201739421	PowerSoil	False	
+F27Dr3	Trip3	Deep	0.1378821528	PowerSoil	False	
+F27Sr1	Trip3	Surface	0.4183838611	PowerSoil	True	Qiagen
+F27Sr2	Trip3	Surface	0.3248224387	PowerSoil	False	
+F27Sr3	Trip3	Surface	0.2622960247	PowerSoil	False	
+F27PRr1	Trip3	Rhizosphere	1.734633335	PowerSoil	False	
+F27PRr2	Trip3	Rhizosphere	3.77153396	PowerSoil	True	Qiagen
+F27PRr3	Trip3	Rhizosphere	1.501870772	PowerSoil	False	
+F28Dr1	Trip3	Deep	0.3668109795	PowerSoil	True	Qiagen
+F28Dr2	Trip3	Deep			False	
+F28Dr3	Trip3	Deep	0.3544882555	PowerSoil	False	
+F28Sr1	Trip3	Surface	0.09224243453	PowerSoil	False	
+F28Sr2	Trip3	Surface	0.01812353211	PowerSoil	False	
+F28Sr3	Trip3	Surface	0.004888013823	PowerSoil	False	
+F28PRr1	Trip3	Rhizosphere	0.2781330069	PowerSoil	False	
+F28PRr2	Trip3	Rhizosphere	2.772480528	PowerSoil	True	Qiagen
+F28PRr3	Trip3	Rhizosphere	0.1187591108	PowerSoil	False	
+F29Dr1	Trip3	Deep	0.03564918392	PowerSoil	False	
+F29Dr2	Trip3	Deep	0.06727750866	PowerSoil	False	
+F29Dr3	Trip3	Deep	0.02565408562	PowerSoil	False	
+F29Sr1	Trip3	Surface	0.03008113829	PowerSoil	False	
+F29Sr2	Trip3	Surface	0.04035007489	PowerSoil	False	
+F29Sr3	Trip3	Surface	0.03176980787	PowerSoil	False	
+F29PRr1	Trip3	Rhizosphere	1.391422654	PowerSoil	False	
+F29PRr2	Trip3	Rhizosphere	1.102979635	PowerSoil	False	
+F29PRr3	Trip3	Rhizosphere	0.3617906104	PowerSoil	False	
+F30Dr1	Trip3	Deep	0.00265166763	PowerSoil	False	
+F30Dr2	Trip3	Deep	0.0113232141	PowerSoil	False	
+F30Dr3	Trip3	Deep	0.02213982732	PowerSoil	False	
+F30Sr1	Trip3	Surface	0.04390997292	PowerSoil	False	
+F30Sr2	Trip3	Surface	0	PowerSoil	False	
+F30Sr3	Trip3	Surface	0.01689125972	PowerSoil	False	
+F30PRr1	Trip3	Rhizosphere	0.05043645263	PowerSoil	False	
+F30PRr2	Trip3	Rhizosphere	0.4046919456	PowerSoil	False	
+F30PRr3	Trip3	Rhizosphere			False	
+F31Dr1	Trip3	Deep	0.04121722954	PowerSoil	False	
+F31Dr2	Trip3	Deep	0.1215431336	PowerSoil	True	NEBNext
+F31Dr3	Trip3	Deep	0.05997515374	PowerSoil	False	
+F31Sr1	Trip3	Surface	0.01876248817	PowerSoil	False	
+F31Sr2	Trip3	Surface	0.02656687999	PowerSoil	False	
+F31Sr3	Trip3	Surface	0.01041041973	PowerSoil	False	
+F31PRr1	Trip3	Rhizosphere	2.743727505	PowerSoil	False	
+F31PRr2	Trip3	Rhizosphere	0.7497282155	PowerSoil	False	
+F31PRr3	Trip3	Rhizosphere	0.3800464977	PowerSoil	False	
+F32Dr1	Trip3	Deep	0.02200290816	PowerSoil	False	
+F32Dr2	Trip3	Deep	0.00548133016	PowerSoil	False	
+F32Dr3	Trip3	Deep	0.01260112621	PowerSoil	False	
+F32Sr1	Trip3	Surface	0.04861991036	PowerSoil	False	
+F32Sr2	Trip3	Surface	0.0172447292	PowerSoil	False	
+F32Sr3	Trip3	Surface	0.04927065486	PowerSoil	False	
+F32PRr1	Trip3	Rhizosphere	0.8729737443	PowerSoil	True	Qiagen
+F32PRr2	Trip3	Rhizosphere	0.5615460202	PowerSoil	False	
+F32PRr3	Trip3	Rhizosphere	0.1932246342	PowerSoil	False	
+F33Dr1	Trip3	Deep	0.06572519432	PowerSoil	False	
+F33Dr2	Trip3	Deep	0.05707958884	PowerSoil	False	
+F33Dr3	Trip3	Deep	0.06693371981	PowerSoil	False	
+F33Sr1	Trip3	Surface	0.0173376927	PowerSoil	False	
+F33Sr2	Trip3	Surface	0.01027246672	PowerSoil	False	
+F33Sr3	Trip3	Surface	0.01547842271	PowerSoil	False	
+F33PRr1	Trip3	Rhizosphere	10.98321916	PowerSoil	True	Qiagen
+F33PRr2	Trip3	Rhizosphere	1.837934872	PowerSoil	False	
+F33PRr3	Trip3	Rhizosphere	7.064807645	PowerSoil	False	
+F34Dr1	Trip3	Deep	0.01152747397	PowerSoil	False	
+F34Dr2	Trip3	Deep	0.02993424692	PowerSoil	False	
+F34Dr3	Trip3	Deep	0.02923702067	PowerSoil	False	
+F34Sr1	Trip3	Surface			False	
+F34Sr2	Trip3	Surface	0.02654107918	PowerSoil	False	
+F34Sr3	Trip3	Surface	0.01157395572	PowerSoil	False	
+F34PRr1	Trip3	Rhizosphere	1.52232379	PowerSoil	False	
+F34PRr2	Trip3	Rhizosphere	1.972731946	PowerSoil	True	Qiagen
+F34PRr3	Trip3	Rhizosphere	1.833286697	PowerSoil	False	
+F35Dr1	Trip3	Deep	0.1211779219	PowerSoil	True	NEBNext
+F35Dr2	Trip3	Deep	0.09644963098	PowerSoil	False	
+F35Dr3	Trip3	Deep	0.102027441	PowerSoil	False	
+F35Sr1	Trip3	Surface	0.003067795491	PowerSoil	False	
+F35Sr2	Trip3	Surface	0.05503439185	PowerSoil	False	
+F35Sr3	Trip3	Surface	0.08715328101	PowerSoil	False	
+F35PRr1	Trip3	Rhizosphere	1.886740709	PowerSoil	True	Qiagen
+F35PRr2	Trip3	Rhizosphere	1.208571978	PowerSoil	False	
+F35PRr3	Trip3	Rhizosphere	0.3695763932	PowerSoil	False	
+F36Dr1	Trip3	Deep	0.1246175714	PowerSoil	False	
+F36Dr2	Trip3	Deep	0.1595718473	PowerSoil	False	
+F36Dr3	Trip3	Deep	0.1707274673	PowerSoil	True	NEBNext
+F36Sr1	Trip3	Surface	0.1613381538	PowerSoil	True	NEBNext
+F36Sr2	Trip3	Surface	0.02231123994	PowerSoil	False	
+F36Sr3	Trip3	Surface	0.00376502174	PowerSoil	False	
+F36PRr1	Trip3	Rhizosphere	1.36614511	PowerSoil	False	
+F36PRr2	Trip3	Rhizosphere	1.768677064	PowerSoil	True	Qiagen
+F36PRr3	Trip3	Rhizosphere	1.304789201	PowerSoil	False	
+F37Dr1	Trip3	Deep	0.104816346	PowerSoil	False	
+F37Dr2	Trip3	Deep	0.4509194555	PowerSoil	True	Qiagen
+F37Dr3	Trip3	Deep	0.08241214252	PowerSoil	False	
+F37Sr1	Trip3	Surface	1.007306001	PowerSoil	True	Qiagen
+F37Sr2	Trip3	Surface	0.008180787977	PowerSoil	False	
+F37Sr3	Trip3	Surface	0.01970826195	PowerSoil	False	
+F37PRr1	Trip3	Rhizosphere	0.2678743245	PowerSoil	False	
+F37PRr2	Trip3	Rhizosphere	0.3658578532	PowerSoil	True	Qiagen
+F37PRr3	Trip3	Rhizosphere	0.1547842271	PowerSoil	False	
+F38Dr1	Trip3	Deep	0.0177095467	PowerSoil	False	
+F38Dr2	Trip3	Deep	0.04499433387	PowerSoil	False	
+F38Dr3	Trip3	Deep	0.1109054552	PowerSoil	True	NEBNext
+F38Sr1	Trip3	Surface	0.1068150612	PowerSoil	True	NEBNext
+F38Sr2	Trip3	Surface	0.05972904858	PowerSoil	False	
+F38Sr3	Trip3	Surface	0.03035258267	PowerSoil	False	
+F38PRr1	Trip3	Rhizosphere	0.2624824415	PowerSoil	True	NEBNext
+F38PRr2	Trip3	Rhizosphere	0.06935077081	PowerSoil	False	
+F38PRr3	Trip3	Rhizosphere	0.04996788111	PowerSoil	False	
+F39Dr1	Trip3	Deep	0.0351402029	PowerSoil	False	
+F39Dr2	Trip3	Deep	0.02128864144	PowerSoil	False	
+F39Dr3	Trip3	Deep	0.01278248121	PowerSoil	False	
+F39Sr1	Trip3	Surface	0.1647778033	PowerSoil	True	NEBNext
+F39Sr2	Trip3	Surface	0.06846761756	PowerSoil	False	
+F39Sr3	Trip3	Surface	0.08933792325	PowerSoil	False	
+F39PRr1	Trip3	Rhizosphere	0.2240420344	PowerSoil	False	
+F39PRr2	Trip3	Rhizosphere	0.6507909799	PowerSoil	True	NEBNext
+F39PRr3	Trip3	Rhizosphere	0.1121604624	PowerSoil	False	
+F40Dr1	Trip3	Deep	0.02342680193	PowerSoil	False	
+F40Dr2	Trip3	Deep	0.04690008562	PowerSoil	False	
+F40Dr3	Trip3	Deep	0.04164764788	PowerSoil	False	
+F40Sr1	Trip3	Surface	0.05429068385	PowerSoil	False	
+F40Sr2	Trip3	Surface	0.05215252335	PowerSoil	False	
+F40Sr3	Trip3	Surface	0.06842113581	PowerSoil	False	
+F40PRr1	Trip3	Rhizosphere	0.03332741466	PowerSoil	False	
+F40PRr2	Trip3	Rhizosphere	0.02291550269	PowerSoil	False	
+F40PRr3	Trip3	Rhizosphere	0.01106265647	PowerSoil	False	
+F41Dr1	Trip3	Deep	0	PowerSoil	False	
+F41Dr2	Trip3	Deep	0.0004183357488	PowerSoil	False	
+F41Dr3	Trip3	Deep	0.1946190867	PowerSoil	True	NEBNext
+F41Sr1	Trip3	Surface	0.02045196994	PowerSoil	False	
+F41Sr2	Trip3	Surface	0.02417050993	PowerSoil	False	
+F41Sr3	Trip3	Surface	0.01255007247	PowerSoil	False	
+F41PRr1	Trip3	Rhizosphere	5.484428149	PowerSoil	True	NEBNext
+F41PRr2	Trip3	Rhizosphere	4.030943831	PowerSoil	False	
+F41PRr3	Trip3	Rhizosphere	34.47044737	PowerSoil	False	
+F42Dr1	Trip3	Deep	0.03751077215	PowerSoil	False	
+F42Dr2	Trip3	Deep	0.0343035314	PowerSoil	False	
+F42Dr3	Trip3	Deep	0.02017307944	PowerSoil	False	
+F42Sr1	Trip3	Surface	0.03286259716	PowerSoil	False	
+F42Sr2	Trip3	Surface	0.03890522464	PowerSoil	False	
+F42Sr3	Trip3	Surface	0.02049845169	PowerSoil	False	
+F42PRr1	Trip3	Rhizosphere	0.4100155156	PowerSoil	False	
+F42PRr2	Trip3	Rhizosphere	1.049782766	PowerSoil	True	NEBNext
+F42PRr3	Trip3	Rhizosphere	0.2390464093	PowerSoil	False	
+F43Dr1	Trip3	Deep	0.0126927297	PowerSoil	False	
+F43Dr2	Trip3	Deep	0.006393374959	PowerSoil	False	
+F43Dr3	Trip3	Deep	0.03812519921	PowerSoil	False	
+F43Sr1	Trip3	Surface	0.02044939785	PowerSoil	False	
+F43Sr2	Trip3	Surface	0.00404286946	PowerSoil	False	
+F43Sr3	Trip3	Surface	0.07065619532	PowerSoil	False	
+F43PRr1	Trip3	Rhizosphere	0.6530174379	PowerSoil	False	
+F43PRr2	Trip3	Rhizosphere	0.9045215264	PowerSoil	True	NEBNext
+F43PRr3	Trip3	Rhizosphere	0.3173652526	PowerSoil	False	
+F44Dr1	Trip3	Deep	0.01104737585	PowerSoil	False	
+F44Dr2	Trip3	Deep	0.00150432352	PowerSoil	False	
+F44Dr3	Trip3	Deep	0.01349190157	PowerSoil	False	
+F44Sr1	Trip3	Surface	0	PowerSoil	False	
+F44Sr2	Trip3	Surface	0.00211545495	PowerSoil	False	
+F44Sr3	Trip3	Surface	0.03060358161	PowerSoil	False	
+F44PRr1	Trip3	Rhizosphere	0.09829814	PowerSoil	False	
+F44PRr2	Trip3	Rhizosphere	0.06736548762	PowerSoil	False	
+F44PRr3	Trip3	Rhizosphere	0.009072951229	PowerSoil	False	
+F45Dr1	Trip3	Deep	0.130359035	PowerSoil	False	
+F45Dr2	Trip3	Deep	0.03314212755	PowerSoil	False	
+F45Dr3	Trip3	Deep	0.5505353981	PowerSoil	True	NEBNext
+F45Sr1	Trip3	Surface	0.1079352125	PowerSoil	False	
+F45Sr2	Trip3	Surface	0.1446971186	PowerSoil	False	
+F45Sr3	Trip3	Surface	0.6389144049	PowerSoil MoBio	True	NEBNext
+F45PRr1	Trip3	Rhizosphere	0.1759588417	PowerSoil MoBio	False	
+F45PRr2	Trip3	Rhizosphere	0.5025850859	PowerSoil MoBio	False	
+F45PRr3	Trip3	Rhizosphere	0.6563081456	PowerSoil MoBio	True	NEBNext
+F46Dr1	Trip3	Deep	1.686769757	PowerSoil MoBio	False	
+F46Dr2	Trip3	Deep	27.36463204	PowerSoil MoBio	False	NEBNext
+F46Dr3	Trip3	Deep	0.3526228351	PowerSoil MoBio	False	
+F46Sr1	Trip3	Surface	0.0155133363	PowerSoil MoBio	False	
+F46Sr2	Trip3	Surface	0.01485519476	PowerSoil MoBio	False	
+F46Sr3	Trip3	Surface	0.01429107344	PowerSoil MoBio	False	
+F46PRr1	Trip3	Rhizosphere	0	PowerSoil MoBio	False	
+F46PRr2	Trip3	Rhizosphere	0.007756668149	PowerSoil MoBio	False	
+F46PRr3	Trip3	Rhizosphere	0.02077846862	PowerSoil MoBio	False	
+F47Dr1	Trip3	Deep	1.456890319	PowerSoil MoBio	False	
+F47Dr2	Trip3	Deep	0.004559980669	PowerSoil MoBio	False	
+F47Dr3	Trip3	Deep	1.591339233	PowerSoil MoBio	True	NEBNext
+F47Sr1	Trip3	Surface	0.02764194468	PowerSoil MoBio	False	
+F47Sr2	Trip3	Surface	0.009590062439	PowerSoil MoBio	False	
+F47Sr3	Trip3	Surface	0.00014103033	PowerSoil MoBio	False	
+F47PRr1	Trip3	Rhizosphere	0.01226963871	PowerSoil MoBio	False	
+F47PRr2	Trip3	Rhizosphere	0	PowerSoil MoBio	False	
+F47PRr3	Trip3	Rhizosphere	0.01001315343	PowerSoil MoBio	False	
+F48Dr1	Trip3	Deep	0.4673275035	PowerSoil MoBio	False	
+F48Dr2	Trip3	Deep	0.9957211398	PowerSoil MoBio	True	NEBNext
+F48Dr3	Trip3	Deep	0.1027170903	PowerSoil MoBio	False	
+F48Sr1	Trip3	Surface	1.135811268	PowerSoil MoBio	False	
+F48Sr2	Trip3	Surface	3.05570416	PowerSoil MoBio	True	NEBNext
+F48Sr3	Trip3	Surface	1.203975927	PowerSoil MoBio	False	
+F48PRr1	Trip3	Rhizosphere	0	PowerSoil MoBio	False	
+F48PRr2	Trip3	Rhizosphere	0.006675435619	PowerSoil MoBio	False	
+F48PRr3	Trip3	Rhizosphere	0.03939447218	PowerSoil MoBio	False	
+F49Dr1	Trip3	Deep	0.3418105098	PowerSoil MoBio	True	NEBNext
+F49Dr2	Trip3	Deep	0.08212666216	PowerSoil MoBio	False	
+F49Dr3	Trip3	Deep	0.1056317172	PowerSoil MoBio	False	
+F49Sr1	Trip3	Surface	0.05960881947	PowerSoil MoBio	False	
+F49Sr2	Trip3	Surface	0	PowerSoil MoBio	False	
+F49Sr3	Trip3	Surface	0.01386798245	PowerSoil MoBio	False	
+F49PRr1	Trip3	Rhizosphere	0.01353891168	PowerSoil MoBio	False	
+F49PRr2	Trip3	Rhizosphere	0.02167166071	PowerSoil MoBio	False	
+F49PRr3	Trip3	Rhizosphere	0.3281775779	PowerSoil MoBio	True	Qiagen
+F50Dr1	Trip3	Deep	0.05594203089	PowerSoil MoBio	False	
+F50Dr2	Trip3	Deep	0.1074181013	PowerSoil MoBio	False	
+F50Dr3	Trip3	Deep	0.06463890124	PowerSoil MoBio	False	
+F50Sr1	Trip3	Surface	0.00230349539	PowerSoil MoBio	False	
+F50Sr2	Trip3	Surface	0.00286761671	PowerSoil MoBio	False	
+F50Sr3	Trip3	Surface	0.004701010999	PowerSoil MoBio	False	
+F50PRr1	Trip3	Rhizosphere	0.01621848795	PowerSoil MoBio	False	
+F50PRr2	Trip3	Rhizosphere	0.01800487213	PowerSoil MoBio	False	
+F50PRr3	Trip3	Rhizosphere	0.03605675437	PowerSoil MoBio	False	
+F51Dr1	Trip3	Deep	0.01499622509	PowerSoil MoBio	False	
+F51Dr2	Trip3	Deep	0.02322299434	PowerSoil MoBio	False	
+F51Dr3	Trip3	Deep	0.150432352	PowerSoil MoBio	False	
+F51Sr1	Trip3	Surface	0.05152308055	PowerSoil MoBio	False	
+F51Sr2	Trip3	Surface	3.569054561	PowerSoil MoBio	False	
+F51Sr3	Trip3	Surface	0.7775942294	PowerSoil MoBio	False	
+F51PRr1	Trip3	Rhizosphere	2.368886453	PowerSoil MoBio	True	Qiagen
+F51PRr2	Trip3	Rhizosphere	0.5430137805	PowerSoil MoBio	False	
+F51PRr3	Trip3	Rhizosphere	0.1626549806	PowerSoil MoBio	False	
+F52Dr1	Trip3	Deep	0.1690483555	PowerSoil MoBio	False	
+F52Dr2	Trip3	Deep	0.1155978605	PowerSoil MoBio	False	
+F52Dr3	Trip3	Deep	0.0757332872	PowerSoil MoBio	False	
+F52Sr1	Trip3	Surface	0.0197442462	PowerSoil MoBio	False	
+F52Sr2	Trip3	Surface	0	PowerSoil MoBio	False	
+F52Sr3	Trip3	Surface	0.02359907522	PowerSoil MoBio	False	
+F52PRr1	Trip3	Rhizosphere			False	
+F52PRr2	Trip3	Rhizosphere			False	
+F52PRr3	Trip3	Rhizosphere			False	
+F53Dr1	Trip3	Deep	0.01156448706	PowerSoil MoBio	False	
+F53Dr2	Trip3	Deep	0.03521057239	PowerSoil MoBio	False	
+F53Dr3	Trip3	Deep	0.07154938741	PowerSoil MoBio	False	
+F53Sr1	Trip3	Surface	0.0164535385	PowerSoil MoBio	False	
+F53Sr2	Trip3	Surface	0.01062428486	PowerSoil MoBio	False	
+F53Sr3	Trip3	Surface	0.01904971403	PowerSoil MoBio	False	
+F53PRr1	Trip3	Rhizosphere	0.03251209855	PowerSoil MoBio	False	
+F53PRr2	Trip3	Rhizosphere	0.08785745711	PowerSoil MoBio	False	
+F53PRr3	Trip3	Rhizosphere	0.0196216454	PowerSoil MoBio	False	
+F54Dr1	Trip3	Deep	0.007391113066	PowerSoil MoBio	False	
+F54Dr2	Trip3	Deep	0.005851297844	PowerSoil MoBio	False	
+F54Dr3	Trip3	Deep	0.007875054993	PowerSoil MoBio	False	
+F54Sr1	Trip3	Surface	0.02190937088	PowerSoil MoBio	False	
+F54Sr2	Trip3	Surface	0.0100307963	PowerSoil MoBio	False	
+F54Sr3	Trip3	Surface	0.01526616806	PowerSoil MoBio	False	
+F54PRr1	Trip3	Rhizosphere	0.003915530136	PowerSoil MoBio	False	
+F54PRr2	Trip3	Rhizosphere	0.1063352398	PowerSoil MoBio	True	NEBNext
+F54PRr3	Trip3	Rhizosphere	0	PowerSoil MoBio	False	
+F55Dr1	Trip3	Deep	0.008007039155	PowerSoil MoBio	False	
+F55Dr2	Trip3	Deep	0.001583809943	PowerSoil MoBio	False	
+F55Dr3	Trip3	Deep	0.001935767708	PowerSoil MoBio	False	
+F55Sr1	Trip3	Surface	0.01495820502	PowerSoil MoBio	False	
+F55Sr2	Trip3	Surface	0.01073471183	PowerSoil MoBio	False	
+F55Sr3	Trip3	Surface	0	PowerSoil MoBio	False	
+F55PRr1	Trip3	Rhizosphere	0.005631324241	PowerSoil MoBio	False	
+F55PRr2	Trip3	Rhizosphere	0.01728992521	PowerSoil MoBio	False	
+F55PRr3	Trip3	Rhizosphere	0.01104267488	PowerSoil MoBio	False	
+F56Dr1	Trip3	Deep	0.005983282006	PowerSoil MoBio	False	
+F56Dr2	Trip3	Deep	0.01249450066	PowerSoil MoBio	False	
+F56Dr3	Trip3	Deep	0.009238891333	PowerSoil MoBio	False	
+F56Sr1	Trip3	Surface	0.006159260889	PowerSoil MoBio	False	
+F56Sr2	Trip3	Surface	0.004487461505	PowerSoil MoBio	False	
+F56Sr3	Trip3	Surface	0	Pro	False	
+F56PRr1	Trip3	Rhizosphere			False	
+F56PRr2	Trip3	Rhizosphere			False	
+F56PRr3	Trip3	Rhizosphere			False	
+F57Dr1	Trip3	Deep	0.002595688517	Pro	False	
+F57Dr2	Trip3	Deep	0.0055433348	Pro	False	
+F57Dr3	Trip3	Deep	0.01473823141	Pro	False	
+F57Sr1	Trip3	Surface	0.008490981082	Pro	False	
+F57Sr2	Trip3	Surface	0.01786185658	Pro	False	
+F57Sr3	Trip3	Surface	0.02160140783	Pro	False	
+F57PRr1	Trip3	Rhizosphere	0.0901891773	Pro	False	
+F57PRr2	Trip3	Rhizosphere	0.4491421029	Pro	True	NEBNext
+F57PRr3	Trip3	Rhizosphere	0.006159260889	Pro	False	
+F58Dr1	Trip3	Deep	0.01223053234	Pro	False	
+F58Dr2	Trip3	Deep	0.0006159260889	Pro	False	
+F58Dr3	Trip3	Deep	0.0151341839	Pro	False	
+F58Sr1	Trip3	Surface	0.02916849978	Pro	False	
+F58Sr2	Trip3	Surface	0.0140783106	Pro	False	
+F58Sr3	Trip3	Surface	0.1357677079	Pro	True	NEBNext
+F58PRr1	Trip3	Rhizosphere	22.50589529	Pro	True	NEBNext
+F58PRr2	Trip3	Rhizosphere	21.32243731	Pro	False	
+F58PRr3	Trip3	Rhizosphere	18.32199736	Pro	False	
+F59Dr1	Trip3	Deep	0.009150901892	Pro	False	
+F59Dr2	Trip3	Deep	0.04021117466	Pro	False	
+F59Dr3	Trip3	Deep	0.04210294765	Pro	False	
+F59Sr1	Trip3	Surface	0.00206775187	Pro	False	
+F59Sr2	Trip3	Surface	0	Pro	False	
+F59Sr3	Trip3	Surface	0.002375714914	Pro	False	
+F59PRr1	Trip3	Rhizosphere	0.006467223933	Pro	False	
+F59PRr2	Trip3	Rhizosphere	0.02230532336	Pro	False	
+F59PRr3	Trip3	Rhizosphere	0.006819181698	Pro	False	
+F60Dr1	Trip3	Deep	0.0360316762	Pro	False	
+F60Dr2	Trip3	Deep	0.008974923009	Pro	False	
+F60Dr3	Trip3	Deep	0.0027716674	Pro	False	
+F60Sr1	Trip3	Surface	0.01174659041	Pro	False	
+F60Sr2	Trip3	Surface	0.01055873295	Pro	False	
+F60Sr3	Trip3	Surface	0.008974923009	Pro	False	
+F60PRr1	Trip3	Rhizosphere	0.01121865376	Pro	False	
+F60PRr2	Trip3	Rhizosphere	0.01561812582	Pro	False	
+F60PRr3	Trip3	Rhizosphere	0.04452265728	Pro	False	
+- Ctrl 1	Trip3	Deep	0.04359876815	Pro	False	
+- Ctrl 2	Trip3	Deep	0.01592608887	Pro	False	
+- Ctrl 3	Trip3	Deep	0.0125824901	Pro	False	
+=+ Ctrl 1	Trip3	Surface	16.38183018	Pro	False	
+=+ Ctrl 2	Trip3	Surface	19.09190497	Pro	False	
+=+ Ctrl 3	Trip3	Surface	16.86137264	Pro	False	
+Extraction Ctrl	Trip3	Rhizosphere	0.009326880774	Pro	False	
+PCR Ctrl	Trip3	Rhizosphere			False	
+S1Dr1	Trip4	Deep			False	
+S1Dr2	Trip4	Deep			False	
+S1Dr3	Trip4	Deep			False	
+S1Sr1	Trip4	Surface			False	
+S1Sr2	Trip4	Surface			False	
+S1Sr3	Trip4	Surface			False	
+S1PRr1	Trip4	Rhizosphere			False	
+S1PRr2	Trip4	Rhizosphere			False	
+S1PRr3	Trip4	Rhizosphere			False	
+S2Dr1	Trip4	Deep			False	
+S2Dr2	Trip4	Deep			False	
+S2Dr3	Trip4	Deep			False	
+S2Sr1	Trip4	Surface			False	
+S2Sr2	Trip4	Surface			False	
+S2Sr3	Trip4	Surface			False	
+S2PRr1	Trip4	Rhizosphere			False	
+S2PRr2	Trip4	Rhizosphere			False	
+S2PRr3	Trip4	Rhizosphere			False	
+S3Dr1	Trip4	Deep			False	
+S3Dr2	Trip4	Deep			False	
+S3Dr3	Trip4	Deep			False	
+S3Sr1	Trip4	Surface			False	
+S3Sr2	Trip4	Surface			False	
+S3Sr3	Trip4	Surface			False	
+S3PRr1	Trip4	Rhizosphere			False	
+S3PRr2	Trip4	Rhizosphere			False	
+S3PRr3	Trip4	Rhizosphere			False	
+S4Dr1	Trip4	Deep			False	
+S4Dr2	Trip4	Deep			False	
+S4Dr3	Trip4	Deep			False	
+S4Sr1	Trip4	Surface			False	
+S4Sr2	Trip4	Surface			False	
+S4Sr3	Trip4	Surface			False	
+S4PRr1	Trip4	Rhizosphere			False	
+S4PRr2	Trip4	Rhizosphere			False	
+S4PRr3	Trip4	Rhizosphere			False	
+S5Dr1	Trip4	Deep			False	
+S5Dr2	Trip4	Deep			False	
+S5Dr3	Trip4	Deep			False	
+S5Sr1	Trip4	Surface			False	
+S5Sr2	Trip4	Surface			False	
+S5Sr3	Trip4	Surface			False	
+S5PRr1	Trip4	Rhizosphere			False	
+S5PRr2	Trip4	Rhizosphere			False	
+S5PRr3	Trip4	Rhizosphere			False	
+S6Dr1	Trip4	Deep			False	
+S6Dr2	Trip4	Deep			False	
+S6Dr3	Trip4	Deep			False	
+S6Sr1	Trip4	Surface			False	
+S6Sr2	Trip4	Surface			False	
+S6Sr3	Trip4	Surface			False	
+S6PRr1	Trip4	Rhizosphere			False	
+S6PRr2	Trip4	Rhizosphere			False	
+S6PRr3	Trip4	Rhizosphere			False	
+S7Dr1	Trip4	Deep			False	
+S7Dr2	Trip4	Deep			False	
+S7Dr3	Trip4	Deep			False	
+S7Sr1	Trip4	Surface			False	
+S7Sr2	Trip4	Surface			False	
+S7Sr3	Trip4	Surface			False	
+S7PRr1	Trip4	Rhizosphere			False	
+S7PRr2	Trip4	Rhizosphere			False	
+S7PRr3	Trip4	Rhizosphere			False	
+S8Dr1	Trip4	Deep			False	
+S8Dr2	Trip4	Deep			False	
+S8Dr3	Trip4	Deep			False	
+S8Sr1	Trip4	Surface			False	
+S8Sr2	Trip4	Surface			False	
+S8Sr3	Trip4	Surface			False	
+S8PRr1	Trip4	Rhizosphere			False	
+S8PRr2	Trip4	Rhizosphere			False	
+S8PRr3	Trip4	Rhizosphere			False	
+S9Dr1	Trip4	Deep			False	
+S9Dr2	Trip4	Deep			False	
+S9Dr3	Trip4	Deep			False	
+S9Sr1	Trip4	Surface			False	
+S9Sr2	Trip4	Surface			False	
+S9Sr3	Trip4	Surface			False	
+S9PRr1	Trip4	Rhizosphere			False	
+S9PRr2	Trip4	Rhizosphere			False	
+S9PRr3	Trip4	Rhizosphere			False	
+S10Dr1	Trip4	Deep			False	
+S10Dr2	Trip4	Deep			False	
+S10Dr3	Trip4	Deep			False	
+S10Sr1	Trip4	Surface			False	
+S10Sr2	Trip4	Surface			False	
+S10Sr3	Trip4	Surface			False	
+S10PRr1	Trip4	Rhizosphere			False	
+S10PRr2	Trip4	Rhizosphere			False	
+S10PRr3	Trip4	Rhizosphere			False	
+S11Dr1	Trip4	Deep			False	
+S11Dr2	Trip4	Deep			False	
+S11Dr3	Trip4	Deep			False	
+S11Sr1	Trip4	Surface			False	
+S11Sr2	Trip4	Surface			False	
+S11Sr3	Trip4	Surface			False	
+S11PRr1	Trip4	Rhizosphere			False	
+S11PRr2	Trip4	Rhizosphere			False	
+S11PRr3	Trip4	Rhizosphere			False	
+S12Dr1	Trip4	Deep			False	
+S12Dr2	Trip4	Deep			False	
+S12Dr3	Trip4	Deep			False	
+S12Sr1	Trip4	Surface			False	
+S12Sr2	Trip4	Surface			False	
+S12Sr3	Trip4	Surface			False	
+S12PRr1	Trip4	Rhizosphere			False	
+S12PRr2	Trip4	Rhizosphere			False	
+S12PRr3	Trip4	Rhizosphere			False	
+S13Dr1	Trip4	Deep			False	
+S13Dr2	Trip4	Deep			False	
+S13Dr3	Trip4	Deep			False	
+S13Sr1	Trip4	Surface			False	
+S13Sr2	Trip4	Surface			False	
+S13Sr3	Trip4	Surface			False	
+S13PRr1	Trip4	Rhizosphere			False	
+S13PRr2	Trip4	Rhizosphere			False	
+S13PRr3	Trip4	Rhizosphere			False	
+S14Dr1	Trip4	Deep			False	
+S14Dr2	Trip4	Deep			False	
+S14Dr3	Trip4	Deep			False	
+S14Sr1	Trip4	Surface			False	
+S14Sr2	Trip4	Surface			False	
+S14Sr3	Trip4	Surface			False	
+S14PRr1	Trip4	Rhizosphere			False	
+S14PRr2	Trip4	Rhizosphere			False	
+S14PRr3	Trip4	Rhizosphere			False	
+S15Dr1	Trip4	Deep			False	
+S15Dr2	Trip4	Deep			False	
+S15Dr3	Trip4	Deep			False	
+S15Sr1	Trip4	Surface			False	
+S15Sr2	Trip4	Surface			False	
+S15Sr3	Trip4	Surface			False	
+S15PRr1	Trip4	Rhizosphere			False	
+S15PRr2	Trip4	Rhizosphere			False	
+S15PRr3	Trip4	Rhizosphere			False	
+S16Dr1	Trip4	Deep			False	
+S16Dr2	Trip4	Deep			False	
+S16Dr3	Trip4	Deep			False	
+S16Sr1	Trip4	Surface			False	
+S16Sr2	Trip4	Surface			False	
+S16Sr3	Trip4	Surface			False	
+S16PRr1	Trip4	Rhizosphere			False	
+S16PRr2	Trip4	Rhizosphere			False	
+S16PRr3	Trip4	Rhizosphere			False	
+S17Dr1	Trip4	Deep			False	
+S17Dr2	Trip4	Deep			False	
+S17Dr3	Trip4	Deep			False	
+S17Sr1	Trip4	Surface			False	
+S17Sr2	Trip4	Surface			False	
+S17Sr3	Trip4	Surface			False	
+S17PRr1	Trip4	Rhizosphere			False	
+S17PRr2	Trip4	Rhizosphere			False	
+S17PRr3	Trip4	Rhizosphere			False	
+S18Dr1	Trip4	Deep			False	
+S18Dr2	Trip4	Deep			False	
+S18Dr3	Trip4	Deep			False	
+S18Sr1	Trip4	Surface			False	
+S18Sr2	Trip4	Surface			False	
+S18Sr3	Trip4	Surface			False	
+S18PRr1	Trip4	Rhizosphere			False	
+S18PRr2	Trip4	Rhizosphere			False	
+S18PRr3	Trip4	Rhizosphere			False	
+S19Dr1	Trip4	Deep			False	
+S19Dr2	Trip4	Deep			False	
+S19Dr3	Trip4	Deep			False	
+S19Sr1	Trip4	Surface			False	
+S19Sr2	Trip4	Surface			False	
+S19Sr3	Trip4	Surface			False	
+S19PRr1	Trip4	Rhizosphere			False	
+S19PRr2	Trip4	Rhizosphere			False	
+S19PRr3	Trip4	Rhizosphere			False	
+S20Dr1	Trip4	Deep			False	
+S20Dr2	Trip4	Deep			False	
+S20Dr3	Trip4	Deep			False	
+S20Sr1	Trip4	Surface			False	
+S20Sr2	Trip4	Surface			False	
+S20Sr3	Trip4	Surface			False	
+S20PRr1	Trip4	Rhizosphere			False	
+S20PRr2	Trip4	Rhizosphere			False	
+S20PRr3	Trip4	Rhizosphere			False	
+S21Dr1	Trip4	Deep			False	
+S21Dr2	Trip4	Deep			False	
+S21Dr3	Trip4	Deep			False	
+S21Sr1	Trip4	Surface			False	
+S21Sr2	Trip4	Surface			False	
+S21Sr3	Trip4	Surface			False	
+S21PRr1	Trip4	Rhizosphere			False	
+S21PRr2	Trip4	Rhizosphere			False	
+S21PRr3	Trip4	Rhizosphere			False	
+S22Dr1	Trip4	Deep		QIACube	False	
+S22Dr2	Trip4	Deep		QIACube	False	
+S22Dr3	Trip4	Deep		QIACube	False	
+S22Sr1	Trip4	Surface		QIACube	False	
+S22Sr2	Trip4	Surface		QIACube	False	
+S22Sr3	Trip4	Surface		QIACube	False	
+S22PRr1	Trip4	Rhizosphere		QIACube	False	
+S22PRr2	Trip4	Rhizosphere		QIACube	False	
+S22PRr3	Trip4	Rhizosphere		QIACube	False	
+S23Dr1	Trip4	Deep			False	
+S23Dr2	Trip4	Deep			False	
+S23Dr3	Trip4	Deep			False	
+S23Sr1	Trip4	Surface			False	
+S23Sr2	Trip4	Surface			False	
+S23Sr3	Trip4	Surface			False	
+S23PRr1	Trip4	Rhizosphere			False	
+S23PRr2	Trip4	Rhizosphere			False	
+S23PRr3	Trip4	Rhizosphere			False	
+S24Dr1	Trip4	Deep			False	
+S24Dr2	Trip4	Deep			False	
+S24Dr3	Trip4	Deep			False	
+S24Sr1	Trip4	Surface			False	
+S24Sr2	Trip4	Surface			False	
+S24Sr3	Trip4	Surface			False	
+S24PRr1	Trip4	Rhizosphere			False	
+S24PRr2	Trip4	Rhizosphere			False	
+S24PRr3	Trip4	Rhizosphere			False	
+S25Dr1	Trip4	Deep			False	
+S25Dr2	Trip4	Deep			False	
+S25Dr3	Trip4	Deep			False	
+S25Sr1	Trip4	Surface			False	
+S25Sr2	Trip4	Surface			False	
+S25Sr3	Trip4	Surface			False	
+S25PRr1	Trip4	Rhizosphere			False	
+S25PRr2	Trip4	Rhizosphere			False	
+S25PRr3	Trip4	Rhizosphere			False	
+S26Dr1	Trip4	Deep			False	
+S26Dr2	Trip4	Deep			False	
+S26Dr3	Trip4	Deep			False	
+S26Sr1	Trip4	Surface			False	
+S26Sr2	Trip4	Surface			False	
+S26Sr3	Trip4	Surface			False	
+S26PRr1	Trip4	Rhizosphere			False	
+S26PRr2	Trip4	Rhizosphere			False	
+S26PRr3	Trip4	Rhizosphere			False	
+S27Dr1	Trip4	Deep			False	
+S27Dr2	Trip4	Deep			False	
+S27Dr3	Trip4	Deep			False	
+S27Sr1	Trip4	Surface			False	
+S27Sr2	Trip4	Surface			False	
+S27Sr3	Trip4	Surface			False	
+S27PRr1	Trip4	Rhizosphere			False	
+S27PRr2	Trip4	Rhizosphere			False	
+S27PRr3	Trip4	Rhizosphere			False	
+S28Dr1	Trip4	Deep			False	
+S28Dr2	Trip4	Deep			False	
+S28Dr3	Trip4	Deep			False	
+S28Sr1	Trip4	Surface			False	
+S28Sr2	Trip4	Surface			False	
+S28Sr3	Trip4	Surface			False	
+S28PRr1	Trip4	Rhizosphere			False	
+S28PRr2	Trip4	Rhizosphere			False	
+S28PRr3	Trip4	Rhizosphere			False	
+S29Dr1	Trip4	Deep			False	
+S29Dr2	Trip4	Deep			False	
+S29Dr3	Trip4	Deep			False	
+S29Sr1	Trip4	Surface			False	
+S29Sr2	Trip4	Surface			False	
+S29Sr3	Trip4	Surface			False	
+S29PRr1	Trip4	Rhizosphere			False	
+S29PRr2	Trip4	Rhizosphere			False	
+S29PRr3	Trip4	Rhizosphere			False	
+S30Dr1	Trip4	Deep			False	
+S30Dr2	Trip4	Deep			False	
+S30Dr3	Trip4	Deep			False	
+S30Sr1	Trip4	Surface			False	
+S30Sr2	Trip4	Surface			False	
+S30Sr3	Trip4	Surface			False	
+S30PRr1	Trip4	Rhizosphere			False	
+S30PRr2	Trip4	Rhizosphere			False	
+S30PRr3	Trip4	Rhizosphere			False	
+S31Dr1	Trip4	Deep			False	
+S31Dr2	Trip4	Deep			False	
+S31Dr3	Trip4	Deep			False	
+S31Sr1	Trip4	Surface			False	
+S31Sr2	Trip4	Surface			False	
+S31Sr3	Trip4	Surface			False	
+S31PRr1	Trip4	Rhizosphere			False	
+S31PRr2	Trip4	Rhizosphere			False	
+S31PRr3	Trip4	Rhizosphere			False	
+S32Dr1	Trip4	Deep			False	
+S32Dr2	Trip4	Deep			False	
+S32Dr3	Trip4	Deep			False	
+S32Sr1	Trip4	Surface			False	
+S32Sr2	Trip4	Surface			False	
+S32Sr3	Trip4	Surface			False	
+S32PRr1	Trip4	Rhizosphere			False	
+S32PRr2	Trip4	Rhizosphere			False	
+S32PRr3	Trip4	Rhizosphere			False	
+S33Dr1	Trip4	Deep			False	
+S33Dr2	Trip4	Deep			False	
+S33Dr3	Trip4	Deep			False	
+S33Sr1	Trip4	Surface			False	
+S33Sr2	Trip4	Surface			False	
+S33Sr3	Trip4	Surface			False	
+S33PRr1	Trip4	Rhizosphere			False	
+S33PRr2	Trip4	Rhizosphere			False	
+S33PRr3	Trip4	Rhizosphere			False	
+S34Dr1	Trip4	Deep			False	
+S34Dr2	Trip4	Deep			False	
+S34Dr3	Trip4	Deep			False	
+S34Sr1	Trip4	Surface			False	
+S34Sr2	Trip4	Surface			False	
+S34Sr3	Trip4	Surface			False	
+S34PRr1	Trip4	Rhizosphere			False	
+S34PRr2	Trip4	Rhizosphere			False	
+S34PRr3	Trip4	Rhizosphere			False	
+S35Dr1	Trip4	Deep			False	
+S35Dr2	Trip4	Deep			False	
+S35Dr3	Trip4	Deep			False	
+S35Sr1	Trip4	Surface			False	
+S35Sr2	Trip4	Surface			False	
+S35Sr3	Trip4	Surface			False	
+S35PRr1	Trip4	Rhizosphere			False	
+S35PRr2	Trip4	Rhizosphere			False	
+S35PRr3	Trip4	Rhizosphere			False	
+S36Dr1	Trip4	Deep			False	
+S36Dr2	Trip4	Deep			False	
+S36Dr3	Trip4	Deep			False	
+S36Sr1	Trip4	Surface			False	
+S36Sr2	Trip4	Surface			False	
+S36Sr3	Trip4	Surface			False	
+S36PRr1	Trip4	Rhizosphere			False	
+S36PRr2	Trip4	Rhizosphere			False	
+S36PRr3	Trip4	Rhizosphere			False	
+S37Dr1	Trip4	Deep			False	
+S37Dr2	Trip4	Deep			False	
+S37Dr3	Trip4	Deep			False	
+S37Sr1	Trip4	Surface			False	
+S37Sr2	Trip4	Surface			False	
+S37Sr3	Trip4	Surface			False	
+S37PRr1	Trip4	Rhizosphere			False	
+S37PRr2	Trip4	Rhizosphere			False	
+S37PRr3	Trip4	Rhizosphere			False	
+S38Dr1	Trip4	Deep			False	
+S38Dr2	Trip4	Deep			False	
+S38Dr3	Trip4	Deep			False	
+S38Sr1	Trip4	Surface			False	
+S38Sr2	Trip4	Surface			False	
+S38Sr3	Trip4	Surface			False	
+S38PRr1	Trip4	Rhizosphere			False	
+S38PRr2	Trip4	Rhizosphere			False	
+S38PRr3	Trip4	Rhizosphere			False	
+S39Dr1	Trip4	Deep			False	
+S39Dr2	Trip4	Deep			False	
+S39Dr3	Trip4	Deep			False	
+S39Sr1	Trip4	Surface			False	
+S39Sr2	Trip4	Surface			False	
+S39Sr3	Trip4	Surface			False	
+S39PRr1	Trip4	Rhizosphere			False	
+S39PRr2	Trip4	Rhizosphere			False	
+S39PRr3	Trip4	Rhizosphere			False	
+S40Dr1	Trip4	Deep			False	
+S40Dr2	Trip4	Deep			False	
+S40Dr3	Trip4	Deep			False	
+S40Sr1	Trip4	Surface			False	
+S40Sr2	Trip4	Surface			False	
+S40Sr3	Trip4	Surface			False	
+S40PRr1	Trip4	Rhizosphere			False	
+S40PRr2	Trip4	Rhizosphere			False	
+S40PRr3	Trip4	Rhizosphere			False	
+S41Dr1	Trip4	Deep			False	
+S41Dr2	Trip4	Deep			False	
+S41Dr3	Trip4	Deep			False	
+S41Sr1	Trip4	Surface			False	
+S41Sr2	Trip4	Surface			False	
+S41Sr3	Trip4	Surface			False	
+S41PRr1	Trip4	Rhizosphere			False	
+S41PRr2	Trip4	Rhizosphere			False	
+S41PRr3	Trip4	Rhizosphere			False	
+S42Dr1	Trip4	Deep			False	
+S42Dr2	Trip4	Deep			False	
+S42Dr3	Trip4	Deep			False	
+S42Sr1	Trip4	Surface			False	
+S42Sr2	Trip4	Surface			False	
+S42Sr3	Trip4	Surface			False	
+S42PRr1	Trip4	Rhizosphere			False	
+S42PRr2	Trip4	Rhizosphere			False	
+S42PRr3	Trip4	Rhizosphere			False	
+S43Dr1	Trip4	Deep			False	
+S43Dr2	Trip4	Deep			False	
+S43Dr3	Trip4	Deep			False	
+S43Sr1	Trip4	Surface			False	
+S43Sr2	Trip4	Surface			False	
+S43Sr3	Trip4	Surface			False	
+S43PRr1	Trip4	Rhizosphere			False	
+S43PRr2	Trip4	Rhizosphere			False	
+S43PRr3	Trip4	Rhizosphere			False	
+S44Dr1	Trip4	Deep			False	
+S44Dr2	Trip4	Deep			False	
+S44Dr3	Trip4	Deep			False	
+S44Sr1	Trip4	Surface			False	
+S44Sr2	Trip4	Surface			False	
+S44Sr3	Trip4	Surface			False	
+S44PRr1	Trip4	Rhizosphere			False	
+S44PRr2	Trip4	Rhizosphere			False	
+S44PRr3	Trip4	Rhizosphere			False	
+S45Dr1	Trip4	Deep			False	
+S45Dr2	Trip4	Deep			False	
+S45Dr3	Trip4	Deep			False	
+S45Sr1	Trip4	Surface			False	
+S45Sr2	Trip4	Surface			False	
+S45Sr3	Trip4	Surface			False	
+S45PRr1	Trip4	Rhizosphere			False	
+S45PRr2	Trip4	Rhizosphere			False	
+S45PRr3	Trip4	Rhizosphere			False	
+S46Dr1	Trip4	Deep			False	
+S46Dr2	Trip4	Deep			False	NEBNext
+S46Dr3	Trip4	Deep			False	
+S46Sr1	Trip4	Surface			False	
+S46Sr2	Trip4	Surface			False	
+S46Sr3	Trip4	Surface			False	
+S46PRr1	Trip4	Rhizosphere			False	
+S46PRr2	Trip4	Rhizosphere			False	
+S46PRr3	Trip4	Rhizosphere			False	
+S47Dr1	Trip4	Deep		QIACube	False	
+S47Dr2	Trip4	Deep		QIACube	False	
+S47Dr3	Trip4	Deep		QIACube	False	
+S47Sr1	Trip4	Surface			False	
+S47Sr2	Trip4	Surface			False	
+S47Sr3	Trip4	Surface			False	
+S47PRr1	Trip4	Rhizosphere			False	
+S47PRr2	Trip4	Rhizosphere			False	
+S47PRr3	Trip4	Rhizosphere			False	
+S48Dr1	Trip4	Deep			False	
+S48Dr2	Trip4	Deep			False	
+S48Dr3	Trip4	Deep			False	
+S48Sr1	Trip4	Surface			False	
+S48Sr2	Trip4	Surface			False	
+S48Sr3	Trip4	Surface			False	
+S48PRr1	Trip4	Rhizosphere			False	
+S48PRr2	Trip4	Rhizosphere			False	
+S48PRr3	Trip4	Rhizosphere			False	
+S49Dr1	Trip4	Deep			False	
+S49Dr2	Trip4	Deep			False	
+S49Dr3	Trip4	Deep			False	
+S49Sr1	Trip4	Surface			False	
+S49Sr2	Trip4	Surface			False	
+S49Sr3	Trip4	Surface			False	
+S49PRr1	Trip4	Rhizosphere			False	
+S49PRr2	Trip4	Rhizosphere			False	
+S49PRr3	Trip4	Rhizosphere			False	
+S50Dr1	Trip4	Deep			False	
+S50Dr2	Trip4	Deep			False	
+S50Dr3	Trip4	Deep			False	
+S50Sr1	Trip4	Surface			False	
+S50Sr2	Trip4	Surface			False	
+S50Sr3	Trip4	Surface			False	
+S50PRr1	Trip4	Rhizosphere			False	
+S50PRr2	Trip4	Rhizosphere			False	
+S50PRr3	Trip4	Rhizosphere			False	
+S51Dr1	Trip4	Deep			False	
+S51Dr2	Trip4	Deep			False	
+S51Dr3	Trip4	Deep			False	
+S51Sr1	Trip4	Surface			False	
+S51Sr2	Trip4	Surface			False	
+S51Sr3	Trip4	Surface			False	
+S51PRr1	Trip4	Rhizosphere			False	
+S51PRr2	Trip4	Rhizosphere			False	
+S51PRr3	Trip4	Rhizosphere			False	
+S52Dr1	Trip4	Deep			False	
+S52Dr2	Trip4	Deep			False	
+S52Dr3	Trip4	Deep			False	
+S52Sr1	Trip4	Surface			False	
+S52Sr2	Trip4	Surface			False	
+S52Sr3	Trip4	Surface			False	
+S52PRr1	Trip4	Rhizosphere			False	
+S52PRr2	Trip4	Rhizosphere			False	
+S52PRr3	Trip4	Rhizosphere			False	
+S53Dr1	Trip4	Deep			False	
+S53Dr2	Trip4	Deep			False	
+S53Dr3	Trip4	Deep			False	
+S53Sr1	Trip4	Surface			False	
+S53Sr2	Trip4	Surface			False	
+S53Sr3	Trip4	Surface			False	
+S53PRr1	Trip4	Rhizosphere			False	
+S53PRr2	Trip4	Rhizosphere			False	
+S53PRr3	Trip4	Rhizosphere			False	
+S54Dr1	Trip4	Deep			False	
+S54Dr2	Trip4	Deep			False	
+S54Dr3	Trip4	Deep			False	
+S54Sr1	Trip4	Surface			False	
+S54Sr2	Trip4	Surface			False	
+S54Sr3	Trip4	Surface			False	
+S54PRr1	Trip4	Rhizosphere			False	
+S54PRr2	Trip4	Rhizosphere			False	
+S54PRr3	Trip4	Rhizosphere			False	
+S55Dr1	Trip4	Deep			False	
+S55Dr2	Trip4	Deep			False	
+S55Dr3	Trip4	Deep			False	
+S55Sr1	Trip4	Surface			False	
+S55Sr2	Trip4	Surface			False	
+S55Sr3	Trip4	Surface			False	
+S55PRr1	Trip4	Rhizosphere			False	
+S55PRr2	Trip4	Rhizosphere			False	
+S55PRr3	Trip4	Rhizosphere			False	
+S56Dr1	Trip4	Deep			False	
+S56Dr2	Trip4	Deep			False	
+S56Dr3	Trip4	Deep			False	
+S56Sr1	Trip4	Surface			False	
+S56Sr2	Trip4	Surface			False	
+S56Sr3	Trip4	Surface			False	
+S56PRr1	Trip4	Rhizosphere			False	
+S56PRr2	Trip4	Rhizosphere			False	
+S56PRr3	Trip4	Rhizosphere			False	
+S57Dr1	Trip4	Deep			False	
+S57Dr2	Trip4	Deep			False	
+S57Dr3	Trip4	Deep			False	
+S57Sr1	Trip4	Surface			False	
+S57Sr2	Trip4	Surface			False	
+S57Sr3	Trip4	Surface			False	
+S57PRr1	Trip4	Rhizosphere			False	
+S57PRr2	Trip4	Rhizosphere			False	
+S57PRr3	Trip4	Rhizosphere			False	
+S58Dr1	Trip4	Deep			False	
+S58Dr2	Trip4	Deep			False	
+S58Dr3	Trip4	Deep			False	
+S58Sr1	Trip4	Surface			False	
+S58Sr2	Trip4	Surface			False	
+S58Sr3	Trip4	Surface			False	
+S58PRr1	Trip4	Rhizosphere			False	
+S58PRr2	Trip4	Rhizosphere			False	
+S58PRr3	Trip4	Rhizosphere			False	
+S59Dr1	Trip4	Deep			False	
+S59Dr2	Trip4	Deep			False	
+S59Dr3	Trip4	Deep			False	
+S59Sr1	Trip4	Surface			False	
+S59Sr2	Trip4	Surface			False	
+S59Sr3	Trip4	Surface			False	
+S59PRr1	Trip4	Rhizosphere			False	
+S59PRr2	Trip4	Rhizosphere			False	
+S59PRr3	Trip4	Rhizosphere			False	
+S60Dr1	Trip4	Deep			False	
+S60Dr2	Trip4	Deep			False	
+S60Dr3	Trip4	Deep			False	
+S60Sr1	Trip4	Surface			False	
+S60Sr2	Trip4	Surface			False	
+S60Sr3	Trip4	Surface			False	
+S60PRr1	Trip4	Rhizosphere			False	
+S60PRr2	Trip4	Rhizosphere			False	
+S60PRr3	Trip4	Rhizosphere			False	
+- Ctrl 1	Trip4	Deep			False	
+- Ctrl 2	Trip4	Deep			False	
+- Ctrl 3	Trip4	Deep			False	
+=+ Ctrl 1	Trip4	Surface			False	
+=+ Ctrl 2	Trip4	Surface			False	
+=+ Ctrl 3	Trip4	Surface			False	
+Extraction Ctrl	Trip4	Rhizosphere			False	
+PCR Ctrl	Trip4	Rhizosphere			False	
+V1Dr1	Trip5	Deep		QIACube	False	
+V1Dr2	Trip5	Deep			False	
+V1Dr3	Trip5	Deep			False	
+V1Sr1	Trip5	Surface		QIACube	False	
+V1Sr2	Trip5	Surface			False	
+V1Sr3	Trip5	Surface			False	
+V1PRr1	Trip5	Rhizosphere		QIACube	False	
+V1PRr2	Trip5	Rhizosphere			False	
+V1PRr3	Trip5	Rhizosphere			False	
+V2Dr1	Trip5	Deep		QIACube	False	
+V2Dr2	Trip5	Deep			False	
+V2Dr3	Trip5	Deep			False	
+V2Sr1	Trip5	Surface		QIACube	False	
+V2Sr2	Trip5	Surface			False	
+V2Sr3	Trip5	Surface			False	
+V2PRr1	Trip5	Rhizosphere		QIACube	False	
+V2PRr2	Trip5	Rhizosphere			False	
+V2PRr3	Trip5	Rhizosphere			False	
+V3Dr1	Trip5	Deep		QIACube	False	
+V3Dr2	Trip5	Deep			False	
+V3Dr3	Trip5	Deep			False	
+V3Sr1	Trip5	Surface		QIACube	False	
+V3Sr2	Trip5	Surface			False	
+V3Sr3	Trip5	Surface			False	
+V3PRr1	Trip5	Rhizosphere		QIACube	False	
+V3PRr2	Trip5	Rhizosphere			False	
+V3PRr3	Trip5	Rhizosphere			False	
+V4Dr1	Trip5	Deep	0.05	QIACube	False	
+V4Dr2	Trip5	Deep			False	
+V4Dr3	Trip5	Deep			False	
+V4Sr1	Trip5	Surface	0.05	QIACube	False	
+V4Sr2	Trip5	Surface			False	
+V4Sr3	Trip5	Surface			False	
+V4PRr1	Trip5	Rhizosphere	7.23	QIACube	False	
+V4PRr2	Trip5	Rhizosphere			False	
+V4PRr3	Trip5	Rhizosphere			False	
+V5Dr1	Trip5	Deep		QIACube	False	
+V5Dr2	Trip5	Deep			False	
+V5Dr3	Trip5	Deep			False	
+V5Sr1	Trip5	Surface		QIACube	False	
+V5Sr2	Trip5	Surface			False	
+V5Sr3	Trip5	Surface			False	
+V5PRr1	Trip5	Rhizosphere		QIACube	False	
+V5PRr2	Trip5	Rhizosphere			False	
+V5PRr3	Trip5	Rhizosphere			False	
+V6Dr1	Trip5	Deep	0.05	QIACube	False	
+V6Dr2	Trip5	Deep			False	
+V6Dr3	Trip5	Deep			False	
+V6Sr1	Trip5	Surface	0.05	QIACube	False	
+V6Sr2	Trip5	Surface			False	
+V6Sr3	Trip5	Surface			False	
+V6PRr1	Trip5	Rhizosphere	1.22	QIACube	False	
+V6PRr2	Trip5	Rhizosphere			False	
+V6PRr3	Trip5	Rhizosphere			False	
+V7Dr1	Trip5	Deep	0.05	QIACube	False	
+V7Dr2	Trip5	Deep			False	
+V7Dr3	Trip5	Deep			False	
+V7Sr1	Trip5	Surface		QIACube	False	
+V7Sr2	Trip5	Surface			False	
+V7Sr3	Trip5	Surface			False	
+V7PRr1	Trip5	Rhizosphere	0.184	QIACube	False	
+V7PRr2	Trip5	Rhizosphere			False	
+V7PRr3	Trip5	Rhizosphere			False	
+V8Dr1	Trip5	Deep		QIACube	False	
+V8Dr2	Trip5	Deep			False	
+V8Dr3	Trip5	Deep			False	
+V8Sr1	Trip5	Surface		QIACube	False	
+V8Sr2	Trip5	Surface			False	
+V8Sr3	Trip5	Surface			False	
+V8PRr1	Trip5	Rhizosphere		QIACube	False	
+V8PRr2	Trip5	Rhizosphere			False	
+V8PRr3	Trip5	Rhizosphere			False	
+V9Dr1	Trip5	Deep		QIACube	False	
+V9Dr2	Trip5	Deep			False	
+V9Dr3	Trip5	Deep			False	
+V9Sr1	Trip5	Surface		QIACube	False	
+V9Sr2	Trip5	Surface			False	
+V9Sr3	Trip5	Surface			False	
+V9PRr1	Trip5	Rhizosphere		QIACube	False	
+V9PRr2	Trip5	Rhizosphere			False	
+V9PRr3	Trip5	Rhizosphere			False	
+V10Dr1	Trip5	Deep		QIACube	False	
+V10Dr2	Trip5	Deep			False	
+V10Dr3	Trip5	Deep			False	
+V10Sr1	Trip5	Surface		QIACube	False	
+V10Sr2	Trip5	Surface			False	
+V10Sr3	Trip5	Surface			False	
+V10PRr1	Trip5	Rhizosphere		QIACube	False	
+V10PRr2	Trip5	Rhizosphere			False	
+V10PRr3	Trip5	Rhizosphere			False	
+V11Dr1	Trip5	Deep		QIACube	False	
+V11Dr2	Trip5	Deep			False	
+V11Dr3	Trip5	Deep			False	
+V11Sr1	Trip5	Surface		QIACube	False	
+V11Sr2	Trip5	Surface			False	
+V11Sr3	Trip5	Surface			False	
+V11PRr1	Trip5	Rhizosphere		QIACube	False	
+V11PRr2	Trip5	Rhizosphere			False	
+V11PRr3	Trip5	Rhizosphere			False	
+V12Dr1	Trip5	Deep		QIACube	False	
+V12Dr2	Trip5	Deep			False	
+V12Dr3	Trip5	Deep			False	
+V12Sr1	Trip5	Surface		QIACube	False	
+V12Sr2	Trip5	Surface			False	
+V12Sr3	Trip5	Surface			False	
+V12PRr1	Trip5	Rhizosphere		QIACube	False	
+V12PRr2	Trip5	Rhizosphere			False	
+V12PRr3	Trip5	Rhizosphere			False	
+V13Dr1	Trip5	Deep		QIACube	False	
+V13Dr2	Trip5	Deep			False	
+V13Dr3	Trip5	Deep			False	
+V13Sr1	Trip5	Surface		QIACube	False	
+V13Sr2	Trip5	Surface			False	
+V13Sr3	Trip5	Surface			False	
+V13PRr1	Trip5	Rhizosphere		QIACube	False	
+V13PRr2	Trip5	Rhizosphere			False	
+V13PRr3	Trip5	Rhizosphere			False	
+V14Dr1	Trip5	Deep		QIACube	False	
+V14Dr2	Trip5	Deep			False	
+V14Dr3	Trip5	Deep			False	
+V14Sr1	Trip5	Surface		QIACube	False	
+V14Sr2	Trip5	Surface			False	
+V14Sr3	Trip5	Surface			False	
+V14PRr1	Trip5	Rhizosphere		QIACube	False	
+V14PRr2	Trip5	Rhizosphere			False	
+V14PRr3	Trip5	Rhizosphere			False	
+V15Dr1	Trip5	Deep		QIACube	False	
+V15Dr2	Trip5	Deep			False	
+V15Dr3	Trip5	Deep			False	
+V15Sr1	Trip5	Surface		QIACube	False	
+V15Sr2	Trip5	Surface			False	
+V15Sr3	Trip5	Surface			False	
+V15PRr1	Trip5	Rhizosphere		QIACube	False	
+V15PRr2	Trip5	Rhizosphere			False	
+V15PRr3	Trip5	Rhizosphere			False	
+V16Dr1	Trip5	Deep		QIACube	False	
+V16Dr2	Trip5	Deep			False	
+V16Dr3	Trip5	Deep			False	
+V16Sr1	Trip5	Surface		QIACube	False	
+V16Sr2	Trip5	Surface			False	
+V16Sr3	Trip5	Surface			False	
+V16PRr1	Trip5	Rhizosphere		QIACube	False	
+V16PRr2	Trip5	Rhizosphere			False	
+V16PRr3	Trip5	Rhizosphere			False	
+V17Dr1	Trip5	Deep	0.06	QIACube	False	
+V17Dr2	Trip5	Deep			False	
+V17Dr3	Trip5	Deep			False	
+V17Sr1	Trip5	Surface	0.122	QIACube	False	
+V17Sr2	Trip5	Surface			False	
+V17Sr3	Trip5	Surface			False	
+V17PRr1	Trip5	Rhizosphere	3.28	QIACube	False	
+V17PRr2	Trip5	Rhizosphere			False	
+V17PRr3	Trip5	Rhizosphere			False	
+V18Dr1	Trip5	Deep	0.05	QIACube	False	
+V18Dr2	Trip5	Deep			False	
+V18Dr3	Trip5	Deep			False	
+V18Sr1	Trip5	Surface	0.05	QIACube	False	
+V18Sr2	Trip5	Surface			False	
+V18Sr3	Trip5	Surface			False	
+V18PRr1	Trip5	Rhizosphere	0.187	QIACube	False	
+V18PRr2	Trip5	Rhizosphere			False	
+V18PRr3	Trip5	Rhizosphere			False	
+V19Dr1	Trip5	Deep	0.05	QIACube	False	
+V19Dr2	Trip5	Deep			False	
+V19Dr3	Trip5	Deep			False	
+V19Sr1	Trip5	Surface	0.05	QIACube	False	
+V19Sr2	Trip5	Surface			False	
+V19Sr3	Trip5	Surface			False	
+V19PRr1	Trip5	Rhizosphere	0.114	QIACube	False	
+V19PRr2	Trip5	Rhizosphere			False	
+V19PRr3	Trip5	Rhizosphere			False	
+V20Dr1	Trip5	Deep		QIACube	False	
+V20Dr2	Trip5	Deep			False	
+V20Dr3	Trip5	Deep			False	
+V20Sr1	Trip5	Surface		QIACube	False	
+V20Sr2	Trip5	Surface			False	
+V20Sr3	Trip5	Surface			False	
+V20PRr1	Trip5	Rhizosphere		QIACube	False	
+V20PRr2	Trip5	Rhizosphere			False	
+V20PRr3	Trip5	Rhizosphere			False	
+V21Dr1	Trip5	Deep		QIACube	False	
+V21Dr2	Trip5	Deep			False	
+V21Dr3	Trip5	Deep			False	
+V21Sr1	Trip5	Surface		QIACube	False	
+V21Sr2	Trip5	Surface			False	
+V21Sr3	Trip5	Surface			False	
+V21PRr1	Trip5	Rhizosphere		QIACube	False	
+V21PRr2	Trip5	Rhizosphere			False	
+V21PRr3	Trip5	Rhizosphere			False	
+V22Dr1	Trip5	Deep		QIACube	False	
+V22Dr2	Trip5	Deep			False	
+V22Dr3	Trip5	Deep			False	
+V22Sr1	Trip5	Surface		QIACube	False	
+V22Sr2	Trip5	Surface			False	
+V22Sr3	Trip5	Surface			False	
+V22PRr1	Trip5	Rhizosphere		QIACube	False	
+V22PRr2	Trip5	Rhizosphere			False	
+V22PRr3	Trip5	Rhizosphere			False	
+V23Dr1	Trip5	Deep		QIACube	False	
+V23Dr2	Trip5	Deep			False	
+V23Dr3	Trip5	Deep			False	
+V23Sr1	Trip5	Surface		QIACube	False	
+V23Sr2	Trip5	Surface			False	
+V23Sr3	Trip5	Surface			False	
+V23PRr1	Trip5	Rhizosphere		QIACube	False	
+V23PRr2	Trip5	Rhizosphere			False	
+V23PRr3	Trip5	Rhizosphere			False	
+V24Dr1	Trip5	Deep		QIACube	False	
+V24Dr2	Trip5	Deep			False	
+V24Dr3	Trip5	Deep			False	
+V24Sr1	Trip5	Surface		QIACube	False	
+V24Sr2	Trip5	Surface			False	
+V24Sr3	Trip5	Surface			False	
+V24PRr1	Trip5	Rhizosphere		QIACube	False	
+V24PRr2	Trip5	Rhizosphere			False	
+V24PRr3	Trip5	Rhizosphere			False	
+V25Dr1	Trip5	Deep		QIACube	False	
+V25Dr2	Trip5	Deep			False	
+V25Dr3	Trip5	Deep			False	
+V25Sr1	Trip5	Surface		QIACube	False	
+V25Sr2	Trip5	Surface			False	
+V25Sr3	Trip5	Surface			False	
+V25PRr1	Trip5	Rhizosphere		QIACube	False	
+V25PRr2	Trip5	Rhizosphere			False	
+V25PRr3	Trip5	Rhizosphere			False	
+V26Dr1	Trip5	Deep		QIACube	False	
+V26Dr2	Trip5	Deep			False	
+V26Dr3	Trip5	Deep			False	
+V26Sr1	Trip5	Surface		QIACube	False	
+V26Sr2	Trip5	Surface			False	
+V26Sr3	Trip5	Surface			False	
+V26PRr1	Trip5	Rhizosphere		QIACube	False	
+V26PRr2	Trip5	Rhizosphere			False	
+V26PRr3	Trip5	Rhizosphere			False	
+V27Dr1	Trip5	Deep		QIACube	False	
+V27Dr2	Trip5	Deep			False	
+V27Dr3	Trip5	Deep			False	
+V27Sr1	Trip5	Surface		QIACube	False	
+V27Sr2	Trip5	Surface			False	
+V27Sr3	Trip5	Surface			False	
+V27PRr1	Trip5	Rhizosphere		QIACube	False	
+V27PRr2	Trip5	Rhizosphere			False	
+V27PRr3	Trip5	Rhizosphere			False	
+V28Dr1	Trip5	Deep		QIACube	False	
+V28Dr2	Trip5	Deep			False	
+V28Dr3	Trip5	Deep			False	
+V28Sr1	Trip5	Surface		QIACube	False	
+V28Sr2	Trip5	Surface			False	
+V28Sr3	Trip5	Surface			False	
+V28PRr1	Trip5	Rhizosphere		QIACube	False	
+V28PRr2	Trip5	Rhizosphere			False	
+V28PRr3	Trip5	Rhizosphere			False	
+V29Dr1	Trip5	Deep	0.236	QIACube	False	
+V29Dr2	Trip5	Deep			False	
+V29Dr3	Trip5	Deep			False	
+V29Sr1	Trip5	Surface	0.412	QIACube	False	
+V29Sr2	Trip5	Surface			False	
+V29Sr3	Trip5	Surface			False	
+V29PRr1	Trip5	Rhizosphere	0.514	QIACube	False	
+V29PRr2	Trip5	Rhizosphere			False	
+V29PRr3	Trip5	Rhizosphere			False	
+V30Dr1	Trip5	Deep		QIACube	False	
+V30Dr2	Trip5	Deep			False	
+V30Dr3	Trip5	Deep			False	
+V30Sr1	Trip5	Surface		QIACube	False	
+V30Sr2	Trip5	Surface			False	
+V30Sr3	Trip5	Surface			False	
+V30PRr1	Trip5	Rhizosphere		QIACube	False	
+V30PRr2	Trip5	Rhizosphere			False	
+V30PRr3	Trip5	Rhizosphere			False	
+V31Dr1	Trip5	Deep		QIACube	False	
+V31Dr2	Trip5	Deep			False	
+V31Dr3	Trip5	Deep			False	
+V31Sr1	Trip5	Surface		QIACube	False	
+V31Sr2	Trip5	Surface			False	
+V31Sr3	Trip5	Surface			False	
+V31PRr1	Trip5	Rhizosphere		QIACube	False	
+V31PRr2	Trip5	Rhizosphere			False	
+V31PRr3	Trip5	Rhizosphere			False	
+V32Dr1	Trip5	Deep		QIACube	False	
+V32Dr2	Trip5	Deep			False	
+V32Dr3	Trip5	Deep			False	
+V32Sr1	Trip5	Surface		QIACube	False	
+V32Sr2	Trip5	Surface			False	
+V32Sr3	Trip5	Surface			False	
+V32PRr1	Trip5	Rhizosphere		QIACube	False	
+V32PRr2	Trip5	Rhizosphere			False	
+V32PRr3	Trip5	Rhizosphere			False	
+V33Dr1	Trip5	Deep		QIACube	False	
+V33Dr2	Trip5	Deep			False	
+V33Dr3	Trip5	Deep			False	
+V33Sr1	Trip5	Surface		QIACube	False	
+V33Sr2	Trip5	Surface			False	
+V33Sr3	Trip5	Surface			False	
+V33PRr1	Trip5	Rhizosphere		QIACube	False	
+V33PRr2	Trip5	Rhizosphere			False	
+V33PRr3	Trip5	Rhizosphere			False	
+V34Dr1	Trip5	Deep	0.06	QIACube	False	
+V34Dr2	Trip5	Deep			False	
+V34Dr3	Trip5	Deep			False	
+V34Sr1	Trip5	Surface	0.098	QIACube	False	
+V34Sr2	Trip5	Surface			False	
+V34Sr3	Trip5	Surface			False	
+V34PRr1	Trip5	Rhizosphere	1.45	QIACube	False	
+V34PRr2	Trip5	Rhizosphere			False	
+V34PRr3	Trip5	Rhizosphere			False	
+V35Dr1	Trip5	Deep		QIACube	False	
+V35Dr2	Trip5	Deep			False	
+V35Dr3	Trip5	Deep			False	
+V35Sr1	Trip5	Surface		QIACube	False	
+V35Sr2	Trip5	Surface			False	
+V35Sr3	Trip5	Surface			False	
+V35PRr1	Trip5	Rhizosphere		QIACube	False	
+V35PRr2	Trip5	Rhizosphere			False	
+V35PRr3	Trip5	Rhizosphere			False	
+V36Dr1	Trip5	Deep		QIACube	False	
+V36Dr2	Trip5	Deep			False	
+V36Dr3	Trip5	Deep			False	
+V36Sr1	Trip5	Surface		QIACube	False	
+V36Sr2	Trip5	Surface			False	
+V36Sr3	Trip5	Surface			False	
+V36PRr1	Trip5	Rhizosphere		QIACube	False	
+V36PRr2	Trip5	Rhizosphere			False	
+V36PRr3	Trip5	Rhizosphere			False	
+V37Dr1	Trip5	Deep		QIACube	False	
+V37Dr2	Trip5	Deep			False	
+V37Dr3	Trip5	Deep			False	
+V37Sr1	Trip5	Surface		QIACube	False	
+V37Sr2	Trip5	Surface			False	
+V37Sr3	Trip5	Surface			False	
+V37PRr1	Trip5	Rhizosphere		QIACube	False	
+V37PRr2	Trip5	Rhizosphere			False	
+V37PRr3	Trip5	Rhizosphere			False	
+V38Dr1	Trip5	Deep		QIACube	False	
+V38Dr2	Trip5	Deep			False	
+V38Dr3	Trip5	Deep			False	
+V38Sr1	Trip5	Surface		QIACube	False	
+V38Sr2	Trip5	Surface			False	
+V38Sr3	Trip5	Surface			False	
+V38PRr1	Trip5	Rhizosphere		QIACube	False	
+V38PRr2	Trip5	Rhizosphere			False	
+V38PRr3	Trip5	Rhizosphere			False	
+V39Dr1	Trip5	Deep		QIACube	False	
+V39Dr2	Trip5	Deep			False	
+V39Dr3	Trip5	Deep			False	
+V39Sr1	Trip5	Surface		QIACube	False	
+V39Sr2	Trip5	Surface			False	
+V39Sr3	Trip5	Surface			False	
+V39PRr1	Trip5	Rhizosphere		QIACube	False	
+V39PRr2	Trip5	Rhizosphere			False	
+V39PRr3	Trip5	Rhizosphere			False	
+V40Dr1	Trip5	Deep		QIACube	False	
+V40Dr2	Trip5	Deep			False	
+V40Dr3	Trip5	Deep			False	
+V40Sr1	Trip5	Surface		QIACube	False	
+V40Sr2	Trip5	Surface			False	
+V40Sr3	Trip5	Surface			False	
+V40PRr1	Trip5	Rhizosphere		QIACube	False	
+V40PRr2	Trip5	Rhizosphere			False	
+V40PRr3	Trip5	Rhizosphere			False	
+V41Dr1	Trip5	Deep		QIACube	False	
+V41Dr2	Trip5	Deep			False	
+V41Dr3	Trip5	Deep			False	
+V41Sr1	Trip5	Surface		QIACube	False	
+V41Sr2	Trip5	Surface			False	
+V41Sr3	Trip5	Surface			False	
+V41PRr1	Trip5	Rhizosphere		QIACube	False	
+V41PRr2	Trip5	Rhizosphere			False	
+V41PRr3	Trip5	Rhizosphere			False	
+V42Dr1	Trip5	Deep		QIACube	False	
+V42Dr2	Trip5	Deep			False	
+V42Dr3	Trip5	Deep			False	
+V42Sr1	Trip5	Surface		QIACube	False	
+V42Sr2	Trip5	Surface			False	
+V42Sr3	Trip5	Surface			False	
+V42PRr1	Trip5	Rhizosphere		QIACube	False	
+V42PRr2	Trip5	Rhizosphere			False	
+V42PRr3	Trip5	Rhizosphere			False	
+V43Dr1	Trip5	Deep		QIACube	False	
+V43Dr2	Trip5	Deep			False	
+V43Dr3	Trip5	Deep			False	
+V43Sr1	Trip5	Surface		QIACube	False	
+V43Sr2	Trip5	Surface			False	
+V43Sr3	Trip5	Surface			False	
+V43PRr1	Trip5	Rhizosphere		QIACube	False	
+V43PRr2	Trip5	Rhizosphere			False	
+V43PRr3	Trip5	Rhizosphere			False	
+V44Dr1	Trip5	Deep		QIACube	False	
+V44Dr2	Trip5	Deep			False	
+V44Dr3	Trip5	Deep			False	
+V44Sr1	Trip5	Surface		QIACube	False	
+V44Sr2	Trip5	Surface			False	
+V44Sr3	Trip5	Surface			False	
+V44PRr1	Trip5	Rhizosphere		QIACube	False	
+V44PRr2	Trip5	Rhizosphere			False	
+V44PRr3	Trip5	Rhizosphere			False	
+V45Dr1	Trip5	Deep		QIACube	False	
+V45Dr2	Trip5	Deep			False	
+V45Dr3	Trip5	Deep			False	
+V45Sr1	Trip5	Surface		QIACube	False	
+V45Sr2	Trip5	Surface			False	
+V45Sr3	Trip5	Surface			False	
+V45PRr1	Trip5	Rhizosphere		QIACube	False	
+V45PRr2	Trip5	Rhizosphere			False	
+V45PRr3	Trip5	Rhizosphere			False	
+V46Dr1	Trip5	Deep		QIACube	False	
+V46Dr2	Trip5	Deep			False	NEBNext
+V46Dr3	Trip5	Deep			False	
+V46Sr1	Trip5	Surface		QIACube	False	
+V46Sr2	Trip5	Surface			False	
+V46Sr3	Trip5	Surface			False	
+V46PRr1	Trip5	Rhizosphere		QIACube	False	
+V46PRr2	Trip5	Rhizosphere			False	
+V46PRr3	Trip5	Rhizosphere			False	
+V47Dr1	Trip5	Deep		QIACube	False	
+V47Dr2	Trip5	Deep			False	
+V47Dr3	Trip5	Deep			False	
+V47Sr1	Trip5	Surface		QIACube	False	
+V47Sr2	Trip5	Surface			False	
+V47Sr3	Trip5	Surface			False	
+V47PRr1	Trip5	Rhizosphere		QIACube	False	
+V47PRr2	Trip5	Rhizosphere			False	
+V47PRr3	Trip5	Rhizosphere			False	
+V48Dr1	Trip5	Deep		QIACube	False	
+V48Dr2	Trip5	Deep			False	
+V48Dr3	Trip5	Deep			False	
+V48Sr1	Trip5	Surface		QIACube	False	
+V48Sr2	Trip5	Surface			False	
+V48Sr3	Trip5	Surface			False	
+V48PRr1	Trip5	Rhizosphere		QIACube	False	
+V48PRr2	Trip5	Rhizosphere			False	
+V48PRr3	Trip5	Rhizosphere			False	
+V49Dr1	Trip5	Deep		QIACube	False	
+V49Dr2	Trip5	Deep			False	
+V49Dr3	Trip5	Deep			False	
+V49Sr1	Trip5	Surface		QIACube	False	
+V49Sr2	Trip5	Surface			False	
+V49Sr3	Trip5	Surface			False	
+V49PRr1	Trip5	Rhizosphere		QIACube	False	
+V49PRr2	Trip5	Rhizosphere			False	
+V49PRr3	Trip5	Rhizosphere			False	
+V50Dr1	Trip5	Deep		QIACube	False	
+V50Dr2	Trip5	Deep			False	
+V50Dr3	Trip5	Deep			False	
+V50Sr1	Trip5	Surface		QIACube	False	
+V50Sr2	Trip5	Surface			False	
+V50Sr3	Trip5	Surface			False	
+V50PRr1	Trip5	Rhizosphere		QIACube	False	
+V50PRr2	Trip5	Rhizosphere			False	
+V50PRr3	Trip5	Rhizosphere			False	
+V51Dr1	Trip5	Deep		QIACube	False	
+V51Dr2	Trip5	Deep			False	
+V51Dr3	Trip5	Deep			False	
+V51Sr1	Trip5	Surface		QIACube	False	
+V51Sr2	Trip5	Surface			False	
+V51Sr3	Trip5	Surface			False	
+V51PRr1	Trip5	Rhizosphere		QIACube	False	
+V51PRr2	Trip5	Rhizosphere			False	
+V51PRr3	Trip5	Rhizosphere			False	
+V52Dr1	Trip5	Deep		QIACube	False	
+V52Dr2	Trip5	Deep			False	
+V52Dr3	Trip5	Deep			False	
+V52Sr1	Trip5	Surface		QIACube	False	
+V52Sr2	Trip5	Surface			False	
+V52Sr3	Trip5	Surface			False	
+V52PRr1	Trip5	Rhizosphere			False	
+V52PRr2	Trip5	Rhizosphere			False	
+V52PRr3	Trip5	Rhizosphere			False	
+V53Dr1	Trip5	Deep		QIACube	False	
+V53Dr2	Trip5	Deep			False	
+V53Dr3	Trip5	Deep			False	
+V53Sr1	Trip5	Surface		QIACube	False	
+V53Sr2	Trip5	Surface			False	
+V53Sr3	Trip5	Surface			False	
+V53PRr1	Trip5	Rhizosphere		QIACube	False	
+V53PRr2	Trip5	Rhizosphere			False	
+V53PRr3	Trip5	Rhizosphere			False	
+V54Dr1	Trip5	Deep		QIACube	False	
+V54Dr2	Trip5	Deep			False	
+V54Dr3	Trip5	Deep			False	
+V54Sr1	Trip5	Surface		QIACube	False	
+V54Sr2	Trip5	Surface			False	
+V54Sr3	Trip5	Surface			False	
+V54PRr1	Trip5	Rhizosphere		QIACube	False	
+V54PRr2	Trip5	Rhizosphere			False	
+V54PRr3	Trip5	Rhizosphere			False	
+V55Dr1	Trip5	Deep		QIACube	False	
+V55Dr2	Trip5	Deep			False	
+V55Dr3	Trip5	Deep			False	
+V55Sr1	Trip5	Surface		QIACube	False	
+V55Sr2	Trip5	Surface			False	
+V55Sr3	Trip5	Surface			False	
+V55PRr1	Trip5	Rhizosphere		QIACube	False	
+V55PRr2	Trip5	Rhizosphere			False	
+V55PRr3	Trip5	Rhizosphere			False	
+V56Dr1	Trip5	Deep		QIACube	False	
+V56Dr2	Trip5	Deep			False	
+V56Dr3	Trip5	Deep			False	
+V56Sr1	Trip5	Surface		QIACube	False	
+V56Sr2	Trip5	Surface			False	
+V56Sr3	Trip5	Surface			False	
+V56PRr1	Trip5	Rhizosphere		QIACube	False	
+V56PRr2	Trip5	Rhizosphere			False	
+V56PRr3	Trip5	Rhizosphere			False	
+V57Dr1	Trip5	Deep		QIACube	False	
+V57Dr2	Trip5	Deep			False	
+V57Dr3	Trip5	Deep			False	
+V57Sr1	Trip5	Surface		QIACube	False	
+V57Sr2	Trip5	Surface			False	
+V57Sr3	Trip5	Surface			False	
+V57PRr1	Trip5	Rhizosphere		QIACube	False	
+V57PRr2	Trip5	Rhizosphere			False	
+V57PRr3	Trip5	Rhizosphere			False	
+V58Dr1	Trip5	Deep		QIACube	False	
+V58Dr2	Trip5	Deep			False	
+V58Dr3	Trip5	Deep			False	
+V58Sr1	Trip5	Surface		QIACube	False	
+V58Sr2	Trip5	Surface			False	
+V58Sr3	Trip5	Surface			False	
+V58PRr1	Trip5	Rhizosphere		QIACube	False	
+V58PRr2	Trip5	Rhizosphere			False	
+V58PRr3	Trip5	Rhizosphere			False	
+V59Dr1	Trip5	Deep		QIACube	False	
+V59Dr2	Trip5	Deep			False	
+V59Dr3	Trip5	Deep			False	
+V59Sr1	Trip5	Surface		QIACube	False	
+V59Sr2	Trip5	Surface			False	
+V59Sr3	Trip5	Surface			False	
+V59PRr1	Trip5	Rhizosphere		QIACube	False	
+V59PRr2	Trip5	Rhizosphere			False	
+V59PRr3	Trip5	Rhizosphere			False	
+V60Dr1	Trip5	Deep		QIACube	False	
+V60Dr2	Trip5	Deep			False	
+V60Dr3	Trip5	Deep			False	
+V60Sr1	Trip5	Surface		QIACube	False	
+V60Sr2	Trip5	Surface			False	
+V60Sr3	Trip5	Surface			False	
+V60PRr1	Trip5	Rhizosphere		QIACube	False	
+V60PRr2	Trip5	Rhizosphere			False	
+V60PRr3	Trip5	Rhizosphere			False	
+- Ctrl 1	Trip5	Deep			False	
+- Ctrl 2	Trip5	Deep			False	
+- Ctrl 3	Trip5	Deep			False	
+=+ Ctrl 1	Trip5	Surface			False	
+=+ Ctrl 2	Trip5	Surface			False	
+=+ Ctrl 3	Trip5	Surface			False	
+Extraction Ctrl	Trip5	Rhizosphere			False	
+PCR Ctrl	Trip5	Rhizosphere			False	
+1P	Trip1	plant			False	
+T1P	Trip2	plant			False	
+F1P	Trip3	plant			False	
+S1P	Trip4	plant			False	
+V1P	Trip5	plant			False	
+2P	Trip1	plant			False	
+T2P	Trip2	plant			False	
+F2P	Trip3	plant			False	
+S2P	Trip4	plant			False	
+V2P	Trip5	plant			False	
+3P	Trip1	plant			False	
+T3P	Trip2	plant			False	
+F3P	Trip3	plant			False	
+S3P	Trip4	plant			False	
+V3P	Trip5	plant			False	
+4P	Trip1	plant			False	
+T4P	Trip2	plant			False	
+F4P	Trip3	plant			False	
+S4P	Trip4	plant			False	
+V4P	Trip5	plant			False	
+5P	Trip1	plant			False	
+T5P	Trip2	plant			False	
+F5P	Trip3	plant			False	
+S5P	Trip4	plant			False	
+V5P	Trip5	plant			False	
+6P	Trip1	plant			False	
+T6P	Trip2	plant			False	
+F6P	Trip3	plant			False	
+S6P	Trip4	plant			False	
+V6P	Trip5	plant			False	
+7P	Trip1	plant			False	
+T7P	Trip2	plant			False	
+F7P	Trip3	plant			False	
+S7P	Trip4	plant			False	
+V7P	Trip5	plant			False	
+8P	Trip1	plant			False	
+T8P	Trip2	plant			False	
+F8P	Trip3	plant			False	
+S8P	Trip4	plant			False	
+V8P	Trip5	plant			False	
+9P	Trip1	plant			False	
+F9P	Trip3	plant			False	
+S9P	Trip4	plant			False	
+V9P	Trip5	plant			False	
+10P	Trip1	plant			False	
+F10P	Trip3	plant			False	
+S10P	Trip4	plant			False	
+V10P	Trip5	plant			False	
+11P	Trip1	plant			False	
+F11P	Trip3	plant			False	
+S11P	Trip4	plant			False	
+V11P	Trip5	plant			False	
+12P	Trip1	plant			False	
+F12P	Trip3	plant			False	
+S12P	Trip4	plant			False	
+V12P	Trip5	plant			False	
+13P	Trip1	plant			False	
+F13P	Trip3	plant			False	
+S13P	Trip4	plant			False	
+V13P	Trip5	plant			False	
+14P	Trip1	plant			False	
+F14P	Trip3	plant			False	
+S14P	Trip4	plant			False	
+V14P	Trip5	plant			False	
+15P	Trip1	plant			False	
+F15P	Trip3	plant			False	
+S15P	Trip4	plant			False	
+V15P	Trip5	plant			False	
+16P	Trip1	plant			False	
+F16P	Trip3	plant			False	
+S16P	Trip4	plant			False	
+V16P	Trip5	plant			False	
+17P	Trip1	plant			False	
+F17P	Trip3	plant			False	
+S17P	Trip4	plant			False	
+V17P	Trip5	plant			False	
+18P	Trip1	plant			False	
+F18P	Trip3	plant			False	
+S18P	Trip4	plant			False	
+V18P	Trip5	plant			False	
+19P	Trip1	plant			False	
+F19P	Trip3	plant			False	
+S19P	Trip4	plant			False	
+V19P	Trip5	plant			False	
+20P	Trip1	plant			False	
+F20P	Trip3	plant			False	
+S20P	Trip4	plant			False	
+V20P	Trip5	plant			False	
+21P	Trip1	plant			False	
+F21P	Trip3	plant			False	
+S21P	Trip4	plant			False	
+V21P	Trip5	plant			False	
+22P	Trip1	plant			False	
+F22P	Trip3	plant			False	
+S22P	Trip4	plant			False	
+V22P	Trip5	plant			False	
+23P	Trip1	plant			False	
+F23P	Trip3	plant			False	
+S23P	Trip4	plant			False	
+V23P	Trip5	plant			False	
+24P	Trip1	plant			False	
+F24P	Trip3	plant			False	
+S24P	Trip4	plant			False	
+V24P	Trip5	plant			False	
+25P	Trip1	plant			False	
+F25P	Trip3	plant			False	
+S25P	Trip4	plant			False	
+V25P	Trip5	plant			False	
+26P	Trip1	plant			False	
+F26P	Trip3	plant			False	
+S26P	Trip4	plant			False	
+V26P	Trip5	plant			False	
+27P	Trip1	plant			False	
+F27P	Trip3	plant			False	
+S27P	Trip4	plant			False	
+V27P	Trip5	plant			False	
+28P	Trip1	plant			False	
+F28P	Trip3	plant			False	
+S28P	Trip4	plant			False	
+V28P	Trip5	plant			False	
+29P	Trip1	plant			False	
+F29P	Trip3	plant			False	
+S29P	Trip4	plant			False	
+V29P	Trip5	plant			False	
+30P	Trip1	plant			False	
+F30P	Trip3	plant			False	
+S30P	Trip4	plant			False	
+V30P	Trip5	plant			False	
+31P	Trip1	plant			False	
+F31P	Trip3	plant			False	
+S31P	Trip4	plant			False	
+V31P	Trip5	plant			False	
+32P	Trip1	plant			False	
+F32P	Trip3	plant			False	
+S32P	Trip4	plant			False	
+V32P	Trip5	plant			False	
+33P	Trip1	plant			False	
+F33P	Trip3	plant			False	
+S33P	Trip4	plant			False	
+V33P	Trip5	plant			False	
+34P	Trip1	plant			False	
+F34P	Trip3	plant			False	
+S34P	Trip4	plant			False	
+V34P	Trip5	plant			False	
+35P	Trip1	plant			False	
+F35P	Trip3	plant			False	
+S35P	Trip4	plant			False	
+V35P	Trip5	plant			False	
+36P	Trip1	plant			False	
+F36P	Trip3	plant			False	
+S36P	Trip4	plant			False	
+V36P	Trip5	plant			False	
+37P	Trip1	plant			False	
+F37P	Trip3	plant			False	
+S37P	Trip4	plant			False	
+V37P	Trip5	plant			False	
+38P	Trip1	plant			False	
+F38P	Trip3	plant			False	
+S38P	Trip4	plant			False	
+V38P	Trip5	plant			False	
+39P	Trip1	plant			False	
+F39P	Trip3	plant			False	
+S39P	Trip4	plant			False	
+V39P	Trip5	plant			False	
+40P	Trip1	plant			False	
+F40P	Trip3	plant			False	
+S40P	Trip4	plant			False	
+V40P	Trip5	plant			False	
+41P	Trip1	plant			False	
+F41P	Trip3	plant			False	
+S41P	Trip4	plant			False	
+V41P	Trip5	plant			False	
+42P	Trip1	plant			False	
+F42P	Trip3	plant			False	
+S42P	Trip4	plant			False	
+V42P	Trip5	plant			False	
+43P	Trip1	plant			False	
+F43P	Trip3	plant			False	
+S43P	Trip4	plant			False	
+V43P	Trip5	plant			False	
+44P	Trip1	plant			False	
+F44P	Trip3	plant			False	
+S44P	Trip4	plant			False	
+V44P	Trip5	plant			False	
+45P	Trip1	plant			False	
+F45P	Trip3	plant			False	
+S45P	Trip4	plant			False	
+V45P	Trip5	plant			False	
+46P	Trip1	plant			False	
+F46P	Trip3	plant			False	
+S46P	Trip4	plant			False	
+V46P	Trip5	plant			False	
+47P	Trip1	plant			False	
+F47P	Trip3	plant			False	
+S47P	Trip4	plant			False	
+V47P	Trip5	plant			False	
+48P	Trip1	plant			False	
+F48P	Trip3	plant			False	
+S48P	Trip4	plant			False	
+V48P	Trip5	plant			False	
+49P	Trip1	plant			False	
+F49P	Trip3	plant			False	
+S49P	Trip4	plant			False	
+V49P	Trip5	plant			False	
+50P	Trip1	plant			False	
+F50P	Trip3	plant			False	
+S50P	Trip4	plant			False	
+V50P	Trip5	plant			False	
+51P	Trip1	plant			False	
+F51P	Trip3	plant			False	
+S51P	Trip4	plant			False	
+V51P	Trip5	plant			False	
+52P	Trip1	plant			False	
+F52P	Trip3	plant			False	
+S52P	Trip4	plant			False	
+V52P	Trip5	plant			False	
+53P	Trip1	plant			False	
+F53P	Trip3	plant			False	
+S53P	Trip4	plant			False	
+V53P	Trip5	plant			False	
+54P	Trip1	plant			False	
+F54P	Trip3	plant			False	
+S54P	Trip4	plant			False	
+V54P	Trip5	plant			False	
+55P	Trip1	plant			False	
+F55P	Trip3	plant			False	
+S55P	Trip4	plant			False	
+V55P	Trip5	plant			False	
+56P	Trip1	plant			False	
+F56P	Trip3	plant			False	
+S56P	Trip4	plant			False	
+V56P	Trip5	plant			False	
+57P	Trip1	plant			False	
+F57P	Trip3	plant			False	
+S57P	Trip4	plant			False	
+V57P	Trip5	plant			False	
+58P	Trip1	plant			False	
+F58P	Trip3	plant			False	
+S58P	Trip4	plant			False	
+V58P	Trip5	plant			False	
+59P	Trip1	plant			False	
+F59P	Trip3	plant			False	
+S59P	Trip4	plant			False	
+V59P	Trip5	plant			False	
+60P	Trip1	plant			False	
+F60P	Trip3	plant			False	
+S60P	Trip4	plant			False	
+V60P	Trip5	plant			False	

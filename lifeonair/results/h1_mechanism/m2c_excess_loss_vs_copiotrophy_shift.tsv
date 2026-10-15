@@ -1,0 +1,4 @@
+response	test	estimate	p_or_se	n	intercept_at_no_shift
+excess_1l	spearman	0.220414640904854	0.0231833526761582	106	NA
+excess_1l	lmer slope per log-unit	1.54791418410136	0.617191055122097	106	-1.58910799044128
+hydB_1l log2FC	lmer slope per log-unit	2.80362801293103	0.641846370585894	106	-1.61600932834975

@@ -1,0 +1,1 @@
+SEARCH DIRECTION: microbial genome traits (genome size, GC content, predicted maximal growth rate, codon usage bias) along aridity or desert gradients, and how these traits relate to trace-gas (H2, CO) oxidation capacity in dryland or desert metagenome-assembled genomes.

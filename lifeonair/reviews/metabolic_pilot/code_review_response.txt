@@ -1,0 +1,10 @@
+Disposition of Gemini code review, 12 October 2026
+
+1 Exchange direction: rejected. For -A_e -> nothing, positive flux removes extracellular A and negative flux supplies it. The implemented lower bound -uptake is correct. A 12-case synthetic LP test covers both coefficient signs and magnitudes; the proposed reversal would permit unbounded nutrient supply.
+2 Biomass switching: accepted and already repaired before the smoke test. gapsmith uses a cpd11416 drain objective supplied by bio1. growth_mode restores all biomass synthesis and objective-drain bounds; maintenance closes both. Rich-medium growth is positive in the smoke tests.
+3 ID sanitisation: audit, not assumed normalisation. COBRA retains the :: IDs in these source files despite SBML SId warnings. The implementation checks model gene IDs against the original proteome and maps curated markers by exact amino-acid sequence. Arbitrarily stripping punctuation risks false matches. Unmapped proteins remain explicit.
+4 Fixed ATPM lower bound: inspect actual models. The first inspected rxn00062 bounds are 0..1000, and the closed-uptake LPs are optimal at zero. Infeasible models are flagged, not scored as negative biology. Do not impose an undocumented universal basal requirement.
+5 CO2: rejected as stated. The plan defines equal ORGANIC-carbon input; inorganic carbon availability is explicit (CO2 uptake 1, not the review's claimed 10). Biomass is closed in hydrogen-maintenance runs. Anoxic controls test oxygen dependence at zero organic-carbon supply, not zero total carbon.
+6 Duplicate marker sequences: accepted. Store all typed protein IDs for each amino-acid sequence and retain one-to-many mappings. The simulation outputs separately count typed markers and mapped model genes.
+
+Additional internal check: expand the growth-test mineral medium to include trace metals required by the biomass reaction; ATP-maintenance scenarios retain the stated base medium. No inference of missing substrate use from biomass failure without a permissive positive control.

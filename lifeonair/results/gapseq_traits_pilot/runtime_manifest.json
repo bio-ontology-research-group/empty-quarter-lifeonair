@@ -1,0 +1,254 @@
+[
+  {
+    "rep": "9Dr3__single_SemiBin_62",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "7Dr1__single_SemiBin_99",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F41PRr1__single_SemiBin_61",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "54PRr2__single_SemiBin_82",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "38PRr3__single_SemiBin_177",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "S50PRr1__single_SemiBin_21",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "46PRr2__single_SemiBin_88",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "S19Sr1__single_SemiBin_44",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "10Dr2__single_SemiBin_6",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V12PRr1__single_SemiBin_120",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "7PRr2__single_SemiBin_58",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F2Sr2__single_SemiBin_30",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F27Dr1__single_SemiBin_119",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F33PRr1__single_SemiBin_67",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "S60PRr1__single_SemiBin_8",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "34Dr3__single_SemiBin_62",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V58PRr1__single_SemiBin_108",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V55Sr2__single_SemiBin_113",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V39Dr1__single_SemiBin_28",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "43PRr3__single_SemiBin_122",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "64Dr3__single_SemiBin_100",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V40PRr2__single_SemiBin_242",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "T5Dr1__single_SemiBin_19",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "19PRr2__single_SemiBin_112",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F1Sr1__single_SemiBin_77",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "4Dr1__single_SemiBin_11",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "T2PRr2__single_SemiBin_19",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F5Dr2__single_SemiBin_40",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F54PRr2__single_SemiBin_48",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F21Dr3__single_SemiBin_84",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F49PRr3__single_SemiBin_15",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F45Dr3__single_SemiBin_1",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F1PRr1__single_SemiBin_20",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F24PRr1__single_SemiBin_125",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "V11Sr2__single_SemiBin_23",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  },
+  {
+    "rep": "F2PRr2__single_SemiBin_53",
+    "script_sha256": "c63fba22c99a52c7eb526ff26344d09c30833b35274b9b9c2c32a5a398434bba",
+    "helper_sha256": "95f01d98dd7a0c79270295641069f6b2338fd9ae2ccc2d4c445d1593d0eb2536",
+    "python": "3.10.20 | packaged by conda-forge | (main, Mar  5 2026, 16:42:22) [GCC 14.3.0]",
+    "solver": "glpk"
+  }
+]

@@ -1,0 +1,70 @@
+id	kind	source	selector	field	reported	tolerance	scale	text_anchor
+P3-001	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_1l""}"	median_log2	-2.27	0.0051	1	-
+P3-002	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_1h""}"	median_log2	-0.33	0.0051	1	-
+P3-003	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_2a""}"	median_log2	-0.34	0.0051	1	-
+P3-004	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""coxL_formI""}"	median_log2	-0.36	0.0051	1	-
+P3-005	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_other_nife""}"	median_log2	-0.4	0.0051	1	-
+P3-006	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""coxL_other""}"	median_log2	-0.28	0.0051	1	-
+P3-007	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""excess_hydB_1l""}"	median_log2	-1.83	0.0051	1	-
+P3-008	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""excess_hydB_1h""}"	median_log2	-0.01	0.0051	1	-
+P3-009	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""excess_hydB_2a""}"	median_log2	-0.02	0.0051	1	-
+P3-010	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""excess_coxL_formI""}"	median_log2	-0.05	0.0051	1	-
+P3-011	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""hydB_1l""}"	median_log2	-1.05	0.0051	1	-
+P3-012	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""hydB_1h""}"	median_log2	-0.63	0.0051	1	-
+P3-013	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""hydB_2a""}"	median_log2	-0.37	0.0051	1	-
+P3-014	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""coxL_formI""}"	median_log2	-0.51	0.0051	1	-
+P3-015	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""hydB_other_nife""}"	median_log2	-0.14	0.0051	1	-
+P3-016	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""coxL_other""}"	median_log2	-0.18	0.0051	1	-
+P3-017	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""excess_hydB_1l""}"	median_log2	-0.83	0.0051	1	-
+P3-018	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""excess_hydB_1h""}"	median_log2	-0.42	0.0051	1	-
+P3-019	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""excess_hydB_2a""}"	median_log2	-0.22	0.0051	1	-
+P3-020	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""surface/bulk"", ""quantity"": ""excess_coxL_formI""}"	median_log2	-0.24	0.0051	1	-
+P3-021	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""hydB_1l""}"	median_log2	-0.94	0.0051	1	-
+P3-022	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""hydB_1h""}"	median_log2	0.23	0.0051	1	-
+P3-023	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""hydB_2a""}"	median_log2	0.03	0.0051	1	-
+P3-024	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""coxL_formI""}"	median_log2	-0.18	0.0051	1	-
+P3-025	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""hydB_other_nife""}"	median_log2	-0.17	0.0051	1	-
+P3-026	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""coxL_other""}"	median_log2	-0.19	0.0051	1	-
+P3-027	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""excess_hydB_1l""}"	median_log2	-0.85	0.0051	1	-
+P3-028	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""excess_hydB_1h""}"	median_log2	0.41	0.0051	1	-
+P3-029	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""excess_hydB_2a""}"	median_log2	0.11	0.0051	1	-
+P3-030	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/surface"", ""quantity"": ""excess_coxL_formI""}"	median_log2	0.06	0.0051	1	-
+P3-031	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_1l""}"	n_visits	106	0	1	106 paired site visits at 47 sites
+P3-032	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_1l""}"	n_sites	47	0	1	-
+P3-033	TABLE	h123_v2/contrasts_by_position.tsv	"{""contrast"": ""root/bulk"", ""quantity"": ""hydB_1l""}"	frac_below0	89	0.5	100	lower in 89\%
+P3-034	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Deep"", ""marker"": ""hydB_1l"", ""precip"": ""map_era5_mm""}"	rho	-0.4	0.0051	1	-
+P3-035	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Deep"", ""marker"": ""hydB_1l"", ""precip"": ""map_power_mm""}"	rho	-0.43	0.0051	1	-
+P3-036	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Deep"", ""marker"": ""hydB_1l"", ""precip"": ""map_bestmatch_mm""}"	rho	-0.51	0.0051	1	-
+P3-037	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""precip"": ""map_era5_mm""}"	rho	-0.46	0.0051	1	-
+P3-038	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""precip"": ""map_power_mm""}"	rho	-0.29	0.0051	1	-
+P3-039	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""precip"": ""map_bestmatch_mm""}"	rho	-0.25	0.0051	1	-
+P3-040	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Deep"", ""marker"": ""hydB_1l"", ""precip"": ""map_era5_mm""}"	n_sites	51	0	1	-
+P3-041	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""precip"": ""map_era5_mm""}"	n_sites	45	0	1	-
+P3-042	TABLE	h123_v2/H3_spatial_by_marker_position.tsv	"{""compartment"": ""PlantRoot"", ""marker"": ""hydB_1l"", ""precip"": ""map_era5_mm""}"	n_sites	59	0	1	-
+P3-043	TABLE	h123_v2/A1_root_effect_dna_adjusted.tsv	"{""model"": ""root_effect_unadjusted""}"	estimate	-2.12	0.0051	1	$-2.12$
+P3-044	TABLE	h123_v2/A1_root_effect_dna_adjusted.tsv	"{""model"": ""root_effect_DNA_adjusted""}"	estimate	-1.36	0.0051	1	$-1.36$
+P3-045	TABLE	h123_v2/A2_root_bulk_decomposition_summary.tsv	{}	frac_delta_from_turnover	97.4	0.05	100	-
+P3-046	TABLE	h123_v2/A2_aridity_decomposition_summary.tsv	{}	rho_observed_vs_logMAP	-0.43	0.0051	1	-
+P3-047	TABLE	h123_v2/A2_aridity_decomposition_summary.tsv	{}	within_mixed_genera_logit_slope_per_SD_logMAP	-0.29	0.0051	1	-
+P3-048	TABLE	h123_v2/H3_temporal_robustness.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""exposure"": ""P90_era5""}"	change_IQR	-0.65	0.0051	1	-
+P3-049	TABLE	h123_v2/H3_temporal_robustness.tsv	"{""compartment"": ""PlantRoot"", ""marker"": ""hydB_1l"", ""exposure"": ""P90_era5""}"	change_IQR	-0.73	0.0051	1	-
+P3-050	TABLE	h123_v2/H3_temporal_robustness.tsv	"{""compartment"": ""Surface"", ""marker"": ""hydB_1l"", ""exposure"": ""P90_power""}"	change_IQR	-0.12	0.0051	1	-
+P3-051	TABLE	h123_v2/H3_temporal_robustness.tsv	"{""compartment"": ""PlantRoot"", ""marker"": ""hydB_1l"", ""exposure"": ""P90_power""}"	change_IQR	0.33	0.0051	1	-
+P3-052	TABLE	h123_v2/H3_temporal_product_agreement.tsv	"{""window_days"": ""90""}"	rho_within_site	0.19	0.0051	1	-
+P3-053	TABLE	h123_v2/H3_temporal_product_agreement.tsv	"{""window_days"": ""365""}"	rho_within_site	0.61	0.0051	1	-
+P3-054	TABLE	h123_v2/stability_permanova_restricted.tsv	"{""subset"": ""all"", ""term"": ""factor(trip)""}"	R2	2.1	0.05	100	-
+P3-055	TABLE	h123_v2/stability_permanova_restricted.tsv	"{""subset"": ""all"", ""term"": ""factor(site)""}"	R2	30.4	0.05	100	-
+P3-056	TABLE	h123_v2/stability_permanova_restricted.tsv	"{""subset"": ""all"", ""term"": ""compartment""}"	R2	4.5	0.05	100	-
+P3-057	TABLE	h123_v2/stability_permanova_restricted.tsv	"{""subset"": ""Deep"", ""term"": ""factor(trip)""}"	R2	3.7	0.05	100	-
+P3-058	TABLE	operon/operon_summary_v2.tsv	"{""class"": ""hydB_1l"", ""subset"": ""complete_context""}"	n	445	0	1	-
+P3-059	TABLE	operon/operon_summary_v2.tsv	"{""class"": ""hydB_1h"", ""subset"": ""complete_context""}"	n	224	0	1	-
+P3-060	TABLE	operon/operon_summary_v2.tsv	"{""class"": ""hydB_2a"", ""subset"": ""complete_context""}"	n	53	0	1	-
+P3-061	TABLE	operon/operon_summary_v2.tsv	"{""class"": ""coxL_formI"", ""subset"": ""complete_context""}"	n	125	0	1	-
+P3-R3-1-0	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""genus"", ""model"": ""phylum"", ""term"": ""frac_1l""}"	estimate	-0.77	0.0051	1	-
+P3-R3-1-1	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""genus"", ""model"": ""phylum"", ""term"": ""frac_1l""}"	se	0.18	0.0051	1	-
+P3-R3-2-0	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""genus"", ""model"": ""order"", ""term"": ""frac_1l""}"	estimate	-0.96	0.0051	1	-
+P3-R3-2-1	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""genus"", ""model"": ""order"", ""term"": ""frac_1l""}"	se	0.21	0.0051	1	-
+P3-R3-3-0	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""CBB"", ""model"": ""completeness_adjusted"", ""term"": ""is1l""}"	estimate	1.04	0.0051	1	-
+P3-R3-3-1	TABLE	review_r3/mag_sensitivity_models.tsv	"{""variant"": ""excluded"", ""family"": ""CBB"", ""model"": ""completeness_adjusted"", ""term"": ""is1l""}"	se	0.43	0.0051	1	-
+P3-R3-READ-1	TABLE	review_r3/read_sensitivity_contrasts.tsv	"{""variant"": ""excluded"", ""contrast"": ""root/bulk"", ""quantity"": ""hydB_1l""}"	median_log2	-2.29	0.0051	1	-
+P3-R3-READ-2	TABLE	review_r3/read_sensitivity_contrasts.tsv	"{""variant"": ""excluded"", ""contrast"": ""root/bulk"", ""quantity"": ""excess_hydB_1l""}"	median_log2	-1.76	0.0051	1	-

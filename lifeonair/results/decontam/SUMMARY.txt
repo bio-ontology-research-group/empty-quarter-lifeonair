@@ -1,0 +1,34 @@
+Life on air: contamination screen of the ANI95 representatives
+representatives with CoverM abundance: 5438
+blank-enriched candidate_contaminant features: 351; distinct genera: 74
+samples with a single unambiguous DNA concentration: 272 (conflicting values dropped: 3)
+reps testable by frequency (present in >= 10 such samples): 3453
+flagged: blank genus 376, frequency 0, either 376 (of which in guild 128 of 1860)
+samples: 571
+union whole-community %: all 18.15 (IQR 12.36-25.48; n=571) | clean 15.89 (IQR 10.30-22.91; n=571)
+union mapped-community %: all 43.51 (IQR 29.63-55.51; n=571) | clean 43.47 (IQR 27.55-56.57; n=571)
+hydB  whole-community %: all 8.65 (IQR 4.02-15.20; n=571) | clean 8.38 (IQR 3.92-15.10; n=571)
+hydB  mapped-community %: all 20.57 (IQR 8.46-34.27; n=571) | clean 23.01 (IQR 10.14-37.82; n=571)
+coxL  whole-community %: all 11.11 (IQR 8.31-14.68; n=571) | clean 9.16 (IQR 6.65-11.96; n=571)
+coxL  mapped-community %: all 25.68 (IQR 19.59-31.22; n=571) | clean 23.89 (IQR 17.30-29.41; n=571)
+
+flagged guild members by genus:
+
+     Actinomycetota Nocardioides     Pseudomonadota Chelativorans 
+                              34                               23 
+  Actinomycetota Actinophytocola Actinomycetota Saccharopolyspora 
+                              14                               12 
+     Actinomycetota Streptomyces       Actinomycetota Rubrobacter 
+                              12                                7 
+      Actinomycetota Prauserella           Bacteroidota Niastella 
+                               4                                4 
+    Actinomycetota Amycolatopsis   Actinomycetota Solirubrobacter 
+                               3                                3 
+ Actinomycetota Actinokineospora   Actinomycetota Actinopolyspora 
+                               2                                2 
+       Actinomycetota Nonomuraea        Chloroflexota Nitrolancea 
+                               2                                2 
+     Actinomycetota Actinomadura         Actinomycetota Georgenia 
+                               1                                1 
+ Pseudomonadota Constrictibacter    Pseudomonadota Steroidobacter 
+                               1                                1 

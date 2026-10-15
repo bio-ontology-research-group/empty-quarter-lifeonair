@@ -1,0 +1,13 @@
+contrast	quantity	n_cells	median	boot95	site_level_wilcoxon_p
+PlantRoot/Deep	log2FC_GE_hydB_1l	107	-2.23092843586257	[-2.82, -1.57]	7.68125119066101e-09
+PlantRoot/Deep	log2FC_GE_hydB_1h	107	-0.314140678703644	[-0.62, 0.03]	0.0453670039446196
+PlantRoot/Deep	log2FC_GE_coxL_formI	107	-0.211195079550122	[-0.32, -0.02]	0.083963393740227
+PlantRoot/Deep	delta_log2_raw_read_ratio_H2HA_to_formI_CO	107	-1.60330980483924	[-1.94, -1.15]	6.90764423438852e-08
+Surface/Deep	log2FC_GE_hydB_1l	69	-1.02936822414444	[-1.42, -0.54]	0.000130653977976181
+Surface/Deep	log2FC_GE_hydB_1h	69	-0.62427887697359	[-1.00, -0.24]	0.000354246702045203
+Surface/Deep	log2FC_GE_coxL_formI	69	-0.0196618955494264	[-0.09, 0.05]	0.124850225212868
+Surface/Deep	delta_log2_raw_read_ratio_H2HA_to_formI_CO	69	-0.947933870919526	[-1.45, -0.48]	0.000202627910766751
+PlantRoot/Surface	log2FC_GE_hydB_1l	85	-0.96105629048489	[-1.97, -0.60]	1.39627686053245e-05
+PlantRoot/Surface	log2FC_GE_hydB_1h	85	0.200192755173633	[-0.14, 0.65]	0.223387410442598
+PlantRoot/Surface	log2FC_GE_coxL_formI	85	-0.238914208769887	[-0.36, -0.13]	0.00477765394455787
+PlantRoot/Surface	delta_log2_raw_read_ratio_H2HA_to_formI_CO	85	-0.502749065385385	[-1.14, -0.07]	0.00270932143283176

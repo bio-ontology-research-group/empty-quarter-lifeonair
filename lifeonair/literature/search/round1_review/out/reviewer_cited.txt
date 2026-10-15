@@ -1,0 +1,6 @@
+BEGIN_TSV
+doi	first_author	year	title	journal	manuscript_link	stance	relevance	oa_url
+10.1038/nrmicro1595	King	2007	Distribution, diversity and ecology of aerobic CO-oxidizing bacteria	Nat Rev Microbiol	methods	method	Defines the form I (AYXCSFR) and form II (AYRGAGR) CoxL active-site motifs; basis of the corrected CoxL typing (R1-01).	NA
+10.1111/gcb.70498	Wang	2025	Shifts in Genome Size and Energy Utilization Strategies Sustain Microbial Functions Along an Aridity Gradient	Glob Change Biol	discussion	context	Links aridity to smaller genomes, slower predicted growth and trace-gas oxidation (cited by Astra in the round-1 consultation).	NA
+10.1128/aem.01283-09	Martin-Cuadrado	2009	CO dehydrogenase genes found in metagenomic fosmid clones from the deep mediterranean sea	Appl Environ Microbiol	methods	method	Primary sequence analysis distinguishing form I and form II CoxL motifs (cited by Astra for R1-01).	NA
+END_TSV

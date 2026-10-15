@@ -1,0 +1,150 @@
+Gapseq-first metabolic-trait prediction pilot
+12 October 2026
+
+Decision
+
+Do not scale up the tested two-trait prediction approach. The gapseq models
+passed the energy/feasibility checks, but the metabolic traits did not improve
+prediction across held-out genera. The small improvement across sites is worth
+recording, but does not meet the prespecified requirement for improvement in
+both validation schemes. Field coverage also fell below the planned minimum.
+This decision is specific to these traits and this prediction task; it is not
+an assessment that gapseq is unusable or that the biological hypothesis is false.
+No new claims were added to the manuscript.
+
+Design and coverage
+
+Gapseq is the sole source of metabolic reconstructions. Neither gapsmith models
+nor agreement with gapsmith was used as a validity condition. The shared numerical
+helpers implement exchange bounds and ATP hydrolysis, not reconstruction.
+
+Of 759 current, high-quality, unflagged single-sample candidate MAGs, 720 had
+both gapseq reconstructions and exact agreement of original/current unordered
+contig-sequence hashes. Thirty-nine lacked the required source/model files.
+The exact-match pool includes 70 group-1l, 60 group-1h and 590 neither controls.
+The frozen matching rules yielded 12 complete triplets: 36 genomes, 12 per group,
+across nine orders. They were selected without inspecting field responses.
+Although the target allowed up to 60 MAGs, no unmatched genomes were added to
+inflate the panel. The panel contains 27 genus groups before field filtering.
+
+Model scenarios and checks
+
+We tested draft and filled gapseq models with 12 individual organic substrates
+at equal organic-carbon supply, and a mixture with equal carbon contribution
+from those substrates. The mixture was tested at carbon caps 0.06, 0.6 and 6
+mmol C/gDW/h and oxygen caps 0.1, 1 and 10 mmol/gDW/h. These are hypothetical resource
+constraints, not measured root exudates. H2 was absent from the primary traits.
+
+The two prespecified predictors were substrate breadth for ATP maintenance
+(number positive /12) and log 1p ATP production on the mixture at carbon 6/oxygen 10.
+No additional traits, penalties or feature combinations were searched after
+seeing prediction performance. Growth and H2 scenarios are secondary diagnostics.
+
+All 3,312 scenario optimisations were optimal. All 72 draft/filled variants
+passed the closed-exchange and inorganic-medium ATP tests. All 36 filled models
+produced ATP on at least one carbon source and grew under permissive all-exchange
+bounds. All 1,728 checks that optional carbon/oxygen must not lower the optimum
+passed. These checks do not establish full thermodynamic or physiological validity.
+
+Median filled-model ATP substrate breadth was 10/12 in all three groups.
+Median mixture-supported ATP production was 10.81 (1l),10.64 (1h) and 8.12
+(neither) mmol ATP/gDW/h, under the chosen uptake constraints. Draft breadth
+medians were 7, 7 and 8. Drafts failed permissive growth; only one filled model
+supported growth on any individually supplied substrate in the common defined
+medium. These growth results are insufficient to infer actual auxotrophies or
+substrate non-utilisation. ATP-feasibility traits were used as specified.
+
+Field data and validation
+
+The final field cohort uses the manuscript's established sites 1-60 restriction
+and read-screening QC. It contains 430 root/bulk samples and 106 paired site-visits
+across 47 sites. Its paired-visit identifiers exactly match the frozen main-paper
+root/bulk contrast table. Replicates were aggregated by median. The selected
+MAGs' CoverM percentages were not renormalised to the panel.
+
+A MAG required detection >=0.01% in either compartment in at least 5 paired visits
+across at least 3 sites. Twenty-six MAGs, spanning 23 genus groups and 9 orders,
+passed this filter. Both-zero visits were excluded from the response. Responses
+were log 2((root+epsilon)/(bulk+epsilon)), averaged within site and then equally
+across sites. The primary epsilon was 0.001 percentage points; sensitivity values
+were 0.0001 and 0.01. This measures relative representation, not absolute abundance.
+
+The baseline used predicted doubling time, genome size, completeness,
+contamination, marker group and order. The augmented model added only the two
+metabolic traits. Ridge penalty 10 was fixed. All predictor imputation, scaling
+and categorical encoding were fitted on each training set only.
+
+Validation A held out whole genera in five folds, yielding 26 test predictions.
+Validation B held out sites in five folds, yielding 97 predictions for 22 distinct
+MAGs with sufficient training/test-site coverage. B tests repeatability across
+sites for represented MAGs, not unseen-genome generalisation. Errors were
+weighted so repeatedly evaluated MAGs did not gain extra total weight.
+
+Final filled-model results at epsilon 0.001:
+                         Baseline MSE   With traits MSE   Change in error
+Held-out genera              2.371          2.547             7.44% higher
+Held-out sites               3.349          3.240             3.25% lower
+
+Only 1/5 genus folds improved; all 5/5 site folds improved. The small site-level
+signal therefore has directional consistency, but did not reach the specified
+5% improvement and did not generalise across genera.
+
+Pseudocount sensitivity preserved the contrast. Genus prediction worsened by
+8.51% at epsilon 0.0001 and 3.84% at 0.01; site prediction improved by 2.59% and 3.79%.
+Draft models also failed the combined criterion: genus error increased 7.96%,
+while site error decreased 0.56% at the primary pseudocount.
+
+The mean improvement across the two validation schemes was -2.09%. For 199
+within-order shuffles of the paired trait vector, the 90th-percentile improvement
+was+0.24%; the observed result did not exceed this reference. The rank-tail
+fraction was 0.295. This is a heuristic screening reference, not a formal p-value.
+
+Scale-up criteria
+
+Model quality/feasibility: PASS (36/36 filled models).
+Field coverage >=30 MAGs, >=15 genus groups, >=6 orders: FAIL (26 MAGs / 23 genus groups / 9 orders).
+At least 30 distinct evaluated MAGs in each validation: FAIL (26 and 22).
+At least 5% MSE improvement in both validations: FAIL.
+Improvement in at least 3/5 folds of each validation: FAIL (1/5 and 5/5).
+Combined gain above the shuffle 90th percentile: FAIL.
+Positive gain in both validations at both alternative pseudocounts: FAIL.
+
+Consequently, the larger 720-model eligible set was not simulated for this task.
+
+Interpretation and limits
+
+The pilot successfully establishes exact-genome model coverage and a functioning
+gapseq-only workflow. These broad carbon-energy traits do not currently provide
+additional support for the paper's root-associated lineage-turnover hypothesis.
+The sample is small and purposively matched, and the usable field cohort is
+smaller still. Poor generalisation does not rule out metabolic effects; it means
+this particular extension has not earned a larger analysis or a manuscript claim.
+
+The test did not evaluate a curated hydrogen-specific carbon-sparing mechanism,
+hydrogenase regulation/affinity, experimentally measured exudates, or community
+competition. Those are separate hypotheses. Standard FBA resource capacities
+alone cannot establish those mechanisms. No causal mediation is claimed.
+
+Audit and reproducibility
+
+The first field implementation inadvertently included the paired visit at site 64.
+This was detected by comparing cohort counts with h123_v2.R; the final rerun
+applied the existing paper boundary. Initial outputs and source are retained in
+superseded_site_scope/. Predictors, penalty, validation algorithm and gates were
+not changed. Job 53639517 is superseded; job 53640046 produced the final fits.
+
+Gemini Pro through agy reviewed the design/simulation and prediction code.
+Accepted corrections and limitations are in ../../reviews/gapseq_traits_pilot/.
+In particular, optimal-zero traits remain eligible; the cohort's positive-ATP
+requirement is separate from individual solver validity.
+
+The frozen-output verifier checks exact genome matching, paired-visit identity,
+scenario closure, optional-resource monotonicity and independently recalculates
+all 72 reported prediction metrics from the saved predictions. All checks pass.
+The existing paper verification also passes 364 checks. The repository-wide
+harness retains its 30 pre-existing P4 claim/prose failures; its build succeeds.
+
+See README.txt for commands; pilot_prediction.pdf/png for the figure;
+prediction_metrics.tsv and predictions.tsv for the ecological evidence;
+traits.tsv, audit.tsv and scenarios.tsv for the metabolic evidence; and
+provenance.tsv/model_hashes.tsv/runtime_manifest.json for input/run provenance.

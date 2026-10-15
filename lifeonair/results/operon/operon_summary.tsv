@@ -1,0 +1,11 @@
+class	subset	n	small_subunit_adjacent_pct	any_maturation_pct	coxM_pct	coxS_pct	coxMSL_pct	cox_accessory_pct	any_hypothetical_pct
+coxL_formI	all	1901	0.0	0.0	59.3	58.7	53.7	26.3	76.0
+coxL_formI	complete_context	868	0.0	0.0	72.6	72.8	72.5	36.3	88.1
+coxL_other	all	2826	0.0	0.0	46.1	46.4	35.3	10.4	71.7
+coxL_other	complete_context	1101	0.0	0.0	61.0	65.8	54.6	13.1	88.8
+hydB_1h	all	445	67.2	82.5	0.0	0.0	0.0	0.0	91.2
+hydB_1h	complete_context	224	83.9	96.0	0.0	0.0	0.0	0.0	99.6
+hydB_1l	all	1124	48.2	66.5	0.0	0.0	0.0	0.0	90.9
+hydB_1l	complete_context	449	73.1	87.5	0.0	0.0	0.0	0.0	98.0
+hydB_other	all	182	75.3	82.4	0.0	0.0	0.0	0.0	88.5
+hydB_other	complete_context	73	86.3	93.2	0.0	0.0	0.0	0.0	91.8

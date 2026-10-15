@@ -1,0 +1,3 @@
+P3 verification: 279 checks, 0 failures; model-output checks are TABLE, not refits.
+PDF: latexmk passed, 22 pages, no undefined citations or overfull boxes. Hidden-text scan: clean. Rendered Figures 1–2 and sensitivity table inspected. Git diff whitespace check passed.
+Repository-wide P4 harness: figures passed, manuscript built, numeric/prose gate failed; see repository_harness.log. P4 source was unchanged and generated unrelated figure outputs were restored. This does not constitute a passing whole-repository gate.

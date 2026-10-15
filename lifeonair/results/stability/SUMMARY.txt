@@ -1,0 +1,51 @@
+== stability (mixed models; LRT for trip and compartment) ==
+                 measure          subset n_samples n_sites median   trip_p
+       mags_union_mapped             all       550      61 43.884 2.70e-07
+       mags_union_mapped sites_ge4_trips       427      37 44.794 6.10e-09
+ mags_union_mapped_clean             all       550      61 44.160 1.58e-07
+ mags_union_mapped_clean sites_ge4_trips       427      37 45.513 3.12e-09
+  mags_hydB_mapped_clean             all       550      61 24.758 9.31e-07
+  mags_hydB_mapped_clean sites_ge4_trips       427      37 26.604 5.83e-07
+  mags_coxL_mapped_clean             all       550      61 24.051 4.09e-05
+  mags_coxL_mapped_clean sites_ge4_trips       427      37 24.087 1.03e-07
+           reads_hydB_ha             all       549      61  0.568 1.18e-07
+           reads_hydB_ha sites_ge4_trips       427      37  0.620 1.25e-07
+           reads_hydB_1l             all       549      61  0.426 1.94e-06
+           reads_hydB_1l sites_ge4_trips       427      37  0.478 1.40e-06
+           reads_hydB_1h             all       549      61  0.102 2.69e-07
+           reads_hydB_1h sites_ge4_trips       427      37  0.106 4.63e-07
+        reads_coxL_formI             all       549      61  0.576 1.11e-08
+        reads_coxL_formI sites_ge4_trips       427      37  0.585 1.09e-09
+ compartment_p var_share_trip var_share_site var_share_residual
+      2.33e-24         0.0429          0.227              0.597
+      1.34e-24         0.0706          0.115              0.626
+      1.11e-25         0.0445          0.212              0.601
+      9.75e-27         0.0716          0.108              0.615
+      4.11e-38         0.0361          0.223              0.534
+      9.57e-38         0.0479          0.130              0.539
+      1.18e-01         0.0390          0.197              0.761
+      1.37e-02         0.0750          0.159              0.757
+      3.54e-33         0.0457          0.154              0.605
+      7.02e-33         0.0556          0.118              0.574
+      6.85e-33         0.0392          0.147              0.617
+      3.88e-32         0.0489          0.117              0.585
+      7.88e-08         0.0445          0.302              0.613
+      7.55e-08         0.0625          0.177              0.700
+      1.89e-02         0.0614          0.226              0.705
+      4.74e-03         0.0944          0.135              0.757
+
+== turnover (PERMANOVA, marginal terms) ==
+              community        term     R2     F     p n_samples n_reps
+ whole_mapped_community        trip 0.0200  3.89 0.001       550   5062
+ whole_mapped_community        site 0.2939  3.81 0.001       550   5062
+ whole_mapped_community compartment 0.0460 17.89 0.001       550   5062
+         guild_carriers        trip 0.0195  3.96 0.001       550   1732
+         guild_carriers        site 0.3258  4.41 0.001       550   1732
+         guild_carriers compartment 0.0374 15.19 0.001       550   1732
+              non_guild        trip 0.0196  3.74 0.001       550   3330
+              non_guild        site 0.2793  3.54 0.001       550   3330
+              non_guild compartment 0.0488 18.55 0.001       550   3330
+
+== guild synchrony across trips, 37 sites with >= 4 trips ==
+median phi 0.115 (null median 0.048); sites with phi below null at p<0.05: 1
+median CV guild total 0.307 vs median mean-CV of carrier genera 1.335

@@ -1,0 +1,73 @@
+block	rep	group	completeness	contamination	length_bp	phylum	order	family	genus	coxI	filled	draft	subset	flagged	eligible
+1	V42PRr2__single_SemiBin_32	1l	97.01	3.12	3293909	Actinomycetota	AC-67	AC-67		0	1	1	0	0	1
+1	V60PRr2__self_SemiBin_920	1h	94.3	3.75	3741119	Actinomycetota	AC-67	AC-67		0	1	1	0	0	1
+1	F38Dr3__self_SemiBin_962	neither	96.78	1.62	2770331	Actinomycetota	AC-67	AC-67	DASWJS01	0	1	1	0	0	1
+2	V11PRr3__self_SemiBin_512	1l	100.0	0.36	3020542	Actinomycetota	Acidimicrobiales	JAHWLA01		0	1	1	0	0	1
+2	T8PRr2__self_SemiBin_1029	1h	97.6	3.28	3810172	Actinomycetota	Acidimicrobiales	JACDCH01		0	1	1	0	0	1
+2	F21Dr3__single_SemiBin_84	neither	97.83	3.52	3552192	Actinomycetota	Acidimicrobiales	AC-14		0	1	1	0	0	1
+3	6Dr2__self_SemiBin_1483	1l	100.0	2.32	2889416	Actinomycetota	Acidimicrobiales	JAHWLA01		0	1	1	0	0	1
+3	F24PRr1__self_SemiBin_174	1h	96.62	1.43	3950836	Actinomycetota	Acidimicrobiales	JACDCH01		1	1	1	0	0	1
+3	S54PRr1__self_SemiBin_609	neither	97.12	1.2	3480009	Actinomycetota	Acidimicrobiales	Acidimicrobilacustridaceae		0	1	1	0	0	1
+4	F27Dr1__single_SemiBin_119	1l	100.0	3.49	2244900	Actinomycetota	Acidimicrobiales	GCA-2861595	GCA-2861595	0	1	1	0	0	1
+4	V17PRr1__self_SemiBin_1054	1h	96.78	3.61	3800204	Actinomycetota	Acidimicrobiales	VFJN01	VFJN01	0	1	1	0	0	1
+4	S60PRr1__single_SemiBin_8	neither	100.0	3.79	3815045	Actinomycetota	Acidimicrobiales	CADCTF01	DASVEG01	0	1	1	0	0	1
+5	7Dr1__single_SemiBin_61	1l	100.0	0.0	3345599	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	JACDDX01	0	1	1	0	0	1
+5	6Dr2__self_SemiBin_1357	1h	98.38	2.02	3629966	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	CAVVWJ01	0	1	1	0	0	1
+5	6Dr2__self_SemiBin_2037	neither	99.22	1.67	3100213	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	CAVVWJ01	0	1	1	0	0	1
+6	15Dr1__single_SemiBin_9	1l	93.96	1.55	3269182	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	DATLZT01	0	1	1	0	0	1
+6	F33PRr1__self_SemiBin_670	1h	94.39	0.24	3545377	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	G025934955	0	1	1	0	0	1
+6	V60PRr2__self_SemiBin_4599	neither	97.72	0.23	2681882	Gemmatimonadota	Gemmatimonadales	GWC2-71-9	JBBDNM01	0	1	1	0	0	1
+7	F24PRr1__self_SemiBin_48	1l	93.44	1.39	6325673	Gemmatimonadota	Gemmatimonadales	Gemmatimonadaceae		0	1	1	0	0	1
+7	T8PRr3__self_SemiBin_315	1h	94.07	3.06	4926394	Gemmatimonadota	Gemmatimonadales	Gemmatimonadaceae	JADGGM01	0	1	1	0	0	1
+7	49Dr2__single_SemiBin_6	neither	90.58	4.02	4995661	Gemmatimonadota	Gemmatimonadales	Gemmatimonadaceae		0	1	1	0	0	1
+8	F34PRr2__self_SemiBin_1029	1l	99.85	0.71	5551573	Acidobacteriota	Gp7-AA8	Gp7-AA8	QHVT01	0	1	1	0	0	1
+8	F2Sr2__self_SemiBin_769	1h	99.72	0.54	5749516	Acidobacteriota	Gp7-AA8	Gp7-AA8	QHVT01	0	1	1	0	0	1
+8	T2PRr3__self_SemiBin_942	neither	99.52	1.49	6388286	Acidobacteriota	Gp7-AA8	Gp7-AA8	QHVT01	0	1	1	0	0	1
+9	V40PRr2__single_SemiBin_242	1l	98.11	0.31	5451862	Acidobacteriota	Gp7-AA8	Gp7-AA8	DATLYG01	0	1	1	0	0	1
+9	T5Dr1__single_SemiBin_19	1h	97.4	4.2	5648767	Acidobacteriota	Gp7-AA8	Gp7-AA8	QHVT01	0	1	1	0	0	1
+9	T1PRr1__self_SemiBin_681	neither	97.91	0.3	5905731	Acidobacteriota	Gp7-AA8	Gp7-AA8	QHVT01	0	1	1	0	0	1
+10	9Dr3__single_SemiBin_62	1l	96.59	4.0	3956298	Actinomycetota	IMCC26256			0	1	1	0	0	1
+10	T8Dr1__self_SemiBin_525	1h	97.23	4.39	5324418	Actinomycetota	IMCC26256	BP-133	BP-133	1	1	1	0	0	1
+10	F41PRr1__single_SemiBin_61	neither	97.58	0.29	3257713	Actinomycetota	IMCC26256	JACPCJ01		0	1	1	0	0	1
+11	F34PRr2__self_SemiBin_1489	1l	98.47	1.5	3222082	Actinomycetota	JAHWKV01	JAHWKV01		1	1	1	0	0	1
+11	V5PRr1__self_SemiBin_937	1h	94.44	1.8	3987912	Actinomycetota	JAHWKV01	JAOPZY01		1	1	1	0	0	1
+11	V5Dr1__self_SemiBin_241	neither	96.14	2.67	3445881	Actinomycetota	JAHWKV01	JAOPZY01		0	1	1	0	0	1
+12	V47PRr1__single_SemiBin_147	1l	97.35	1.62	3248350	Actinomycetota	JAHWKV01	JBOGWP01	JBOGWP01	0	1	1	0	0	1
+12	43PRr3__self_SemiBin_108	1h	98.09	2.86	2824171	Actinomycetota	JAHWKV01	JAHWKV01	JAJCYE01	1	1	1	0	0	1
+12	V5Dr1__self_SemiBin_427	neither	94.02	3.67	3066199	Actinomycetota	JAHWKV01	JAOPZY01		0	1	1	0	0	1
+13	36PRr1__self_SemiBin_1246	1l	99.43	0.6	3267037	Actinomycetota	JAICYB01	JAICYB01		0	1	1	0	0	1
+13	41PRr1__single_SemiBin_282	1h	96.95	0.7	3125674	Actinomycetota	JAICYB01	JAICYB01		0	1	1	0	0	1
+13	F41Dr3__self_SemiBin_295	neither	96.77	0.85	2618005	Actinomycetota	JAICYB01	JAICYB01		0	1	1	0	0	1
+14	36Dr1__self_SemiBin_442	1l	97.0	1.73	3325772	Actinomycetota	JAICYB01			0	1	1	0	0	1
+14	12Dr1__self_SemiBin_63	1h	90.34	3.99	2930137	Actinomycetota	JAICYB01	JAICYB01		0	1	1	0	0	1
+14	V6Dr1__self_SemiBin_129	neither	96.94	0.44	3443603	Actinomycetota	JAICYB01			0	1	1	0	0	1
+15	V60PRr2__self_SemiBin_2189	1l	98.55	1.86	3763298	Gemmatimonadota	Longimicrobiales	Gaopeijiaceae	Gaopeijia	0	1	1	0	0	1
+15	V16PRr1__single_SemiBin_130	1h	98.34	1.14	3571984	Gemmatimonadota	Longimicrobiales	RSA9	DASTYK01	0	1	1	0	0	1
+15	54Dr1__self_SemiBin_594	neither	98.65	4.23	3297041	Gemmatimonadota	Longimicrobiales	Gaopeijiaceae	Gaopeijia	0	1	1	0	0	1
+16	34Dr3__single_SemiBin_62	1l	95.76	0.4	3989171	Gemmatimonadota	Longimicrobiales	RSA9		0	1	1	0	0	1
+16	V58PRr1__single_SemiBin_108	1h	97.02	2.54	4744132	Gemmatimonadota	Longimicrobiales	RSA9		0	1	1	0	0	1
+16	48PRr1__SemiBin_101	neither	97.59	2.76	3453302	Gemmatimonadota	Longimicrobiales	RSA9		0	1	1	0	0	1
+17	V3PRr2__self_SemiBin_295	1l	95.06	4.01	7802693	Gemmatimonadota	Longimicrobiales	Longimicrobiaceae	Longimicrobium	0	1	1	0	0	1
+17	F6PRr1__single_SemiBin_54	1h	96.42	1.96	6500279	Gemmatimonadota	Longimicrobiales	Longimicrobiaceae	Longimicrobium	0	1	1	0	0	1
+17	2PRr2__self_SemiBin_254	neither	94.59	2.47	6442491	Gemmatimonadota	Longimicrobiales	Longimicrobiaceae	Longimicrobium	0	1	1	0	0	1
+18	S54PRr1__self_SemiBin_621	1l	99.9	1.02	5512052	Acidobacteriota	Multivoradales	JAIOJS01	JAWVZJ01	0	1	1	0	0	1
+18	F6Dr2__single_SemiBin_185	1h	99.94	4.77	7754888	Acidobacteriota	Multivoradales	UBA5704	DATARR01	0	1	1	0	0	1
+18	64PRr2__single_SemiBin_71	neither	100.0	3.74	8209673	Acidobacteriota	Multivoradales	UBA5704	UBA5704	0	1	1	0	0	1
+19	F34PRr2__self_SemiBin_879	1l	99.14	3.16	4999832	Actinomycetota	Mycobacteriales	Pseudonocardiaceae	Pseudonocardia	1	1	1	0	0	1
+19	S2PRr1__self_SemiBin_8	1h	98.11	3.45	6496143	Actinomycetota	Mycobacteriales	Pseudonocardiaceae	Pseudonocardia	1	1	1	0	0	1
+19	S22Dr1__self_SemiBin_153	neither	99.46	3.83	8260367	Actinomycetota	Mycobacteriales	Pseudonocardiaceae	Pseudonocardia	0	1	1	0	0	1
+20	46PRr2__single_SemiBin_88	1l	96.67	2.06	3660275	Actinomycetota	Mycobacteriales	SCTD01		0	1	1	0	0	1
+20	24PRr2__single_SemiBin_38	1h	99.36	0.22	5727833	Actinomycetota	Mycobacteriales	Pseudonocardiaceae		0	1	1	0	0	1
+20	V45Dr1__self_SemiBin_401	neither	97.59	4.27	3580000	Actinomycetota	Mycobacteriales	SCTD01		0	1	1	0	0	1
+21	27Dr3__self_SemiBin_524	1l	95.28	2.73	3246134	Actinomycetota	Mycobacteriales			0	1	1	0	0	1
+21	S19Sr1__single_SemiBin_44	1h	100.0	2.4	7433185	Actinomycetota	Mycobacteriales	Pseudonocardiaceae		0	1	1	0	0	1
+21	24Dr2__self_SemiBin_589	neither	95.15	2.57	6453257	Actinomycetota	Mycobacteriales	Micromonosporaceae		0	1	1	0	0	1
+22	54PRr2__single_SemiBin_82	1l	98.6	3.11	4833912	Myxococcota	Myxococcales	Myxococcaceae		0	1	1	0	0	1
+22	F6Dr2__self_SemiBin_140	1h	100.0	3.52	10823910	Myxococcota	Myxococcales	Myxococcaceae		1	1	1	0	0	1
+22	S50PRr1__single_SemiBin_21	neither	97.28	4.88	9240653	Myxococcota	Myxococcales	Myxococcaceae		0	1	1	0	0	1
+23	54PRr2__self_SemiBin_67	1l	99.83	0.91	6239438	Planctomycetota	Planctomycetales	Planctomycetaceae		0	1	1	0	0	1
+23	F54PRr2__self_SemiBin_236	1h	100.0	1.29	8177994	Planctomycetota	Planctomycetales	Planctomycetaceae		0	1	1	0	0	1
+23	T7Dr3__self_SemiBin_1377	neither	97.21	2.01	6206143	Planctomycetota	Planctomycetales	Planctomycetaceae		0	1	1	0	0	1
+24	F22PRr2__single_SemiBin_106	1l	96.56	4.37	3261412	Actinomycetota	Propionibacteriales	Nocardioidaceae	JACCYJ01	0	1	1	0	0	1
+24	24PRr2__self_SemiBin_374	1h	97.21	1.22	5795475	Actinomycetota	Propionibacteriales	Actinopolymorphaceae		0	1	1	0	0	1
+24	21Dr1__single_SemiBin_27	neither	96.9	0.35	4040009	Actinomycetota	Propionibacteriales	Nocardioidaceae	Solicola	0	1	1	0	0	1

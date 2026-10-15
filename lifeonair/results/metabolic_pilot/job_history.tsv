@@ -1,0 +1,8 @@
+job_id	stage	status	note
+53630192	inventory	completed	All 5438 current IDs; moved from batch to debug; metadata and three-model inspection
+53630585	smoke_test	completed	First four models; superseded by final pilot
+53630741	initial_array	cancelled	Stopped to add trace metals to growth medium before final pilot
+53630874	intermediate_pilot	cancelled	Partial intermediate run; remaining tasks cancelled to include Fe(III) in growth mineral control
+53631046	final_pilot	completed	72 models; 18 tasks of four, concurrency raised to eight; 1 CPU each
+53631047	gapseq_comparison	completed	Exact genome-sequence gating and ATP-maintenance controls
+53631420	gapseq_marker_mapping	completed	Translate coordinate-based GPR genes and match curated hydrogenase sequences

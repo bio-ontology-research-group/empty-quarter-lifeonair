@@ -1,0 +1,563 @@
+(PDF) Shifts in Genome Size and Energy Utilization Strategies Sustain Microbial Functions Along an Aridity Gradient (https://www.researchgate.net/publication/395548451_Shifts_in_Genome_Size_and_Energy_Utilization_Strategies_Sustain_Microbial_Functions_Along_an_Aridity_Gradient)
+citeturn5view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.researchgate.net/publication/395548451_Shifts_in_Genome_Size_and_Energy_Utilization_Strategies_Sustain_Microbial_Functions_Along_an_Aridity_Gradient","lineno":1450}); Total lines: 2533
+L1261: related to the abundance of genes associated with organic energy
+L1262:
+L1263: utilization (Wu etal.2025), its relationship with trace gas oxida-
+L1264:
+L1265: tion remained unclear. Our findings indicate that microbes with
+L1266:
+L1267: expanded genomes can utilize diverse C sources and thus thrive
+L1268:
+L1269: in less arid, C- rich soil environments (Figure S7). This aligns
+L1270:
+L1271: with previous reports, indicating that large- genome copiotrophs
+L1272:
+L1273: specializing in organic energy utilization exhibited enriched
+L1274: metabolic genes, particularly KEGG pathways linked to carbo-
+L1275:
+L1276: hydrate, amino acid, and lipid metabolism—pathways that en-
+L1277:
+L1278: hance competitive resource acquisition and population growth
+L1279:
+L1280: (Dong etal.2024; Amor and Gore 2022). In contrast, genome-
+L1281:
+L1282: streamlined oligotrophic microbes observed in arid habitats
+L1283:
+L1284: with limited organic C exhibit enhanced trace gas (Figure 3d).
+L1285:
+L1286: The results of SEM and regression analyses further confirm
+L1287:
+L1288: that microbes with larger genome sizes and higher 16S rRNA
+L1289: gene copy numbers exhibit a significantly greater capacity for
+L1290:
+L1291: organic energy utilization, whereas those with smaller genomes
+L1292:
+L1293: are more adept at utilizing trace gas oxidation (e.g., H 2, CO, and
+L1294:
+L1295: CH 4) (Figure4c,d). Earlier studies have shown t hat higher codon
+L1296:
+L1297: usage bias typically correlates with elevated maximum growth
+L1298:
+L1299: rates. We detected only weak correlations between codon usage
+L1300:
+L1301: bias and organic energy utilization, consistent with prior reports
+L1302: by Klappenbach etal.(2000), suggesting that codon usage bias
+L1303:
+L1304: exhibits minimal changes in response to specific environmental
+L1305:
+L1306: shifts. Compared to codon usage bias, the relationship between
+L1307:
+L1308: 16S rRNA gene copy numbers and maximum growth rates is
+L1309:
+L1310: stronger (Condon etal.1995). Other genomic traits, such as GC
+L1311:
+L1312: content, were not significantly associated with energy acqui-
+L1313:
+L1314: sition strategies, implying that distinct evolutionary trajecto-
+L1315:
+L1316: ries—gene gain or loss of non- essential genes—shape genome
+L1317: size (Giovannoni et al. 2 014; Audrey et al. 2021). Despite the
+L1318:
+L1319: prevalence of genome streamlining as a strategy for adaptation
+L1320:
+L1321: to increasing aridity, we observed that gene density significantly
+L1322:
+L1323: increased w ith rising drought intensity (Figure2f). Gene density
+L1324:
+L1325: is closely associated with the abundance of functional proteins
+L1326:
+L1327: and the complexity of metabolic pathways (Scherer etal.2025).
+L1328:
+L1329: The higher gene density of microbes in more arid soil environ-
+L1330: ments suggests that they possess enhanced resource utilization
+L1331:
+L1332: efficiency in drought ecosystems (Cordero and Polz2014).
+L1333:
+L1334: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L1335:
+L1336: 11 of 14
+L1337: 4.3 | Relationship Between Microbial Energy
+L1338:
+L1339: Utilization and Life History Strategies Along
+L1340:
+L1341: the Aridity Gradient
+L1342:
+L1343: Our results indicated that as organic C decreases with increas-
+L1344:
+L1345: ing aridity intensity, the relative abundance of trace gas oxidiz-
+L1346:
+L1347: ers (including ETGG and MTGG) significantly increases, while
+L1348:
+L1349: the relative abundance of TGNG decreases (Figure 6b). Trace
+L1350:
+L1351: gas oxidizers exhibited smaller genomes, lower 16S rRNA op-
+L1352:
+L1353: eron copy numbers, and slower predicted growth rates, indica-
+L1354: tive of oligotrophic lifestyles (Chen and Kushwaha2021). Thus,
+L1355:
+L1356: the enrichment of trace gas oxidizers along natural aridity gra-
+L1357:
+L1358: dients correlates with an increase in the abundance of oligo-
+L1359:
+L1360: trophic microbes within the microbial communities. Previous
+L1361:
+L1362: reports indicate that oligotrophic microbes reduce the number
+L1363:
+L1364: of energy- intensive transporters by utilizing broad- specificity
+L1365:
+L1366: and high- affinity ATP- binding cassette (ABC) transporters and
+L1367: invest little in cell proliferation and motility, which aligns with
+L1368:
+L1369: their low- cost lifestyle (Roller and Schmidt2015). In arid soils
+L1370:
+L1371: in which organic C is limited and insufficient to meet micro-
+L1372:
+L1373: bial energy demands, these microbes can exploit atmospheric
+L1374:
+L1375: trace gases such as H 2 and CO—produced via hydrogeno-
+L1376:
+L1377: trophic fermentation and photochemical CO generation (Berney
+L1378:
+L1379: etal.2014; Moxley and Smith1998; Tarr etal.1995). These gases
+L1380: diffuse freely into cells without the aid of special transporter
+L1381:
+L1382: proteins and can be oxidized under minimal overpotential
+L1383:
+L1384: conditions while releasing large amounts of energy (Greening
+L1385:
+L1386: and Grinter2022). As such, these trace gases represent a cost-
+L1387:
+L1388: effective and efficient source of energy for oligotrophic microbes
+L1389:
+L1390: to grow under C- constrained conditions in infertile environ-
+L1391:
+L1392: ments (Bay, Dong, etal.2021), which is why ETGG and MTGG
+L1393:
+L1394: contain large numbers of oligotrophic taxa in desert soils. The
+L1395: fact that MTGG contains more oligotrophic taxa compared to
+L1396:
+L1397: ETGG further supports the idea that oligotrophs are more in-
+L1398:
+L1399: clined to utilize inorganic energy (Figure6d,e). Additionally, we
+L1400:
+L1401: found that microbes in different arid habitats can utilize both
+L1402:
+L1403: organic compounds and trace gas oxidation as energy sources.
+L1404:
+L1405: This finding implies the metabolic versatility of microbial com-
+L1406:
+L1407: munities and aligns with most previous studies (Cockell and
+L1408:
+L1409: Stokes2004; Ray etal.2022).
+L1410: We further analyzed the composition of these energy- utilizing
+L1411:
+L1412: microorgani sms and showed that TGNG, ET GG, and MTGG have
+L1413:
+L1414: a considerable degree of overlap at the phylum level (Figure5b).
+L1415:
+L1416: This finding is similar to previous research on copiotrophic and
+L1417:
+L1418: oligotrophic taxa, which have revealed that a high degree of tax-
+L1419:
+L1420: onomic variation still exists within individual microbial phyla
+L1421:
+L1422: (Fierer etal.2007; Ranjan etal.2015; Morrisey etal.2016). For ex-
+L1423: ample, both copiotrophic and oligotrophic members exist within
+L1424:
+L1425: the phyla Actinobacteria and Acidobacteria (Ho et al. 2017).
+L1426:
+L1427: Pseudomonadota, Actinomycetota, and Thermoproteota dom-
+L1428:
+L1429: inated TGNG, ETGG, and MTGG. These generalist taxa can
+L1430:
+L1431: acquire energy and C sources via multiple metabolic pathways,
+L1432:
+L1433: and comprise not only copiotrophic (mainly organotrophic)
+L1434:
+L1435: members that grow rapidly in resource- rich environments, but
+L1436:
+L1437: also oligotrophic groups that grow in resource- poor and arid en-
+L1438: vironments, using trace gases as substrate. This facilitates their
+L1439:
+L1440: wide distribution across a variety of ecosystems, for example,
+L1441:
+L1442: extreme environments such as deserts (Ray etal.2022), volcanic
+L1443:
+L1444: craters (Garcia- Lopez et al. 2022), hypersaline lakes (Kersters
+L1445:
+L1446: etal.2006), and polar glaciers (Trujillo2 016). Our results offer
+L1447:
+L1448: additional evidence of the diversity of energy acquisition strate-
+L1449:
+L1450: gies found in members of these three dominant phyla.
+L1451: In summar y, our results in this study demonstrate that increas-
+L1452:
+L1453: ing drought intensity alters genomic traits and energy utilization
+L1454:
+L1455: strategies of soil microbes (Figure7). As hypothesized, microbes
+L1456:
+L1457: exhibit energy- efficient genomic traits with increasing aridity
+L1458:
+L1459: intensity and environmental shifts. In more arid environments,
+L1460:
+L1461: microbial reliance on trace gas oxidation increases, but carbohy-
+L1462:
+L1463: drate utilization remains the primary energy source. Microbes
+L1464: that utilize trace gas oxidation as an energy source are primarily
+L1465:
+L1466: oligotrophic microbes with smaller genomes, which are more
+L1467:
+L1468: abundant in drier habitats. In contrast, copiotrophic microbes
+L1469:
+L1470: with larger genomes dominate organic energy utilization and
+L1471:
+L1472: are more prevalent in less arid habitats. These findings reveal
+L1473:
+L1474: how microbial communities maintain functional activity by ad-
+L1475:
+L1476: justing genomic traits and energy acquisition strategies along
+L1477:
+L1478: aridity gradients, thereby enhancing our understanding of the
+L1479: mechanisms by which soil microbial communities respond to
+L1480:
+L1481: climate change.
+L1482:
+L1483: 5 | Environmental Implications and Perspective
+L1484:
+L1485: The environmental adaptability exhibited by microorgan-
+L1486:
+L1487: isms has significant ecological implications for soil functions,
+L1488:
+L1489: particularly in the context of the continuous expansion of
+L1490:
+L1491: arid area under climate change (Dong et al. 2024; Chen and
+L1492:
+L1493: Kushwaha 2021). First, diverse metabolic and ecological strat-
+L1494:
+L1495: egies enable microorganisms to thrive in highly heterogeneous
+L1496: soil ecosystems, ensuring their critical roles in maintaining eco-
+L1497:
+L1498: system services (e.g., biodiversity preservation, biogeochemical
+L1499:
+L1500: cycling, and nutrient supply) under changing environmental
+L1501:
+L1502: conditions (Greening and Grinter 2022). Microorganisms con-
+L1503:
+L1504: tribute to the net uptake of approximately 75% of atmospheric H 2,
+L1505:
+L1506: 15% of CO, and 4% of CH 4, with arid ecosystems serving as key
+L1507:
+L1508: zones for trace gas oxidation (Rhee et al. 2006; Saunois 2020).
+L1509: In these C- limited environments, microbes utilize trace gases as
+L1510:
+L1511: essential energy substrates to sustain primar y production and
+L1512:
+L1513: support ecosystem functions (Islam etal.2019; Li etal.2023).
+L1514:
+L1515: Second, microbial energy strategies significantly influence C
+L1516:
+L1517: sequestration of terrestrial ecosystems (Xu et al.2024). While
+L1518:
+L1519: forests are often regarded as crucial terrestrial carbon sinks due
+L1520:
+L1521: to CO 2 fixation through plant photosynthesis (Pan etal.2024),
+L1522: microbial aerobic respiration of organic substrates can increase
+L1523:
+L1524: CO 2 emissions (Hudiburg et al. 2013). This trade- off compli-
+L1525:
+L1526: cates C cycling in forest ecosystems, making it challenging
+L1527:
+L1528: to determine whether they function as C sources or sinks. In
+L1529:
+L1530: contrast, oligotrophic microbes dominating desert soils employ
+L1531:
+L1532: mixotrophic metabolism by strengthening inorganic energy uti-
+L1533:
+L1534: lization and weakening organic substrate exploitation. Desert-
+L1535:
+L1536: dwelling bacteria have been reported to utilize hydrogen and
+L1537: carbon monoxide as energy sources to fix CO 2 into biomass
+L1538:
+L1539: (Li etal. 2023); the enhanced trace gas oxidation may thereby
+L1540:
+L1541: promote soil C sequestration of desert ecosystems (Bay, Waite,
+L1542:
+L1543: and Hugenholtz 2021). Moreover, oligotrophs typically exhibit
+L1544:
+L1545: higher carbon use efficiency (CUE) and a larger proportion of
+L1546:
+L1547: organic substrate is assimilated into microbial biomass rather
+L1548:
+L1549: than respired as CO 2, which further accelerates the C accumula-
+L1550:
+L1551: tion (Chen and Kushwaha2021; Saifuddin etal.2019). Given the
+L1552: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L1553:
+L1554: 12 of 14 Global Change Biology, 2025
+L1555:
+L1556: changes in genome traits and energy utilization strategies are
+L1557: closely linked to soil C sequestration, further research is needed
+L1558:
+L1559: to evaluate how these microbial adaptations affect soil carbon
+L1560:
+L1561: fixation and release. Future studies should integrate culture-
+L1562:
+L1563: based and culture- independent approaches, such as DNA- SIP
+L1564:
+L1565: and metatranscriptomics, to deepen our understanding of the
+L1566:
+L1567: ecophysiology of key taxa involved in trace gas oxidation in arid
+L1568:
+L1569: and other extreme environments.
+L1570:
+L1571: Author Contributions
+L1572:
+L1573: Xi aojun Wang : conceptualization, data curation, formal analysis, in-
+L1574: vestigation, methodology, software, writing – original draft. Wa ncai
+L1575:
+L1576: Wan g: conceptualization, formal analysis, investigation. Lei Deng:
+L1577:
+L1578: conceptualization, formal analysis, writing – review and editing. Ting
+L1579:
+L1580: Li: conceptualization, formal analysis, investigation. Shilong Lei:
+L1581:
+L1582: conceptualization, formal analysis, investigation. Lu Zhang: concep-
+L1583:
+L1584: tualization, formal analysi s, investigation. Lir ong Liao: conceptua liza-
+L1585:
+L1586: tion, formal analysis, investigation. Zilin Song: methodology, writing
+L1587: – review and editing. Guobin Liu: conceptualization, methodology,
+L1588:
+L1589: writing – review and editing. Chao Zhang: conceptualization, data
+L1590:
+L1591: curation, formal analysis, funding acquisition, investigation, methodol-
+L1592:
+L1593: ogy, writing – review and editing.
+L1594:
+L1595: Conflicts of Interest
+L1596:
+L1597: The authors declare no conflicts of interest.
+L1598:
+L1599: Data Availability Statement
+L1600:
+L1601: The data supporting the findings of this study are publicly available
+L1602:
+L1603: via DOI: https:// doi. org/ 10. 6084/ m9. figsh are. 30062344. The raw se-
+L1604: quencing data are deposited in the NCBI database (accession number:
+L1605:
+L1606: PRJNA1265876) and can be accessed at https:// www. ncbi. nlm. nih. gov/
+L1607:
+L1608: nucco re/? term= PR JNA 1265876.
+L1609:
+L1610: References
+L1611:
+L1612: Alneberg, J., B. S. Bjarnason, I. De Bruijn, M. Schirmer, and J. Quick.
+L1613:
+L1614: 2014. “Binning Metagenomic Contigs by Coverage and Composition.”
+L1615:
+L1616: Nature Methods 11: 1144 –1146. https:// doi. org/ 10. 1038/ nmeth. 3103.
+L1617:
+L1618: Amelung, W., and A. E. Berns. 2019. “Iron Cycling and Isotope
+L1619: Fractionation in Terrestrial Ecosystems.” Earth- Science Reviews 190:
+L1620:
+L1621: 323–352. https:// doi. org/ 10. 1016/j. earsc irev. 2018. 12. 012.
+L1622:
+L1623: Amor, D. R., and J. Gore. 2022. “Fast Growth Can Counteract
+L1624:
+L1625: Antibiotic Susceptibility in Shaping Microbial Community Resilience
+L1626:
+L1627: to Antibiotics.” Proceedings of the National Academy of Sciences of the
+L1628:
+L1629: United States of America 119: e2116954119. https:// doi. org/ 10. 1073/
+L1630:
+L1631: pnas. 21169 5411981.
+L1632:
+L1633: Audrey, L., W. Mark, and A. Vitor. 2021. “Streamlining Genomes:
+L1634: Toward the Generation of Simplified a nd Stabilized Microbial Systems .”
+L1635:
+L1636: Current Opinion in Biotechnology 23: 651–658. https:// doi. org/ 10. 1016/j.
+L1637:
+L1638: copbio. 2012. 05. 001.
+L1639:
+L1640: Banerjee, S., F. Banerjee, R. Keller, and G. A. van der Heijden. 2019.
+L1641:
+L1642: “Agricultural Intensification Reduces Microbial Network Complexity
+L1643:
+L1644: and the Abundance of Keystone Taxa in Roots.” ISME Journal 13: 1722–
+L1645:
+L1646: 1736. https:// doi. org/ 10. 1038/ s4139 6- 019 - 0383- 2.
+L1647:
+L1648: Barberán, A., A. Fenández- Guerra, B. J. Bohannan, and E. O.
+L1649: Casamayor. 2012. “Exploration of Community Traits as Ecological
+L1650:
+L1651: Markers in Microbial Metagenomes.” Molecular Ecology 21: 1909–1917.
+L1652:
+L1653: https:// doi. org/ 10. 1111/j. 1365- 294X. 2011. 05383. x.
+L1654:
+L1655: Bay, S. K., X. Dong, J. A. Bradley, P. M. Leung, R . Grinter, and T.
+L1656:
+L1657: Jirapanjawat. 2021. “Trace Gas Oxidizers Are Widespread and Active
+L1658:
+L1659: Members of Soil Microbial Communities.” Nature Microbiology 6: 246–
+L1660:
+L1661: 256. https:// doi. org/ 10. 1038/ s4156 4- 020- 00811 - w.
+L1662: Bay, S. K., D. W. Waite, and P. Hugenholtz. 2021. “Chemosynthetic
+L1663:
+L1664: and Photosynthetic Bacteria Contribute Differentially to Primary
+L1665:
+L1666: Production Across a Steep Desert Aridity Gradient.” ISME Journal 15:
+L1667:
+L1668: 3339–3356. http s:// doi. org/ 10. 1038/ s4139 6- 021- 010 01 - 0.
+L1669:
+L1670: Beller, H. R., T. E. Letain, A. Chakicherla, S. R. Kane, and T.
+L1671:
+L1672: C. Legler. 2006. “Whole- Genome Transcriptional Analysis of
+L1673:
+L1674: Chemolithoautotrophic Thiosulfate Oxidation by Thiobacillus de-
+L1675: nitrificans Under Aerobic Versus Denitrifying Conditions.” Journal of
+L1676:
+L1677: Bacteriology 188: 7005–7015. https:// doi. org/ 10. 1128/ JB. 00568 - 06.
+L1678:
+L1679: Berney, M., C. Greening, R. Conrad, W. R. Jacobs, and G. M. Cook.
+L1680:
+L1681: 2014. “An Obligately Aerobic Soil Bacterium Activates Fermentative
+L1682:
+L1683: Hydrogen Production to Surv ive Reductive Stress During Hypoxia.”
+L1684:
+L1685: Proceedings of the National Academy of Sciences of the United States of
+L1686:
+L1687: America 111: 11479–11484. https:// doi. org/ 10. 1073/ pnas. 14070 34111 .
+L1688: Bobay, L. M., and H. O chman. 2017. “The Evolution of Bacteri al Genome
+L1689:
+L1690: Architecture.” Frontiers in Genetics 8: 72. https:// doi. org/ 10. 3389/ fgene.
+L1691:
+L1692: 2017. 00072 .
+L1693:
+L1694: Boon, E., C. J. Meehan, C. W hidden, D. H. Wong, and R. G. Beiko.
+L1695:
+L1696: 2014. “Interactions in the Microbiome: Communities of Organisms
+L1697:
+L1698: and Communities of Genes.” FEMS Microbiology Reviews 38: 90–118.
+L1699:
+L1700: https:// doi. org/ 10. 1111/ 1574- 6976. 12035 .
+L1701:
+L1702: Cary, S. C., I. R. McDonald, J. E. Barrett, and D. A. Cowan. 2010. “On
+L1703: the Rocks: The Microbiology of Antarctic Dr y Valley Soils.” Nature
+L1704:
+L1705: Reviews Microbiology 8: 129–138. https:// doi. org/ 10. 1038/ nrmic
+L1706:
+L1707: ro2281.
+L1708:
+L1709: Chen, Y., and P. Kushwaha. 2021. “Life- History Strategies of Soil
+L1710:
+L1711: Microbial Communities in an Arid Ecosystem.” ISME Journal 15: 649–
+L1712:
+L1713: 657. https:// doi. org/ 10. 1038/ s4139 6- 020- 00803 - y.
+L1714:
+L1715: Cockell, C. S., and M. D. Stokes. 2004. “Ecology: Widespread
+L1716:
+L1717: Colonization by Polar Hypoliths.” Nature 431: 414. https:// doi. org/ 10.
+L1718:
+L1719: 1038/ 431414a.
+L1720: Condon, C., D. Liveris, C. Squires, I. Schwartz, and C. L. Squires. 1995.
+L1721:
+L1722: “rRNA Operon Multiplicity in Escherichia coli and the Physiological
+L1723:
+L1724: Implications of Rrn Inactivation.” Journal of Bacteriology 17 7: 4152–
+L1725:
+L1726: 4156. https:// doi. org/ 10. 1128/ jb. 177. 14. 4152- 4156. 1995.
+L1727:
+L1728: Cordero, O., and M. Polz. 2 014. “Explain ing Microbial Genomic D iversity
+L1729:
+L1730: in Light of Evolutionary Ecolog y.” Nature Reviews Microbiology 12: 263–
+L1731:
+L1732: 273. https:// doi. org/ 10. 1038/ nrmic ro3218.
+L1733: Cordero, P. R. 2021. “Cellular and Molecular Basis of Atmospheric
+L1734:
+L1735: Hydrogen and Carbon Monoxide Oxidation in Mycobacteria. Phd
+L1736:
+L1737: Thesis. Monash University.”
+L1738:
+L1739: Cordero, P. R., K. Bayly, M. Leung, C. Huang, and Z. F. Islam. 2019.
+L1740:
+L1741: “Atmospheric Carbon Monoxide Oxidation Is a Widespread Mechanism
+L1742:
+L1743: Supporting Microbial Sur vival.” ISME Journal 13: 2868–2881. h ttps ://
+L1744:
+L1745: doi. org/ 10. 1038/ s4139 6- 019- 0479- 8.
+L1746:
+L1747: Deutscher, J. 2008. “The Mechanisms of Carbon Catabolite Repression
+L1748: in Bacteria.” Current Opinion in Microbiology 11: 87–93. https:// doi. org/
+L1749:
+L1750: 10. 1016/j. mib. 2 008. 02. 007.
+L1751:
+L1752: Dong, Y., R. Chen, and E. B. Graham. 2024. “Eco- Evolutionary
+L1753:
+L1754: Strategies for Relieving Carbon Limitation Under Salt Stress Differ
+L1755:
+L1756: Across Microbial Clades.” Nature Communications 15: 6013. https:// doi.
+L1757:
+L1758: org/ 10. 1038/ s4146 7- 024- 50368 - z.
+L1759:
+L1760: Fierer, N., M. A. Bradford, and R. B. Jackson. 2007. “Toward an
+L1761:
+L1762: Ecological Classification of Soil Bacteria.” Ecology 88: 1354–1364.
+L1763: https:// doi. org/ 10. 1890/ 05 - 1839.
+L1764:
+L1765: Flagg , C., P. Dijkstra, and P. F. Flagg. 2023. “E daphic Controls on Genome
+L1766:
+L1767: Size and GC Content of Bacteria in Soil Microbial Communities.” Soil
+L1768:
+L1769: Biology and Biochemistry 178: 108935. https:// doi. org/ 10. 1016/j. soilb io.
+L1770:
+L1771: 2022. 108935.
+L1772: 13652486, 2025, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/gcb.70498 by Lei Deng - Xian Jiaotong University , Wiley Online Library on [17/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+L1773:
+L1774: 13 of 14
+L1775:
+L1776: Gallet, R., C. Violle, and N. Fromin. 2017. “The Evolution of Bacterial
+L1777: Cell Size: T he Internal D iffusion- Constraint Hy pothesis.” ISME Journal
+L1778:
+L1779: 11, no. 7: 1559–1568. https:// doi. org/ 10. 1038/ ismej. 2017. 35.
+L1780:
+L1781: Garcia- Lopez, E., F. Ruiz- Blas, S. Sanchez- Casanova, S. Peña Perez,
+L1782:
+L1783: M. L. Martin- Cerezo, and C. Cid. 2022. “Microbial Communities in
+L1784:
+L1785: Volcanic Glacier Ecosystems.” Frontiers in Microbiology 13: 825632.
+L1786:
+L1787: https:// doi. org/ 10. 3389/ fmicb. 2022. 825632.
+L1788:
+L1789: Giovannoni, S., J. Cameron Thrash, and B. Temperton. 2014.
+L1790: “Implications of Streamlining Theory for Microbial Ecology.” ISME
+L1791:
+L1792: Journal 8: 1553–1565. https:// doi. org/ 10. 1038/ ismej. 2014. 60.
+L1793:
+L1794: Greening, C., C. R. Carere, and R. Rushton- Green. 2015. “Persistence
+L1795:
+L1796: of the Dominant Soil Phylum Acidobacteria by Trace Gas Scavenging.”
+L1797:
+L1798: Proceedings of the National Academy of Sciences of the United States of
+L1799:
+L1800: America 112: 10 497–10502. https:// doi. org/ 10. 1073/ pnas. 15083 85112 .
+L1801:
+L1802: Greening, C ., and R. Grinter. 202 2. “Microbial Ox idation of Atmospheric
+L1803: Trace Gases.” Nature Reviews Microbiology 20: 513 –528. https:// doi. org/
+L1804:
+L1805: 10. 1038/ s4157 9 - 022 - 00724 - x.
+L1806:
+L1807: Hall, A. R., and P. D. Scanlan. 2011. “Buckling A. Host- Parasite
+L1808:
+L1809: Coevolutionar y Arms Rac es Give Way to Fluctuating Select ion.” Ecology
+L1810:
+L1811: Letters 14: 635–642. https:// doi. org/ 10. 1111/j. 1461- 0248. 2011. 01624. x.
+L1812:
+L1813: Ho, A., D. Lonardo, and P. Bodelier. 2017. “Revisiting Life Strategy
+L1814:
+L1815: Concepts in Environmental Microbial Ecology.” FEMS Microbiology
+L1816: Ecology 93: fix006. https:// doi. org/ 10. 1093/ femsec/ f ix006.
+L1817:
+L1818: Hu, W., J. Ran, and L. Dong. 2021. “Aridity- Driven Shift i n Biodiversity–
+L1819:
+L1820: Soil Multifunctionality Relationships.” Nature Communications 12:
+L1821:

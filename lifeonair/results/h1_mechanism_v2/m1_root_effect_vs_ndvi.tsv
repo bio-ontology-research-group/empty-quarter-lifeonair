@@ -1,0 +1,4 @@
+test	estimate	p_or_se	n
+pair excess_1l ~ NDVI (spearman)	0.20042371066822	0.0394011055540771	106
+site-median excess_1l ~ NDVI (spearman)	0.373612395929695	0.00968695024621192	47
+pair excess_1l ~ NDVI (lmer, per SD)	0.620715656446713	0.216465890515255	106

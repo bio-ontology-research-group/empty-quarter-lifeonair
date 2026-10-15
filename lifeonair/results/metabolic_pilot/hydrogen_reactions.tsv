@@ -1,0 +1,376 @@
+rep	variant	reaction	name	stoichiometry	lower	upper	gpr	gapfill_step	exact_marker_gpr
+V42PRr2__single_SemiBin_32	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V42PRr2__single_SemiBin_32	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V42PRr2__single_SemiBin_32	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V42PRr2__single_SemiBin_32	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_920	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_920::V60PRr2_983081_35		0
+V60PRr2__self_SemiBin_920	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_920::V60PRr2_983081_35		0
+V60PRr2__self_SemiBin_920	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_920	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_920	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_920::V60PRr2_983081_35		0
+V60PRr2__self_SemiBin_920	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_920	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F38Dr3__self_SemiBin_962	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F38Dr3__self_SemiBin_962	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V11PRr3__self_SemiBin_512	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V11PRr3__self_SemiBin_512::V11PRr3_1396544_9		0
+V11PRr3__self_SemiBin_512	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V11PRr3__self_SemiBin_512::V11PRr3_1396544_9		0
+V11PRr3__self_SemiBin_512	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V11PRr3__self_SemiBin_512	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V11PRr3__self_SemiBin_512	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V11PRr3__self_SemiBin_512::V11PRr3_1396544_9		0
+V11PRr3__self_SemiBin_512	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V11PRr3__self_SemiBin_512	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T8PRr2__self_SemiBin_1029	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr2__self_SemiBin_1029::T8PRr2_2037996_18		0
+T8PRr2__self_SemiBin_1029	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr2__self_SemiBin_1029::T8PRr2_2037996_18		0
+T8PRr2__self_SemiBin_1029	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr2__self_SemiBin_1029	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T8PRr2__self_SemiBin_1029	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr2__self_SemiBin_1029::T8PRr2_2037996_18		0
+T8PRr2__self_SemiBin_1029	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr2__self_SemiBin_1029	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F21Dr3__single_SemiBin_84	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F21Dr3__single_SemiBin_84::F21Dr3_636047_49		0
+F21Dr3__single_SemiBin_84	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F21Dr3__single_SemiBin_84::F21Dr3_636047_49		0
+F21Dr3__single_SemiBin_84	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F21Dr3__single_SemiBin_84	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F21Dr3__single_SemiBin_84	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F21Dr3__single_SemiBin_84::F21Dr3_636047_49		0
+F21Dr3__single_SemiBin_84	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F21Dr3__single_SemiBin_84	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_1483	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1483::6Dr2_2105139_4		0
+6Dr2__self_SemiBin_1483	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1483::6Dr2_2105139_4		0
+6Dr2__self_SemiBin_1483	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_1483	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_1483	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1483::6Dr2_2105139_4		0
+6Dr2__self_SemiBin_1483	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_1483	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_174	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_174	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_174	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_174	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_609::S54PRr1_486813_100		0
+S54PRr1__self_SemiBin_609	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_609::S54PRr1_486813_100		0
+S54PRr1__self_SemiBin_609	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	filled	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_609::S54PRr1_486813_100		0
+S54PRr1__self_SemiBin_609	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	filled_grounded_h2	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+S54PRr1__self_SemiBin_609	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F27Dr1__single_SemiBin_119	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F27Dr1__single_SemiBin_119::F27Dr1_238714_1		0
+F27Dr1__single_SemiBin_119	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F27Dr1__single_SemiBin_119::F27Dr1_238714_1		0
+F27Dr1__single_SemiBin_119	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F27Dr1__single_SemiBin_119	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F27Dr1__single_SemiBin_119	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F27Dr1__single_SemiBin_119::F27Dr1_238714_1		0
+F27Dr1__single_SemiBin_119	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F27Dr1__single_SemiBin_119	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V17PRr1__self_SemiBin_1054	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V17PRr1__self_SemiBin_1054::V17PRr1_675279_121		0
+V17PRr1__self_SemiBin_1054	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V17PRr1__self_SemiBin_1054::V17PRr1_675279_121		0
+V17PRr1__self_SemiBin_1054	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V17PRr1__self_SemiBin_1054	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V17PRr1__self_SemiBin_1054	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V17PRr1__self_SemiBin_1054::V17PRr1_675279_121		0
+V17PRr1__self_SemiBin_1054	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V17PRr1__self_SemiBin_1054	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+S60PRr1__single_SemiBin_8	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+S60PRr1__single_SemiBin_8	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+S60PRr1__single_SemiBin_8	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+S60PRr1__single_SemiBin_8	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	7Dr1__single_SemiBin_61::7Dr1_697165_7 or 7Dr1__single_SemiBin_61::7Dr1_729093_8		0
+7Dr1__single_SemiBin_61	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	7Dr1__single_SemiBin_61::7Dr1_697165_7 or 7Dr1__single_SemiBin_61::7Dr1_729093_8		0
+7Dr1__single_SemiBin_61	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	7Dr1__single_SemiBin_61::7Dr1_697165_7 or 7Dr1__single_SemiBin_61::7Dr1_729093_8		0
+7Dr1__single_SemiBin_61	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+7Dr1__single_SemiBin_61	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_1357	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1357::6Dr2_1308673_33 or 6Dr2__self_SemiBin_1357::6Dr2_1488336_3		0
+6Dr2__self_SemiBin_1357	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1357::6Dr2_1308673_33 or 6Dr2__self_SemiBin_1357::6Dr2_1488336_3		0
+6Dr2__self_SemiBin_1357	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+6Dr2__self_SemiBin_1357	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_1357::6Dr2_1308673_33 or 6Dr2__self_SemiBin_1357::6Dr2_1488336_3		0
+6Dr2__self_SemiBin_1357	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+6Dr2__self_SemiBin_2037	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_2037::6Dr2_955475_11		0
+6Dr2__self_SemiBin_2037	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_2037::6Dr2_955475_11		0
+6Dr2__self_SemiBin_2037	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_2037	filled	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+6Dr2__self_SemiBin_2037	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_2037	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	6Dr2__self_SemiBin_2037::6Dr2_955475_11		0
+6Dr2__self_SemiBin_2037	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+6Dr2__self_SemiBin_2037	filled_grounded_h2	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+6Dr2__self_SemiBin_2037	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+15Dr1__single_SemiBin_9	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	15Dr1__single_SemiBin_9::15Dr1_763028_8		0
+15Dr1__single_SemiBin_9	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	15Dr1__single_SemiBin_9::15Dr1_763028_8		0
+15Dr1__single_SemiBin_9	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+15Dr1__single_SemiBin_9	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	15Dr1__single_SemiBin_9::15Dr1_763028_8		0
+15Dr1__single_SemiBin_9	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F33PRr1__self_SemiBin_670	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F33PRr1__self_SemiBin_670::F33PRr1_591930_45		0
+F33PRr1__self_SemiBin_670	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F33PRr1__self_SemiBin_670::F33PRr1_591930_45		0
+F33PRr1__self_SemiBin_670	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F33PRr1__self_SemiBin_670	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F33PRr1__self_SemiBin_670	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F33PRr1__self_SemiBin_670::F33PRr1_591930_45		0
+F33PRr1__self_SemiBin_670	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F33PRr1__self_SemiBin_670	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_4599	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_4599::V60PRr2_123983_162		0
+V60PRr2__self_SemiBin_4599	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_4599::V60PRr2_123983_162		0
+V60PRr2__self_SemiBin_4599	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_4599	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_4599	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V60PRr2__self_SemiBin_4599::V60PRr2_123983_162		0
+V60PRr2__self_SemiBin_4599	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_4599	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F24PRr1__self_SemiBin_48	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr3__self_SemiBin_315::T8PRr3_1404813_8		0
+T8PRr3__self_SemiBin_315	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr3__self_SemiBin_315::T8PRr3_1404813_8		0
+T8PRr3__self_SemiBin_315	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8PRr3__self_SemiBin_315::T8PRr3_1404813_8		0
+T8PRr3__self_SemiBin_315	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled_grounded_h2	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+T8PRr3__self_SemiBin_315	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled_grounded_h2	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+49Dr2__single_SemiBin_6	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_1029::F34PRr2_2417781_57		0
+F34PRr2__self_SemiBin_1029	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_1029::F34PRr2_2417781_57		0
+F34PRr2__self_SemiBin_1029	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_1029::F34PRr2_2417781_57		0
+F34PRr2__self_SemiBin_1029	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled_grounded_h2	rxn08735_c0	Hydrogenase (menaquinone8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15500_c0 --> 2.0 cpd00067_e0 + cpd15499_c0	0.0	1000.0		1	0
+F34PRr2__self_SemiBin_1029	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F2Sr2__self_SemiBin_769	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F2Sr2__self_SemiBin_769	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F2Sr2__self_SemiBin_769	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F2Sr2__self_SemiBin_769	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T2PRr3__self_SemiBin_942	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T2PRr3__self_SemiBin_942	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T2PRr3__self_SemiBin_942	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T2PRr3__self_SemiBin_942	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V40PRr2__single_SemiBin_242	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V40PRr2__single_SemiBin_242::V40PRr2_451436_684		0
+V40PRr2__single_SemiBin_242	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V40PRr2__single_SemiBin_242::V40PRr2_451436_684		0
+V40PRr2__single_SemiBin_242	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V40PRr2__single_SemiBin_242	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V40PRr2__single_SemiBin_242	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V40PRr2__single_SemiBin_242::V40PRr2_451436_684		0
+V40PRr2__single_SemiBin_242	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V40PRr2__single_SemiBin_242	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T5Dr1__single_SemiBin_19	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T5Dr1__single_SemiBin_19	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+T1PRr1__self_SemiBin_681	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+9Dr3__single_SemiBin_62	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+9Dr3__single_SemiBin_62	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+T8Dr1__self_SemiBin_525	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8Dr1__self_SemiBin_525::T8Dr1_216869_46 or T8Dr1__self_SemiBin_525::T8Dr1_1665194_2		0
+T8Dr1__self_SemiBin_525	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8Dr1__self_SemiBin_525::T8Dr1_216869_46 or T8Dr1__self_SemiBin_525::T8Dr1_1665194_2		0
+T8Dr1__self_SemiBin_525	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T8Dr1__self_SemiBin_525::T8Dr1_216869_46 or T8Dr1__self_SemiBin_525::T8Dr1_1665194_2		0
+F41PRr1__single_SemiBin_61	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F41PRr1__single_SemiBin_61::F41PRr1_555506_18		0
+F41PRr1__single_SemiBin_61	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F41PRr1__single_SemiBin_61::F41PRr1_555506_18		0
+F41PRr1__single_SemiBin_61	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F41PRr1__single_SemiBin_61	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F41PRr1__single_SemiBin_61	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F41PRr1__single_SemiBin_61::F41PRr1_555506_18		0
+F41PRr1__single_SemiBin_61	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F41PRr1__single_SemiBin_61	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1489	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_1489	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5PRr1__self_SemiBin_937	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5PRr1__self_SemiBin_937::V5PRr1_2329780_1		0
+V5PRr1__self_SemiBin_937	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5PRr1__self_SemiBin_937::V5PRr1_2329780_1		0
+V5PRr1__self_SemiBin_937	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5PRr1__self_SemiBin_937	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5PRr1__self_SemiBin_937	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5PRr1__self_SemiBin_937::V5PRr1_2329780_1		0
+V5PRr1__self_SemiBin_937	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5PRr1__self_SemiBin_937	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_241	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_241::V5Dr1_473246_17		0
+V5Dr1__self_SemiBin_241	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_241::V5Dr1_473246_17		0
+V5Dr1__self_SemiBin_241	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_241	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_241	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_241::V5Dr1_473246_17		0
+V5Dr1__self_SemiBin_241	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_241	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V47PRr1__single_SemiBin_147	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V47PRr1__single_SemiBin_147::V47PRr1_1364207_3		0
+V47PRr1__single_SemiBin_147	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V47PRr1__single_SemiBin_147::V47PRr1_1364207_3		0
+V47PRr1__single_SemiBin_147	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V47PRr1__single_SemiBin_147	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V47PRr1__single_SemiBin_147	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V47PRr1__single_SemiBin_147::V47PRr1_1364207_3		0
+V47PRr1__single_SemiBin_147	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V47PRr1__single_SemiBin_147	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+43PRr3__self_SemiBin_108	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	43PRr3__self_SemiBin_108::43PRr3_1390521_23		0
+43PRr3__self_SemiBin_108	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	43PRr3__self_SemiBin_108::43PRr3_1390521_23		0
+43PRr3__self_SemiBin_108	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+43PRr3__self_SemiBin_108	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	43PRr3__self_SemiBin_108::43PRr3_1390521_23		0
+43PRr3__self_SemiBin_108	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_427	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_427::V5Dr1_627172_18		0
+V5Dr1__self_SemiBin_427	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_427::V5Dr1_627172_18		0
+V5Dr1__self_SemiBin_427	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_427	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_427	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V5Dr1__self_SemiBin_427::V5Dr1_627172_18		0
+V5Dr1__self_SemiBin_427	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V5Dr1__self_SemiBin_427	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+36PRr1__self_SemiBin_1246	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36PRr1__self_SemiBin_1246	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+36PRr1__self_SemiBin_1246	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36PRr1__self_SemiBin_1246	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+41PRr1__single_SemiBin_282	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F41Dr3__self_SemiBin_295	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F41Dr3__self_SemiBin_295	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F41Dr3__self_SemiBin_295	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F41Dr3__self_SemiBin_295	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+36Dr1__self_SemiBin_442	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+12Dr1__self_SemiBin_63	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+12Dr1__self_SemiBin_63	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+12Dr1__self_SemiBin_63	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+12Dr1__self_SemiBin_63	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V6Dr1__self_SemiBin_129	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V6Dr1__self_SemiBin_129	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V6Dr1__self_SemiBin_129	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V6Dr1__self_SemiBin_129	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V60PRr2__self_SemiBin_2189	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V16PRr1__single_SemiBin_130::V16PRr1_895635_110		0
+V16PRr1__single_SemiBin_130	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V16PRr1__single_SemiBin_130::V16PRr1_895635_110		0
+V16PRr1__single_SemiBin_130	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V16PRr1__single_SemiBin_130::V16PRr1_895635_110		0
+V16PRr1__single_SemiBin_130	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V16PRr1__single_SemiBin_130	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54Dr1__self_SemiBin_594	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54Dr1__self_SemiBin_594	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54Dr1__self_SemiBin_594	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54Dr1__self_SemiBin_594	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+34Dr3__single_SemiBin_62	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+34Dr3__single_SemiBin_62	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+34Dr3__single_SemiBin_62	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+34Dr3__single_SemiBin_62	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V58PRr1__single_SemiBin_108	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V58PRr1__single_SemiBin_108	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V58PRr1__single_SemiBin_108	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V58PRr1__single_SemiBin_108	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+48PRr1__SemiBin_101	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	48PRr1__SemiBin_101::48PRr1_165559_6		0
+48PRr1__SemiBin_101	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	48PRr1__SemiBin_101::48PRr1_165559_6		0
+48PRr1__SemiBin_101	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	48PRr1__SemiBin_101::48PRr1_165559_6		0
+S54PRr1__self_SemiBin_621	draft	rxn06557_c0	Hydrogen:ferricytochrome-c3 oxidoreductase	cpd11640_c0 + 2.0 cpd12157_c0 --> 2.0 cpd00067_c0 + 2.0 cpd12159_c0	0.0	1000.0	S54PRr1__self_SemiBin_621::S54PRr1_336780_44 and (S54PRr1__self_SemiBin_621::S54PRr1_336780_47 or S54PRr1__self_SemiBin_621::S54PRr1_473389_40)		1
+S54PRr1__self_SemiBin_621	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_621::S54PRr1_270498_37 or S54PRr1__self_SemiBin_621::S54PRr1_194393_30		0
+S54PRr1__self_SemiBin_621	filled	rxn06557_c0	Hydrogen:ferricytochrome-c3 oxidoreductase	cpd11640_c0 + 2.0 cpd12157_c0 --> 2.0 cpd00067_c0 + 2.0 cpd12159_c0	0.0	1000.0	S54PRr1__self_SemiBin_621::S54PRr1_336780_44 and (S54PRr1__self_SemiBin_621::S54PRr1_336780_47 or S54PRr1__self_SemiBin_621::S54PRr1_473389_40)		1
+S54PRr1__self_SemiBin_621	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_621::S54PRr1_270498_37 or S54PRr1__self_SemiBin_621::S54PRr1_194393_30		0
+S54PRr1__self_SemiBin_621	filled_grounded_h2	rxn06557_c0	Hydrogen:ferricytochrome-c3 oxidoreductase	cpd11640_c0 + 2.0 cpd12157_c0 --> 2.0 cpd00067_c0 + 2.0 cpd12159_c0	0.0	1000.0	S54PRr1__self_SemiBin_621::S54PRr1_336780_44 and (S54PRr1__self_SemiBin_621::S54PRr1_336780_47 or S54PRr1__self_SemiBin_621::S54PRr1_473389_40)		1
+S54PRr1__self_SemiBin_621	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S54PRr1__self_SemiBin_621::S54PRr1_270498_37 or S54PRr1__self_SemiBin_621::S54PRr1_194393_30		0
+F6Dr2__single_SemiBin_185	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled_grounded_h2	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+F6Dr2__single_SemiBin_185	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled_grounded_h2	rxn08736_c0	Hydrogenase (Demethylmenaquinone-8: 2 protons) (periplasm)	2.0 cpd00067_c0 + cpd11640_c0 + cpd15352_c0 --> 2.0 cpd00067_e0 + cpd15353_c0	0.0	1000.0		1	0
+64PRr2__single_SemiBin_71	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F34PRr2__self_SemiBin_879	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_879::F34PRr2_999436_2 or F34PRr2__self_SemiBin_879::F34PRr2_1081499_3 or F34PRr2__self_SemiBin_879::F34PRr2_2190440_48		0
+F34PRr2__self_SemiBin_879	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_879::F34PRr2_999436_2 or F34PRr2__self_SemiBin_879::F34PRr2_1081499_3 or F34PRr2__self_SemiBin_879::F34PRr2_2190440_48		0
+F34PRr2__self_SemiBin_879	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F34PRr2__self_SemiBin_879::F34PRr2_999436_2 or F34PRr2__self_SemiBin_879::F34PRr2_1081499_3 or F34PRr2__self_SemiBin_879::F34PRr2_2190440_48		0
+S2PRr1__self_SemiBin_8	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S2PRr1__self_SemiBin_8::S2PRr1_419797_17 or S2PRr1__self_SemiBin_8::S2PRr1_257555_5 or S2PRr1__self_SemiBin_8::S2PRr1_114180_2		0
+S2PRr1__self_SemiBin_8	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S2PRr1__self_SemiBin_8::S2PRr1_419797_17 or S2PRr1__self_SemiBin_8::S2PRr1_257555_5 or S2PRr1__self_SemiBin_8::S2PRr1_114180_2		0
+S2PRr1__self_SemiBin_8	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S2PRr1__self_SemiBin_8::S2PRr1_419797_17 or S2PRr1__self_SemiBin_8::S2PRr1_257555_5 or S2PRr1__self_SemiBin_8::S2PRr1_114180_2		0
+S22Dr1__self_SemiBin_153	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S22Dr1__self_SemiBin_153::S22Dr1_39563_74 or S22Dr1__self_SemiBin_153::S22Dr1_277636_8 or S22Dr1__self_SemiBin_153::S22Dr1_61574_84 or S22Dr1__self_SemiBin_153::S22Dr1_44338_2		0
+S22Dr1__self_SemiBin_153	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S22Dr1__self_SemiBin_153::S22Dr1_39563_74 or S22Dr1__self_SemiBin_153::S22Dr1_277636_8 or S22Dr1__self_SemiBin_153::S22Dr1_61574_84 or S22Dr1__self_SemiBin_153::S22Dr1_44338_2		0
+S22Dr1__self_SemiBin_153	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S22Dr1__self_SemiBin_153::S22Dr1_39563_74 or S22Dr1__self_SemiBin_153::S22Dr1_277636_8 or S22Dr1__self_SemiBin_153::S22Dr1_61574_84 or S22Dr1__self_SemiBin_153::S22Dr1_44338_2		0
+46PRr2__single_SemiBin_88	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	46PRr2__single_SemiBin_88::46PRr2_1234420_3		0
+46PRr2__single_SemiBin_88	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	46PRr2__single_SemiBin_88::46PRr2_1234420_3		0
+46PRr2__single_SemiBin_88	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+46PRr2__single_SemiBin_88	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	46PRr2__single_SemiBin_88::46PRr2_1234420_3		0
+46PRr2__single_SemiBin_88	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+24PRr2__single_SemiBin_38	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__single_SemiBin_38::24PRr2_795224_2		0
+24PRr2__single_SemiBin_38	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__single_SemiBin_38::24PRr2_795224_2		0
+24PRr2__single_SemiBin_38	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__single_SemiBin_38::24PRr2_795224_2		0
+V45Dr1__self_SemiBin_401	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V45Dr1__self_SemiBin_401::V45Dr1_1001491_60		0
+V45Dr1__self_SemiBin_401	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V45Dr1__self_SemiBin_401::V45Dr1_1001491_60		0
+V45Dr1__self_SemiBin_401	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V45Dr1__self_SemiBin_401	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+V45Dr1__self_SemiBin_401	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	V45Dr1__self_SemiBin_401::V45Dr1_1001491_60		0
+V45Dr1__self_SemiBin_401	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+V45Dr1__self_SemiBin_401	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+27Dr3__self_SemiBin_524	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	27Dr3__self_SemiBin_524::27Dr3_969301_9		0
+27Dr3__self_SemiBin_524	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	27Dr3__self_SemiBin_524::27Dr3_969301_9		0
+27Dr3__self_SemiBin_524	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+27Dr3__self_SemiBin_524	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+27Dr3__self_SemiBin_524	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	27Dr3__self_SemiBin_524::27Dr3_969301_9		0
+27Dr3__self_SemiBin_524	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+27Dr3__self_SemiBin_524	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+S19Sr1__single_SemiBin_44	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S19Sr1__single_SemiBin_44::S19Sr1_205693_68		0
+S19Sr1__single_SemiBin_44	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S19Sr1__single_SemiBin_44::S19Sr1_205693_68		0
+S19Sr1__single_SemiBin_44	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	S19Sr1__single_SemiBin_44::S19Sr1_205693_68		0
+24Dr2__self_SemiBin_589	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24Dr2__self_SemiBin_589::24Dr2_1139986_4 or 24Dr2__self_SemiBin_589::24Dr2_746006_29		0
+24Dr2__self_SemiBin_589	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24Dr2__self_SemiBin_589::24Dr2_1139986_4 or 24Dr2__self_SemiBin_589::24Dr2_746006_29		0
+24Dr2__self_SemiBin_589	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+24Dr2__self_SemiBin_589	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+24Dr2__self_SemiBin_589	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24Dr2__self_SemiBin_589::24Dr2_1139986_4 or 24Dr2__self_SemiBin_589::24Dr2_746006_29		0
+24Dr2__self_SemiBin_589	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+24Dr2__self_SemiBin_589	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__single_SemiBin_82	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F6Dr2__self_SemiBin_140	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__self_SemiBin_140	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F6Dr2__self_SemiBin_140	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F6Dr2__self_SemiBin_140	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	54PRr2__self_SemiBin_67::54PRr2_677666_10 or 54PRr2__self_SemiBin_67::54PRr2_1382555_14		0
+54PRr2__self_SemiBin_67	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	54PRr2__self_SemiBin_67::54PRr2_677666_10 or 54PRr2__self_SemiBin_67::54PRr2_1382555_14		0
+54PRr2__self_SemiBin_67	filled	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	54PRr2__self_SemiBin_67::54PRr2_677666_10 or 54PRr2__self_SemiBin_67::54PRr2_1382555_14		0
+54PRr2__self_SemiBin_67	filled_grounded_h2	rxn05887_c0	Hydrogen:NAD+ oxidoreductase	cpd00003_c0 + cpd11640_c0 <=> cpd00004_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+54PRr2__self_SemiBin_67	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F54PRr2__self_SemiBin_236	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F54PRr2__self_SemiBin_236::F54PRr2_231758_3 or F54PRr2__self_SemiBin_236::F54PRr2_78630_6		0
+F54PRr2__self_SemiBin_236	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F54PRr2__self_SemiBin_236::F54PRr2_231758_3 or F54PRr2__self_SemiBin_236::F54PRr2_78630_6		0
+F54PRr2__self_SemiBin_236	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	F54PRr2__self_SemiBin_236::F54PRr2_231758_3 or F54PRr2__self_SemiBin_236::F54PRr2_78630_6		0
+T7Dr3__self_SemiBin_1377	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T7Dr3__self_SemiBin_1377::T7Dr3_586903_32		0
+T7Dr3__self_SemiBin_1377	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T7Dr3__self_SemiBin_1377::T7Dr3_586903_32		0
+T7Dr3__self_SemiBin_1377	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+T7Dr3__self_SemiBin_1377	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	T7Dr3__self_SemiBin_1377::T7Dr3_586903_32		0
+T7Dr3__self_SemiBin_1377	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		2	0
+F22PRr2__single_SemiBin_106	filled	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F22PRr2__single_SemiBin_106	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+F22PRr2__single_SemiBin_106	filled_grounded_h2	rxn07200_c0	hydrogen:NADP+ oxidoreductase	cpd00006_c0 + cpd11640_c0 <=> cpd00005_c0 + cpd00067_c0	-1000.0	1000.0		1	0
+F22PRr2__single_SemiBin_106	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+24PRr2__self_SemiBin_374	draft	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__self_SemiBin_374::24PRr2_104247_6		0
+24PRr2__self_SemiBin_374	filled	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__self_SemiBin_374::24PRr2_104247_6		0
+24PRr2__self_SemiBin_374	filled	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0
+24PRr2__self_SemiBin_374	filled_grounded_h2	rxn90072_c0	formate dehydrogenase (hydrogenase)	cpd00011_c0 + cpd11640_c0 <-- cpd00047_c0 + cpd00067_c0	-1000.0	0.0	24PRr2__self_SemiBin_374::24PRr2_104247_6		0
+24PRr2__self_SemiBin_374	filled_grounded_h2	rxn90057_c0	ferredoxin hydrogenase (chemiosmosis)	4.0 cpd00067_c0 + 2.0 cpd11620_c0 <=> 2.0 cpd00067_e0 + 2.0 cpd11621_c0 + cpd11640_c0	-1000.0	1000.0		1	0

@@ -1,0 +1,143 @@
+Metabolic-model pilot: decision and evidence
+12 October 2026
+
+Decision
+
+Do not add these simulations as mechanistic support for the paper's central
+hypothesis, and do not expand to a catalogue-wide ecological regression yet.
+The existing models are available at scale, but their hydrogenase representation
+and reconstruction-dependent phenotypes are inadequate for that inference. This
+is a limitation of the present models, not evidence that the organisms cannot
+consume atmospheric hydrogen. The pilot does not currently justify stronger
+claims or a higher-impact journal positioning.
+
+Coverage and design
+
+All 5,438 current representative IDs have gapsmith draft and filled models.
+After quality, contamination-flag, subset and marker-group filters, 1,759 were
+eligible: 178 group-1l carriers, 163 group-1h carriers and 1,418 neither controls.
+We selected 24 triplets (72 MAGs) within 13 named orders, favouring genus/family
+and quality matching, before inspecting phenotypes or field abundance. Selection
+was deterministic and order-limited, not random or phylogenetically independent.
+The controls lack group 1l/1h/2a and form-I CoxL; carriers exclude 1l/1h/2a
+co-carriage but may contain form-I CoxL. The panel is a feasibility test.
+
+Each model was evaluated as draft, filled, and filled with ungrounded H2 reactions
+closed. The last variant retains an internal H2 reaction only if its GPR contains
+an exact-sequence match to a curated group-1l/1h marker and the reaction was not
+added by gap filling. It is a restrictive diagnostic, not a validated model repair.
+
+We screened 12 organic substrates at 6 mmol organic C/gDW/h, and glucose at
+0, 0.006, 0.06, 0.6 and 6 mmol C/gDW/h with optional H2 uptake capped at
+0, 0.001, 0.01 and 0.1 mmol/gDW/h. The latter bounds are sensitivity settings;
+they are not a conversion of atmospheric concentrations to fluxes. Oxygen was
+capped at 10 and CO2 at 1 mmol/gDW/h. No exogenous organic donor was supplied in
+the zero-organic-carbon condition. Biomass was closed for diagnostic ATP
+hydrolysis, and restored for growth. Growth media additionally supplied trace
+metals. Full bounds and substrate identities are in metabolic_simulate.py.
+
+Primary results
+
+All 10,584 scenario optimisations returned optimal status. All 216 model variants
+passed the closed-exchange and inorganic-medium ATP checks. All 3,240 optional-H2
+monotonicity checks passed. These controls do not constitute a complete mass or
+charge audit: most SBML metabolites lack formulas.
+
+Of the 48 marker carriers, 44 had exact matches between curated marker proteins
+and the reconstruction input proteomes (21/24 group 1l; 23/24 group 1h). Only one
+had a native internal H2 reaction whose GPR included that matched marker:
+S54PRr1__self_SemiBin_621, group 1l. All model gene IDs were found in their input
+proteomes; this is not explained by SBML gene-ID sanitisation. Four unmatched
+carrier proteomes need separate annotation reconciliation before drawing an
+absence conclusion.
+
+No group-1l or group-1h model gained ATP from H2 at any tested carbon supply,
+in any variant. One neither control, F21Dr3__single_SemiBin_84, gained about
+0.15 mmol ATP/gDW/h in the filled model at H2 uptake 0.1; the benefit disappeared
+when ungrounded H2 reactions were closed. Both the anoxic and all-H2-reaction
+knockout controls also yielded zero ATP (tolerance 1e-6) in all 216 variants.
+A neither label excludes the named
+high-affinity marker groups, not every possible hydrogen-metabolising enzyme.
+
+Median numbers of organic substrates supporting ATP production (out of 12):
+                          group 1l       group 1h       neither
+Draft                         3              5             4
+Filled                        6              6.5           6
+Filled, H2 restricted         6              6.5           6
+
+Within the 24 matched triplets, filled-model breadth differences (1l minus
+control) had median -1 against 1h and 0 against neither. Against 1h, 13 were
+negative, 5 tied and 6 positive; against neither, 10 were negative, 5 tied and
+9 positive. These descriptive results do not establish a distinct resource-use
+strategy. They measure feasibility of ATP production under the chosen media,
+not experimentally measured substrate use or growth.
+
+None of the 72 drafts grew even in the permissive all-exchange positive control.
+All 72 filled models did. None grew on any of the 12 individually supplied
+substrates in the defined mineral growth medium, in any variant. Therefore zero
+minimal-medium growth cannot be interpreted as substrate non-utilisation.
+Closing ungrounded H2 reactions also abolished permissive growth in four filled
+models (one 1l and three 1h); this illustrates the broader network consequences
+of the restrictive diagnostic.
+
+Independent reconstruction sensitivity
+
+Of 26 single-sample pilot MAGs, 25 had gapseq models whose original source genomes
+matched current representatives by exact unordered contig-sequence hashes. One
+lacked the required source/model. We ran 750 additional ATP optimisations on
+these 25 draft/filled pairs; all were optimal and all closed/inorganic checks
+passed. The subset comprises 11 group-1l, 7 group-1h and 7 neither MAGs and is
+not the balanced primary panel.
+
+Five filled gapseq models gained ATP from H2: one group 1l, three group 1h and
+one neither. Two were already positive in drafts. None was the gapsmith-positive
+MAG, so 6/25 paired filled reconstructions disagreed on the binary H2 phenotype.
+Filled gapseq median carbon ATP breadth was 10/10/9, versus 6/8/8 in gapsmith
+for those same group-1l/group-1h/neither genomes. These differences show material
+sensitivity to reconstruction, not a robust group-1l-specific phenotype.
+
+Translation of the coordinate-named gapseq H2-reaction GPR genes yielded no exact
+matches to the curated hydrogenase sequences (122 gene/reaction/variant rows).
+This conservative mapping does not exclude homologous genes with different
+predicted boundaries; it does not validate enzyme specificity, affinity, electron
+acceptors or energy coupling. The positive gapseq results remain hypotheses
+about modelled capacity, not evidence of atmospheric hydrogen oxidation.
+
+Implication and next useful work
+
+The defensible next step is focused curation of several matched lineages, not
+more automated FBA across thousands of the same uncurated reconstructions.
+Reconcile marker coordinates and alternative start sites; inspect catalytic and
+small subunits, maturation genes and electron-transfer partners; then establish
+reaction direction, cofactors, membrane coupling and transport from independent
+biochemical evidence. Audit mass/charge balance, flux cycles, biomass demands
+and reconstruction-specific media. Keep draft/gap-fill provenance explicit and
+do not add reactions merely to obtain the desired hydrogen phenotype.
+
+Once that produces defensible positive controls, test energy maintenance and
+carbon sparing across uptake assumptions, before fitting model traits to the
+paired root/bulk data. Shared flux constraints alone cannot establish affinity
+or group-1l versus group-1h performance at atmospheric concentrations. Direct
+H2-consumption measurements or another independent functional validation would
+be needed to turn a model-based hypothesis into strong physiological evidence.
+
+The central paper and its conclusions were not revised on the basis of this
+pilot. The planned field regression was conditional on model validity and is
+not scientifically justified by the present outputs.
+
+Artifacts and verification
+
+pilot_summary.pdf/png: descriptive three-panel figure; no inferential statistics.
+model_inventory.tsv, pilot_panel.tsv: exact-ID coverage and selection.
+audit.tsv, scenarios.tsv, model_traits.tsv, group_summary.tsv: primary evidence.
+marker_mapping.tsv, hydrogen_reactions.tsv, substrate_transport.tsv: provenance.
+reconstruction_pairs.tsv and reconstruction_summary.tsv/json: gapseq comparison.
+input_hashes.tsv, runtime_manifest.json, job_history.tsv: primary run provenance.
+README.txt: reproduction commands and limitations; checksums.sha256: frozen files.
+
+Gemini Pro through agy reviewed the design and implementation; its findings and
+our dispositions are in ../../reviews/metabolic_pilot/. Exchange direction and
+scaling were checked with 12 synthetic LPs on IBEX. Existing lifeonair verification
+passes all 364 checks. The repository-wide harness still reports the same 30
+pre-existing P4 claim/prose failures; its manuscript build succeeds. Those issues
+are outside this pilot and are not being represented as a passing full harness.

@@ -1,0 +1,10 @@
+name: eq-lifeonair
+channels: [conda-forge, bioconda]
+dependencies:
+  - r-base=4.4
+  - r-lme4
+  - r-vegan
+  - r-ape
+  - r-ggplot2
+  - r-patchwork
+  - r-arrow

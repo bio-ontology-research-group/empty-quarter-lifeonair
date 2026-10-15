@@ -1,0 +1,7 @@
+variant	group	n	gapseq_carbon_ATP_breadth_median	gapsmith_carbon_ATP_breadth_median	gapseq_hydrogen_positive	gapsmith_hydrogen_positive
+draft	1l	11	7	2	1	0
+draft	1h	7	8	7	0	0
+draft	neither	7	8	5	1	0
+filled	1l	11	10	6	1	0
+filled	1h	7	10	8	3	0
+filled	neither	7	9	8	1	1

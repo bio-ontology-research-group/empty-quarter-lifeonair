@@ -1,0 +1,26 @@
+DRAFT — The ISME Journal
+
+Dear Editors,
+
+Please consider our manuscript, “Group 1l hydrogen scavengers are relatively depleted beside plant roots across the hyperarid Rub' al-Khali”, for publication as an Original Article in The ISME Journal.
+
+Atmospheric hydrogen supplies energy to soil microorganisms where organic carbon is scarce. Plants change this resource environment, but whether their presence is associated with different responses among hydrogen-scavenging guilds remains poorly resolved. We address this question with 546 shotgun metagenomes from 59 sites across a 1,043-km transect of the Rub' al-Khali, sampled at three soil positions on up to five expeditions. A catalogue of 5,438 species-level genomes connects the distributions of individual hydrogenase groups to their carrier lineages.
+
+Our main finding is a replicated, group-specific association with plant roots. Across 106 paired site visits at 47 sites, root-adjacent soil carried 4.8-fold lower relative representation of group 1l hydrogenase than bulk soil at the same depth. Group 1l was the only high-affinity group with detectable additional depletion beyond the control markers. Surface soil showed a broader depletion across the high-affinity groups. Genus turnover accounted for almost all of the root-associated change, and group 1l carriage remained associated with genus depletion after adjustment for predicted growth potential and taxonomic order.
+
+Earlier work connected reduced trace-gas oxidation potential beneath desert shrubs to carbon availability. Our study resolves the root-associated pattern to a particular hydrogenase group and links it to community turnover across repeated, depth-matched field comparisons. This distinction matters for microbial ecology because enzymes supporting atmospheric hydrogen use occur in lineages with different habitat distributions. The evidence concerns relative genomic capacity and identifies specific guilds for subsequent physiological tests. We believe this connection between energy acquisition, plant-associated community assembly and microbial life in hyperarid soils will interest The ISME Journal's readership.
+
+The study shares sampling and sequence resources with companion manuscripts on bacterial biogeography, the dataset and the MAG catalogue. The ecology manuscript, “Landscape-scale bacterial biogeography across the Rub' al-Khali reveals recurring spatial and soil-position structure”, examines amplicon-based community patterns. The present manuscript addresses group-resolved trace-gas oxidation capacity and its ecological distribution. [Insert the current titles and publication/submission status of all related manuscripts, including any other papers using these data, and supply the relevant copies.]
+
+AI tools, including Claude, OpenAI Codex and Gemini, assisted with analysis code, literature discovery, manuscript editing and internal critical review. The authors will verify the analyses, references and final text and take responsibility for the submitted work.
+
+[Confirm before submission: the work is original, has not been published, is not under consideration elsewhere, and all authors approve submission. Insert the competing-interest declaration and any previous journal-review history.]
+
+Yours sincerely,
+
+Robert Hoehndorf
+Bio-Ontology Research Group (BORG)
+Computer, Electrical and Mathematical Sciences and Engineering Division
+King Abdullah University of Science and Technology
+Thuwal, Saudi Arabia
+robert.hoehndorf@kaust.edu.sa

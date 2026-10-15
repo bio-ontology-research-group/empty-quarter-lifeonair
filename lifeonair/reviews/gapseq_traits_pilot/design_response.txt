@@ -1,0 +1,15 @@
+Design review dispositions, 12 October 2026
+
+1. Genus labels: already implemented as order + named genus, or order + family
+for unassigned genera. Genus holdout is not family/order holdout; shared higher
+taxonomy is deliberate and does not constitute genus leakage.
+2. H2 transport: the audit logs H2-involving reactions, not verified hydrogenase
+counts. H2 symport could be included. Primary traits contain no H2 and no
+hydrogen-reaction deletion is used in this pilot. No phenotype change needed.
+3. Site validation: accepted description that this is repeatability for
+represented MAGs, not unseen-lineage prediction; this was explicit in the plan.
+The baseline is fixed-effect ridge, not an estimated taxonomic random effect.
+4. The review's claim that closing sinks enforces strict mass balance is not
+adopted: mass/charge balance of internal reactions still needs separate evidence.
+5. Independently fixed before field fitting: samples lacking CoverM measurements
+are excluded, never imputed as all-zero abundance.

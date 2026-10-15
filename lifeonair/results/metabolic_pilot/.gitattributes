@@ -1,0 +1,2 @@
+# A terminal tab encodes a missing final field, not accidental prose whitespace.
+*.tsv whitespace=-blank-at-eol

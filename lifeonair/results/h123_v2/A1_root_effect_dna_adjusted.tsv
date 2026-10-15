@@ -1,0 +1,4 @@
+model	n	estimate	se
+root_effect_unadjusted	214	-2.11980817230938	0.228616245080116
+root_effect_DNA_adjusted	214	-1.36131234579018	0.200441764253127
+root_bulk_log2_DNA_ratio_median	47	3.37290356733843	NA

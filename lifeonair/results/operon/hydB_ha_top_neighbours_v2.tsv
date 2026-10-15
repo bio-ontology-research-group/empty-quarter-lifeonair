@@ -1,0 +1,61 @@
+class	neighbour	count	per_locus
+hydB_1l	hypothetical protein	2888	2.599
+hydB_1h	hypothetical protein	1075	2.416
+hydB_1l	Hydrogenase maturation protease	664	0.598
+hydB_1l	DUF948 domain-containing protein	354	0.319
+hydB_1l	nifU	322	0.290
+hydB_1l	hydrogenase (acceptor)	238	0.214
+hydB_1l	hypE	235	0.212
+hydB_1h	hypA	200	0.449
+hydB_1h	hydrogenase (acceptor)	170	0.382
+hydB_1h	hypE	166	0.373
+hydB_1h	hypB	123	0.276
+hydB_1l	Tetratricopeptide repeat protein	119	0.107
+hydB_1l	birA	111	0.100
+hydB_1l	hupD	97	0.087
+hydB_1h	hupS	96	0.216
+hydB_1l	lemA	89	0.080
+hydB_1h	Hydrogenase maturation protease	84	0.189
+hydB_1l	CobQ/CobB/MinD/ParA nucleotide binding domain-containing protein	81	0.073
+hydB_1h	hypC	79	0.178
+hydB_1h	gmhA	74	0.166
+hydB_1h	hypD	71	0.160
+hydB_1h	HNH endonuclease	64	0.144
+hydB_1l	Nucleotidyl transferase AbiEii/AbiGii toxin family protein	64	0.058
+hydB_1l	marR	63	0.057
+hydB_1h	Secreted protein	59	0.133
+hydB_1h	hupD	56	0.126
+hydB_1h	nifU	55	0.124
+hydB_1l	hybO	52	0.047
+hydB_1l	Rieske domain-containing protein	51	0.046
+hydB_1h	hupD1	51	0.115
+hydB_1h	CpXC domain-containing protein	48	0.108
+hydB_1h	HypC/HybG/HupF family hydrogenase formation chaperone	45	0.101
+hydB_1h	C2H2-type domain-containing protein	44	0.099
+hydB_1l	DUF2087 domain-containing protein	43	0.039
+hydB_1l	Transcriptional regulator	42	0.038
+hydB_1h	Hydrogenase accessory protein	42	0.094
+hydB_1l	DUF1059 domain-containing protein	40	0.036
+hydB_1h	Carbamoyltransferase	37	0.083
+hydB_1l	coxE	34	0.031
+hydB_1l	AAA+ ATPase domain-containing protein	32	0.029
+hydB_1l	Response regulatory domain-containing protein	30	0.027
+hydB_1h	hyaD	30	0.067
+hydB_1l	Cobyrinic acid a,c-diamide synthase	30	0.027
+hydB_1l	hypC	28	0.025
+hydB_1l	padR	28	0.025
+hydB_1l	histidine kinase	27	0.024
+hydB_1l	Class I SAM-dependent methyltransferase	27	0.024
+hydB_1l	AAA family ATPase	27	0.024
+hydB_1l	Secreted protein	26	0.023
+hydB_1l	Response regulator	25	0.023
+hydB_1l	hupD1	23	0.021
+hydB_1l	VWA domain-containing protein	23	0.021
+hydB_1l	Methyl-accepting chemotaxis protein	22	0.020
+hydB_1l	Nickel-dependent hydrogenase large subunit	22	0.020
+hydB_1h	histidine kinase	21	0.047
+hydB_1l	hypD	21	0.019
+hydB_1h	Phosphoheptose isomerase	21	0.047
+hydB_1h	hypF	20	0.045
+hydB_1l	Lon protease	20	0.018
+hydB_1l	Poly-beta-hydroxybutyrate-responsive repressor	20	0.018

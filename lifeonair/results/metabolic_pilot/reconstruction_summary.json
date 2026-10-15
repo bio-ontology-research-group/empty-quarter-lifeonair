@@ -1,0 +1,17 @@
+{
+  "exact_sequence_models": 25,
+  "scenario_LPs": 750,
+  "statuses": {
+    "optimal": 750
+  },
+  "gpr_translation_statuses": {
+    "no_curated_hydrogenase_match": 122
+  },
+  "filled_hydrogen_positive_models": [
+    "V16PRr1__single_SemiBin_130",
+    "V58PRr1__single_SemiBin_108",
+    "F6Dr2__single_SemiBin_185",
+    "64PRr2__single_SemiBin_71",
+    "54PRr2__single_SemiBin_82"
+  ]
+}

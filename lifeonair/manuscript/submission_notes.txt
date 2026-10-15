@@ -1,0 +1,10 @@
+Draft prepared 12 October 2026 for The ISME Journal.
+
+Authors and affiliations copied from ../empty-quarter-amplicon/main.tex. Alejandra Lopez Velazquez is first and Rund Tawfiq second, with shared first authorship as instructed by Robert on 13 October 2026. All 19 authors are retained once; other relative order and affiliations are unchanged. Alejandra's established contribution is production of the MAGs; a full CRediT statement remains to be agreed rather than inferred for the other authors.
+
+The cover letter is a draft. Bracketed declarations require factual completion before submission. Update the AI disclosure to describe the authors' completed verification at submission and include the corresponding disclosure in manuscript Methods/Acknowledgements. Confirm current titles/status of all related papers using the data (including the companion phage work if applicable), attach copies as required, and complete the competing-interest/originality/author-approval declarations. The draft does not claim that coauthors have already approved it.
+
+Venue requirements checked 12 October 2026:
+https://academic.oup.com/ismej/pages/author-guidelines
+
+Public deposition and the other release tasks documented in ../reviews/round3/response_round3.md remain open. No manuscript or letter has been submitted.

@@ -1,0 +1,33 @@
+Based on the manuscript context, the statistical modeling in `r3_mag_flag_sensitivity.R`, and the FBA methodology in `82i_atmo_autotrophy_fba.sh`, here is a read-only scientific design review for your genome-scale metabolic-model pilot.
+
+### 1. Identifiable Risks in the Historical Script (`82i_atmo_autotrophy_fba.sh`)
+*   **Sink/Demand Disconnect (ATPM vs. Max Flux):** The script maximizes H2 or CO flux directly while loosely monitoring if biomass $\ge 0$. It does not explicitly target an ATP maintenance (`ATPM`) objective. In FBA, unbounded trace gas flux without an explicit energy sink often indicates a model defect (unconstrained boundary sinks or energy-generating cycles) rather than physiological maintenance.
+*   **Gapfill Circularity:** The models were prepared via `gapsmith` gap-filled for a biomass objective. Automated gap-filling blindly inserts transporters and central metabolic reactions to ensure viability. This effectively erases evolutionary differences in organic substrate-use breadth, masking the very biological signal Hypothesis 1 seeks to test.
+*   **Kinetic & GPR Misattribution:** FBA is stoichiometric and blind to kinetics. If gap-filling added a generic, low-affinity hydrogenase to balance redox, FBA will route trace H2 flux through it identically to a high-affinity enzyme. The script does not enforce Gene-Protein-Reaction (GPR) rules restricting H2 flux strictly to the 1l/1h loci.
+*   **Absence of Controls:** The script loops exclusively over `guild` MAGs (`ha == "1"`). Without matched non-carrier and 1h controls, it is impossible to resolve whether simulated phenotypes are unique to 1l carriers or just generic artifacts of gap-filled models.
+*   **Biomass Reverse Flux:** The script assumes biomass is free to be $\ge 0$ but never strictly constrains its upper bound to $0$ during trace-gas runs. If the biomass reaction is reversible, the solver could theoretically run biomass degradation backward as an energy sink to drive artificial H2 uptake.
+
+### 2. Proposed Minimal Defensible Pilot Design
+To rigorously evaluate whether substrate breadth and H2-derived ATP maintenance predict root depletion beyond taxonomy, deploy a targeted pilot:
+
+**A. Matched Cohort Selection**
+*   Select 30–40 MAGs: 10 group-1l carriers, 10 group-1h controls, and 10 phylogenetic nearest-neighbor non-carriers (matched for genome size).
+
+**B. Organic Substrate-Use Breadth**
+*   Define a small array of ecologically relevant root-exudate analogs (e.g., specific sugars, organic acids, amino acids).
+*   **Crucial:** Score utilization (growth > 0) using *draft* (pre-gap-filled) models, or explicitly filter out growth supported solely by gap-filled transporters. Tally a "Substrate Breadth Score" per MAG.
+
+**C. H2 ATP Maintenance under Carbon Scarcity**
+*   Enforce absolute carbon starvation: set all organic carbon uptake bounds to `0`.
+*   Prevent reverse biomass flux: fix the biomass reaction strictly to `lower_bound = 0`, `upper_bound = 0` (zero-growth).
+*   Enforce GPR mapping: knock out any gap-filled or generic hydrogenases so H2 uptake depends uniquely on the native 1l/1h GPRs.
+*   **Objective:** Maximize the `ATPM` (ATP maintenance) reaction.
+*   **Metric:** Compute $\Delta$ATPM (max `ATPM` with H2 uptake open minus max `ATPM` with H2 uptake closed). This precisely isolates how H2 expands the energetic feasible region.
+
+**D. Modeling Root Depletion (Integration)**
+*   Append the Substrate Breadth Score and $\Delta$ATPM as independent predictors to the existing Gaussian mixed model from `r3_mag_flag_sensitivity.R` (`log2fc_root ~ median_logd + rank + ...`). Test whether these metabolic traits attenuate the group 1l coefficient, proving they explain the root depletion.
+
+### 3. Go/No-Go Criteria for the Pilot
+*   **No-Go 1 (Energy-Generating Cycles):** *Run a sanity check with all external carbon and energy uptakes set to 0.* If maximizing `ATPM` yields a flux $>0$, the model contains thermodynamically unfeasible loops (free energy) and must be manually debugged or discarded.
+*   **No-Go 2 (All-Negative / Model Defects):** *If $>80\%$ of the cohort MAGs yield a $\Delta$ATPM of exactly 0.* This indicates that the automated draft reconstructions have profoundly broken electron transport chains (e.g., disconnected ubiquinone/menaquinone mappings to terminal oxidases) and cannot couple H2 oxidation to ATP generation without introducing massive gap-filling artifacts.
+*   **No-Go 3 (Gapfill Saturation):** *If substrate utilization profiles are statistically indistinguishable (and near-universal) across 1l, 1h, and non-carriers.* This indicates the network reconstructions or gap-filling procedures have saturated the metabolic space, overwriting the evolutionary differences required to test the hypothesis.

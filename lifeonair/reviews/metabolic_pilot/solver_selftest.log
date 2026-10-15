@@ -1,0 +1,13 @@
+PASS exchange coefficient -1 zero and bounded uptake
+PASS exchange coefficient 1 zero and bounded uptake
+PASS exchange coefficient -2 zero and bounded uptake
+PASS exchange coefficient 2 zero and bounded uptake
+12 exchange sign/scaling tests passed
+V42PRr2__single_SemiBin_32
+seconds 7.63
+V60PRr2__self_SemiBin_920
+seconds 8.59
+F38Dr3__self_SemiBin_962
+seconds 6.42
+V11PRr3__self_SemiBin_512
+seconds 5.57

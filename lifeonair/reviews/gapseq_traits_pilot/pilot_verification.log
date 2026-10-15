@@ -1,0 +1,1 @@
+PASS 36 exact-genome models, 3312 unique scenario LPs, 1728 optional-resource monotonicity checks, 72 independently recomputed prediction metrics, 199 null shuffles; scale_up=False

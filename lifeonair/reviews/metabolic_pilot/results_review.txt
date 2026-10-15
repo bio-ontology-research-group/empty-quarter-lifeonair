@@ -1,0 +1,20 @@
+I have reviewed `REPORT.txt` against the pilot data summaries and the aggregation scripts (`metabolic_summarise.py` and `metabolic_compare.py`).
+
+**Assessment of the No-Go Decision**
+The no-go decision for mechanistic inference and conditional field regression is entirely justified. The data clearly shows that automated gap-filling artifacts and reconstruction dependencies dominate the hydrogen phenotypes, rather than the verified presence of the high-affinity marker genes:
+*   In the primary gapsmith models, 0 of the 48 group-1l/1h marker carriers gained ATP from H2.
+*   The single gapsmith model that gained ATP from H2 (the "neither" control `F21Dr3__single_SemiBin_84`) lost this capability when ungrounded gap-filled H2 reactions were closed.
+*   The independent `gapseq` reconstructions showed high pipeline sensitivity, disagreeing with gapsmith on the binary H2 phenotype in 6 out of 25 matched pairs.
+*   `gapseq` failed to map its coordinate-named H2-reaction GPR genes to the curated hydrogenase sequences (122 missing translations).
+
+Given these factors, relying on these automated models as mechanistic support for the paper's central hypothesis would be scientifically flawed.
+
+**Assessment of Claims**
+None of the claims overstate the evidence. The report is rigorously descriptive and appropriately cautious. The text correctly identifies the results as hypotheses about modeled capacity rather than physiological evidence, and accurately limits the interpretation of the minimal-medium non-growth.
+
+**Concrete Errors or Material Limitations**
+I found no concrete errors or material limitations in the report. The quantitative claims in `REPORT.txt` flawlessly match the aggregated data:
+*   The median carbon ATP breadths (e.g., 3, 5, 4 for drafts; 6, 6.5, 6 for filled) match `group_summary.tsv` exactly.
+*   The 6/25 disagreement between pipelines and the breakdown of the 5 `gapseq` positives (one 1l, three 1h, one neither) match `reconstruction_pairs.tsv` and `reconstruction_summary.tsv` exactly.
+*   The 1 out of 44 exact-match models possessing a native internal H2 reaction (`S54PRr1__self_SemiBin_621`) correctly reflects the parsing in `model_traits.tsv`.
+*   The loss of permissive growth in four filled models matches the `rich_growth_positive` differences in `group_summary.tsv`.

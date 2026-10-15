@@ -1,0 +1,72 @@
+Metabolic-model pilot, specified before inspecting simulation phenotypes
+12 October 2026
+
+Question: do model-derived resource-use capabilities distinguish group-1l carriers
+from group-1h carriers and non-carriers, and help explain their relative depletion
+beside roots? This is an exploratory extension of the existing field study.
+
+Source: exact-ID gapsmith draft/filled models and added-reaction ledgers under
+06_darkmatter/gapsmith_models on IBEX. Verify current representative correspondence
+and protein provenance. No fuzzy stripping of single/self bin identifiers. Exclude
+contig-subset representatives from this initial pilot, plus the round-3 contamination
+union. Require >=90% completeness and <=5% contamination. Carrier groups exclude
+1l/1h/2a co-carriage; non-carriers lack all three and form-I CoxL. Record form-I
+co-carriage in the two hydrogenase groups.
+
+Choose non-reused triplets within named orders, prioritising matching genus/family
+and genome quality. At most three triplets per order and 24 overall. Choose before
+using model phenotypes or field abundance. These are taxonomically matched pilot
+models, not a random catalogue sample or an independently replicated set of species.
+
+Audit model exchanges, biomass objective, hydrogen stoichiometry/GPRs, gap-fill
+provenance and ATP maintenance. Evaluate draft and filled models separately. Close
+non-exchange boundary uptake and reverse biomass; close biomass during maintenance
+tests. Maximise ATP hydrolysis with explicit water/proton bookkeeping. Test all-uptake-
+closed and mineral/oxygen-only energy controls, plus hydrogen deletion and oxygen
+dependence. A model generating energy without a supplied donor is ineligible for
+ecological interpretation until repaired. Record infeasible/unbounded/failed LPs
+separately from optimal zero predictions. Check positive controls before interpreting
+absent substrate growth or zero hydrogen benefit as biological absence.
+
+Screen a small panel of sugars, organic acids and amino acids with equal carbon
+input and explicit mineral/oxygen bounds. Use both biomass feasibility and ATP
+maintenance to distinguish biomass-network gaps from absent energy metabolism.
+Test carbon supply and hydrogen supply factorially; hydrogen is optional uptake,
+so allowing it must not reduce the optimum. Report feasible capacity under assumed
+flux bounds, without assigning atmospheric concentrations directly to uptake fluxes.
+Quantify dependence on draft vs gap-filled reactions and supported transport.
+
+Go/no-go: expand and integrate with the field data only if model QC passes, the
+relevant respiratory/transport reactions have defensible genomic support, and the
+pilot yields interpretable variation. All-negative models trigger an audit of
+positive controls and pathway representation, not a conclusion about inactivity.
+Do not force the desired phenotype by gap-filling in hydrogen media.
+
+If adequate, test model traits against paired root/bulk abundance changes with
+taxonomic blocking and genome-quality/growth covariates. Use site and lineage
+holdouts where sample size permits; do not call coefficient attenuation causal
+mediation. A small pilot alone will not support a fitted high-dimensional field model.
+
+Independent design review: ../../reviews/metabolic_pilot/design_review.txt. Its
+useful suggestions on controls and provenance are adopted. Its assertions that
+gap filling necessarily erases variation, >80% zero hydrogen benefit proves model
+failure, and attenuation proves explanation are not adopted: these require evidence.
+
+Compute: IBEX CPU Slurm, workspace 06_atmospheric/metabolic_pilot_clean. No model
+reconstruction or modification of the source models. Record scripts, input hashes,
+solver versions, status codes and job IDs. Keep main manuscript conclusions unchanged
+until the pilot is evaluated.
+
+Smoke-test refinement before the final pilot: growth assays additionally supply
+Mn, Zn, Cu, Co, Ni, Fe(II) and Fe(III), each at 0.01 mmol/gDW/h, to avoid mechanically
+blocking metal-containing biomass. No organic supplements are added. The original
+models' predicted growth media include numerous amino acids/vitamins; a lack of
+minimal-medium growth can therefore reflect their reconstructed auxotrophies.
+ATP maintenance uses the original mineral medium without these trace additions.
+
+Secondary diagnostic: compare available gapseq reconstructions for the pilot's
+single-sample bins. Require exact unordered contig-sequence hashes between their
+original input genomes and current representatives before any model comparison.
+Run the same ATP-maintenance conservation controls, hydrogen scenario and carbon
+panel. Treat differences as reconstruction sensitivity; do not equate shared
+reaction names with experimentally validated enzyme specificity.

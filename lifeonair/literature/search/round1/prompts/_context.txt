@@ -1,0 +1,30 @@
+You are helping a literature search for a manuscript (target: ISME Journal) titled
+"Plant roots and long-term aridity set the atmospheric hydrogen-scavenging capacity of hyperarid Rub' al-Khali soils".
+Summary: 550 shotgun metagenomes from 60 sites in the hyperarid Rub' al-Khali (Empty Quarter, Saudi Arabia; MAP 14-48 mm),
+5 expeditions 2023-2025, three soil positions (surface 0 cm, bulk 5-10 cm, root-adjacent 5-10 cm). [NiFe]-hydrogenase
+large subunits typed with HydDB (groups 1h and 1l = high-affinity H2 scavengers), CoxL typed form I (Cordero 2019).
+Read-based quantification (DIAMOND blastx vs competitive protein DB) normalised to ribosomal-protein genome equivalents.
+Findings: H1 root-adjacent soil loses group 1l (4.7-fold) beyond control genes, 1h and form-I CoxL retained;
+plant-carbon proxies (NDVI, gRodon predicted growth rate/copiotrophy) explain only a minor part; H2 H2 and CO capacity
+decoupled, CO capacity spread over more genera (functional redundancy); H3 bulk-soil 1l rises with long-term aridity
+across sites (ERA5 MAP rho -0.51) but between-expedition change is unrelated to antecedent precipitation
+(space-for-time substitution fails), community composition stable over time (expedition explains 2% of variance).
+This is genomic CAPACITY, not activity or flux.
+
+Already known to us (do NOT return these): Bay 2021 Nat Microbiol; Bay 2021 ISME J aridity gradient; Ji 2017 Nature;
+Ortiz 2021 PNAS; Jordaan 2020 mSystems; Leung 2020 mSystems; Cordero 2019 ISME J; Ray 2022 ISME J; Ray 2023 MMBR;
+Li 2023 ISME J fertile islands; Tribbia 2026 AEM Namib; Garvin/Polloquere 2024 ISME J; Sauma-Sanchez 2024 FEMS;
+Reji 2026 Nat Commun; Hutchinson 2025; Greening 2015 PNAS; Greening 2016 ISME J; Sondergaard 2016 HydDB; Grinter 2023
+Nature Huc; Ehhalt 2009; Constant 2010; Carini 2016; Lennon 2018; Fierer 2007; Weissman 2021 gRodon; Loreau 2008.
+
+TASK: use web search to find real, published (or bioRxiv) papers for the search direction below. Verify each DOI by
+web search; never invent a DOI. Return 10-20 papers, prioritising 2018-2026 and high relevance. Include papers that
+CHALLENGE our interpretation, not only supporting ones.
+
+OUTPUT FORMAT: only a TSV block between lines "BEGIN_TSV" and "END_TSV", header line included, columns:
+doi	first_author	year	title	journal	manuscript_link	stance	relevance	oa_url
+manuscript_link is one of: intro, methods, H1, H2, H3, mechanism, discussion, limitations.
+stance is one of: supports, challenges, context, method.
+relevance: one sentence on exactly how it bears on the manuscript claim. oa_url: open-access PDF URL if known else NA.
+After END_TSV, write a short section "SYNTHESIS:" (max 200 words) on what this literature implies for the manuscript,
+especially any claim that looks overstated or novelty that is already published.

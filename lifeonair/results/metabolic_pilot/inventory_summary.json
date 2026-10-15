@@ -1,0 +1,27 @@
+{
+  "n": 5438,
+  "filled": 5438,
+  "draft": 5438,
+  "eligible": 1759,
+  "eligible_groups": {
+    "neither": 1418,
+    "1l": 178,
+    "1h": 163
+  },
+  "matched_models": 72,
+  "matched_orders": {
+    "AC-67": 1,
+    "Acidimicrobiales": 3,
+    "Gemmatimonadales": 3,
+    "Gp7-AA8": 2,
+    "IMCC26256": 1,
+    "JAHWKV01": 2,
+    "JAICYB01": 2,
+    "Longimicrobiales": 3,
+    "Multivoradales": 1,
+    "Mycobacteriales": 3,
+    "Myxococcales": 1,
+    "Planctomycetales": 1,
+    "Propionibacteriales": 1
+  }
+}

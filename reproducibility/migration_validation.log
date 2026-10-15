@@ -1,0 +1,4 @@
+P3 verification: 364 checks, 0 failures; model-output checks are TABLE, not refits.
+Latexmk: Missing bbl file 'main.bbl' in following:
+ No file main.bbl.
+REPRODUCIBILITY: frozen-evidence checks and manuscript build PASS

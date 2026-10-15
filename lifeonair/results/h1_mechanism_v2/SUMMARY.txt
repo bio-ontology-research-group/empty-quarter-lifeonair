@@ -1,0 +1,7 @@
+M1 NDVI (60-day window) vs group 1l genome equivalents; site NDVI vs MAP rho 0.63
+M2 gRodon estimates for 4814 representatives (median doubling 3.5 h)
+M2a 1l carriers: log doubling time +0.117 within order (SE 0.026); medians 4.2 vs 3.3 h
+M2b CWM coverage of mapped abundance: median 0.98
+M2b root-adjacent CWM log doubling time shift -0.258 (79% of 106 pairs faster; site p 1.4e-05)
+M2c excess_1l vs shift: spearman rho 0.26 (p 0.0074); lmer slope 1.73 (SE 0.61), intercept at no shift -1.57
+M2d genus (n=289): growth slope -0.37 (p 0.00091); frac_1l -0.81 (p 9.5e-06) with phylum

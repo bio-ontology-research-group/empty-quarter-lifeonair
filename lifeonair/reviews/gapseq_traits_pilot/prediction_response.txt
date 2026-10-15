@@ -1,0 +1,17 @@
+Prediction review disposition, 12 October 2026
+
+Accepted: valid optimal-zero traits remain in the regression. The positive-ATP
+requirement is applied only to the cohort-wide 80% quality/feasibility gate.
+This separates model/solver failure from a valid zero on the tested substrates.
+The correction was made before field fitting and before viewing any outcome
+associations. Missing CoverM sample handling remains intact.
+
+The reviewer modified the local script despite the read-only instruction. Its
+two changes (trait_qc and qc_fraction) were inspected and accepted explicitly;
+the remote field job was held while the reviewed script was synchronised.
+No other review assertions are treated as validation of biological predictions.
+
+Post-run independent cohort audit found site64 in the pilot, whereas h123_v2.R
+restricts the manuscript to sites1-60. Corrected this population boundary and
+reran field fits as job53640046; the earlier job53639517 is explicitly superseded.
+A frozen-output assertion now requires all sites1-60 and the106 paired visits.

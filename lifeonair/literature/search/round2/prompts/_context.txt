@@ -1,0 +1,24 @@
+You are helping a literature search for a manuscript (target: ISME Journal) titled
+"Group 1l hydrogen scavengers are relatively depleted beside plant roots across the hyperarid Rub' al-Khali".
+Summary: 546 shotgun metagenomes from 59 sites in the hyperarid Rub' al-Khali (Saudi Arabia), 5 expeditions 2023-2025,
+three soil positions (surface, bulk 5-10 cm, root-adjacent 5-10 cm). [NiFe]-hydrogenase large subunits typed with HydDB
+(groups 1h, 1l, 2a), CoxL typed form I by active-site motifs. Read-based quantification (DIAMOND blastx against a
+competitive protein database) normalised to ribosomal-protein genome equivalents; a held-out classifier benchmark was run.
+Within orders, group 1l carrier genomes have higher GC and similar genome size; 1h, 2a and form-I CoxL carriers have
+larger genomes; all carriers have longer predicted (gRodon) doubling times. This is genomic CAPACITY, not activity.
+
+Already known to us (do NOT return these): Bay 2021 Nat Microbiol; Bay 2021 ISME J; Ji 2017 Nature; Ortiz 2021 PNAS;
+Jordaan 2020 mSystems; Leung 2020 mSystems; Cordero 2019 ISME J; Ray 2022 ISME J; Li 2023 ISME J; Islam 2020 ISME J;
+Greening 2016 ISME J; Sondergaard 2016 HydDB; Grinter 2023 Nature; Weissman 2021 gRodon; Lopez 2023 ISME J;
+Imminger 2024 Nat Commun; King 2007; Martin-Cuadrado 2009; Wang 2025 Global Change Biology (10.1111/gcb.70498).
+
+TASK: use web search to find real, published (or bioRxiv) papers for the search direction below. Verify each DOI by
+web search; never invent a DOI. Return 8-15 papers, prioritising 2015-2026 and high relevance. Include papers that
+CHALLENGE our interpretation, not only supporting ones.
+
+OUTPUT FORMAT: only a TSV block between lines "BEGIN_TSV" and "END_TSV", header line included, columns:
+doi	first_author	year	title	journal	manuscript_link	stance	relevance	oa_url
+manuscript_link is one of: intro, methods, results, discussion, limitations.
+stance is one of: supports, challenges, context, method.
+relevance: one sentence on exactly how it bears on the manuscript. oa_url: open-access PDF URL if known else NA.
+After END_TSV, write a short section "SYNTHESIS:" (max 150 words).

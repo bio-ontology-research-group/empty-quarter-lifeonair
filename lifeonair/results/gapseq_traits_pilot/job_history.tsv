@@ -1,0 +1,5 @@
+job_id	stage	status
+53639338	exact_genome_inventory	completed
+53639433	gapseq_simulations	completed
+53639517	field_prediction	superseded_site_scope
+53640046	field_prediction_final	completed

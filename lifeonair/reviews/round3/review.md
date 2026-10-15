@@ -1,0 +1,50 @@
+Part 1
+
+# Review of "Life on air" (Round 3)
+
+### Summary
+This manuscript explores the spatial and ecological distribution of trace-gas oxidation capacity (high-affinity [NiFe]-hydrogenases and CO dehydrogenases) in hyperarid desert soils across five Saudi Arabian expeditions. Using a metagenomic dataset, the authors demonstrate that bacteria possessing the group 1l [NiFe]-hydrogenase are relatively depleted in root-adjacent soils and surface crusts compared to bulk subsurface soils. The authors use a rigorous turnover partition to show this shift is driven by genus-level compositional changes rather than a reduction in gene copies per carrier. By incorporating metadata such as predicted growth potential and DNA yield (as a biomass proxy), the study provides evidence that ecological filtering, rather than simple phylogenetic inertia, shapes the trace-gas oxidizing community in these extreme environments.
+
+### Overall Assessment
+**Recommendation: Minor Revision.**
+The manuscript has advanced significantly since the last round. Functional claims have been carefully bounded to reflect candidate capacity rather than proven in-situ activity. The authors have effectively integrated the turnover partition and scaling models, addressing previous statistical and methodological concerns (e.g., DNA proxy scaling, spatial autocorrelation, CoxL classifications). The text correctly distinguishes between raw and excess depletion, properly accounts for cross-lineage markers, and implements proper exchangeability in permutation tests. The outstanding issues are largely procedural (public deposition) and restricted to fully propagating sensitivity checks to all downstream MAG-based models. These remaining items should be resolvable prior to publication.
+
+### Resolution of Round 2 Findings
+
+*   **R2-04 (CoxL form-I correction):** Resolved. Corrected annotations and the inverted matrix have been properly reported.
+*   **R2-05 (GE benchmark):** Resolved. 20 mock communities from ten visits validate the marker/SCG estimator. Calibration and correlation are detailed.
+*   **R2-06 (Sub-fix application):** Resolved. Labels are propagated and context restricted appropriately.
+*   **R2-07 (CoxL motifs):** Resolved. Missing motif calls were verified; variants identified, and motif-only variants treated cautiously.
+*   **R2-08 (Assay contamination baseline):** Partly resolved. The expedition-4 SNTC was added, but the specific candidate sequences for the six expedition-4 extraction blanks remain unreleased. (See **R3-01**)
+*   **R2-09 (Flag sensitivity):** Partly resolved. Read-level models use the batch-frequency flag union, but genus, trait, and CBB MAG-based models have not all been rerun with these exclusions. (See **R3-02**)
+*   **R2-10 (Genus models):** Resolved. Site-resampling, order fixed-effects, and prevalence thresholds are now implemented.
+*   **R2-11 (Growth coverage sensitivity):** Resolved. Coverage bounds and missing-trait assignments address the uncertainty around growth rate estimates.
+*   **R2-12 (Aridity decomposition):** Resolved. Absent genera correctly zero-filled; turnover map correlations match observed distributions.
+*   **R2-13 (DNA adjustment constraints):** Resolved. Conditional attenuation properly detailed and compositional exclusions resolved.
+*   **R2-14 (Single-kit sensitivity):** Resolved. Single-kit models retain visit intercepts and kit adjustments.
+*   **R2-15 (Temporal exposure source):** Resolved. NASA POWER incorporated as an independent comparator alongside ERA5.
+*   **R2-16 (Temporal block bootstrap):** Partly resolved. Conditional uncertainty is mapped, but the bootstrap does not strictly evaluate spatial grid-level convergence for the ERA5 product. (See **R3-03**)
+*   **R2-17 (Equivalence bounds):** Resolved. The estimand and exposure scale bounds are mathematically justified and narrowed.
+*   **R2-18 (PERMANOVA restricted permutations):** Resolved. Permutations appropriately restricted to visit blocks within sites.
+*   **R2-19 (Turnover partition):** Resolved. The accounting partition accurately reports the weighted community-share contribution and missing-side conventions.
+*   **R2-20 (Gaussian clipped-logits):** Resolved. Likelihood, bounds, and weights are correctly explicitly described.
+*   **R2-21 (CBB co-carriage claims):** Resolved. Accurately contextualized as a three-KO candidate screen requiring subsequent validation.
+*   **R2-22 (Multiplicity correction families):** Resolved. Family sets are strictly bounded and exploratory analyses labeled as such.
+*   **R2-23 (Detectable excess claims):** Resolved. The manuscript accurately bounds "detectable excess depletion" and clarifies independent intervals.
+*   **R2-24 (Wang 2025 comparison):** Partly resolved. Wang 2025 incorporated only as a publisher abstract, as the full text remains inaccessible. (See **R3-04**)
+*   **R2-25 (Automated verification and public deposition):** Partly resolved. Downstream claims successfully verify via scripts, but public data release and an upstream reproducible fetch remain unaddressed. (See **R3-05**)
+*   **R2-26 (Figure final-size readability):** Resolved. Tree support, titles, and layout panels updated for final dimensions.
+*   **R2-27 (Output discrepancies):** Resolved. Moran’s $p$, control slopes, and predicted-growth text correspond to generated outputs.
+*   **R2-28 (Temperature exposure metric):** Resolved. Support limits properly recorded for surface temperature.
+
+### Remaining Findings (Round 3)
+
+The following findings represent the remaining unaddressed components from round 2 that require attention.
+
+*   **R3-01 (Missing blank candidate lists, formerly R2-08):** While the existence of the expedition-4 amplicon blanks was acknowledged, the underlying candidate lists for these blanks must be reported to assure the robustness of the contamination baseline.
+*   **R3-02 (MAG-model flag exclusions, formerly R2-09):** The read-based models were correctly subjected to the comprehensive batch-frequency flag exclusions. However, the MAG-based structural models (genus-level models, traits, CBB models) have not yet been rigorously subjected to this filter. This must be verified.
+*   **R3-03 (Climate grid dependency, formerly R2-16):** The spatial bootstrap currently gives conditional uncertainty. The text should explicitly caveat the limits of this inference in relation to shared ERA5 grid cells across multiple sites.
+*   **R3-04 (Literature full-text verification, formerly R2-24):** Update the comparison against Wang 2025 once the full text becomes available to ensure trait correlations conform to the published methods of that study.
+*   **R3-05 (Public deposition and pipeline, formerly R2-25):** The submission requires the formal public deposition of required inputs/sequences and a publicly accessible end-to-end extraction and checking workflow.
+
+Part 2

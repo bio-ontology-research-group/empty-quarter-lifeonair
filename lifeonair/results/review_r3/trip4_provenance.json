@@ -1,0 +1,16 @@
+{
+  "source": "/home/leechuck/Documents/papers/empty-quarter-data-paper/evidence/control-replay-20260909/screen/primary_contaminant_calls.tsv",
+  "source_sha256": "794484af9520301225b33b49c24c96b7caa0811560b849a80d48127ef91f7d78",
+  "source_screen": "September 9 replay, Trip4 only",
+  "candidate_ids": 7,
+  "sequences_found": 7,
+  "missing_sequence_ids": [],
+  "named_genera": [
+    "Alcaligenes",
+    "Brevibacterium",
+    "Nesterenkonia"
+  ],
+  "matched_MAGs": 14,
+  "new_MAGs": 4,
+  "union_n": 387
+}

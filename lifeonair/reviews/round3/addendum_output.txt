@@ -1,0 +1,10 @@
+I have created the requested read-only addendum to complete the Round 3 review.
+
+### Key Findings:
+1. **Omitted R2 Items Resolved**: I verified that R2-01 (duplicate topography records), R2-02 (surface precipitation claims), and R2-03 (benchmark residual homology) have been accurately addressed in the latest code, results, and manuscript text. Specifically for R2-03, the updated manuscript honestly bounds the interpretation as a "graph-component holdout with residual homology" without claiming a non-existent identity ceiling.
+2. **R3-01 through R3-04 Resolved**: The new revisions successfully provide the missing blank candidate lists, apply flag exclusions to structural models, caveat the climate grid dependencies, and correctly incorporate the full text of Wang 2025.
+3. **Major Error in Claims (R3-02)**: I flagged a concrete error in the authors' response regarding the new sensitivity results. While they claim "the interpretation is retained" for the trait models, the data they provided shows the group 1l log-genome-size coefficient collapsed from **+0.08** (larger genomes) in the baseline to **-0.0161** in the exclusion model. This demonstrates that the significant finding of "larger genomes" was entirely driven by the flagged MAGs and does not survive the sensitivity check. The manuscript's claims must be corrected.
+4. **R3-05 Left Open**: As requested, public deposition and the pipeline are explicitly marked as an unresolved blocker prior to final submission.
+
+You can review the full dispositions and unresolved scientific blockers in the generated addendum artifact.
+I've created the walkthrough artifact to formally conclude the task since no further file modifications were needed for this read-only addendum. The execution phase is fully complete and the final review dispositions are ready in the `review_addendum.md` artifact.

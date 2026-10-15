@@ -1,0 +1,3 @@
+contrast	n_pairs	median_diff_logd	frac_pairs_faster	site_wilcox_p
+PlantRoot - Deep	106	-0.24871326516801	0.792452830188679	1.49847608099662e-05
+Surface - Deep	68	-0.293098481364606	0.823529411764706	1.25437509268522e-07

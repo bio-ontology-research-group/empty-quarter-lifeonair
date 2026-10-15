@@ -1,0 +1,8 @@
+feature_id	screen	taxonomy	extraction_blanks_present	extraction_blanks_total	mapped_biological_profiles_present	mapped_biological_profiles_total	blank_prevalence	biological_prevalence	prevalence_score	blank_reads	mapped_biological_reads	call
+acb32191eadb8ef6ca9ff22fa26c53ed	Trip4	Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Micrococcaceae;Nesterenkonia;NA	3	6	3	95	0.50000000	0.03157895	0.00223763645	4725	18774	candidate_contaminant
+c630e0446b2ac41986737996676e748e	Trip4	Bacteria;Chloroflexota;Chloroflexia;Thermomicrobiales;AKYG1722;NA;NA	2	6	0	95	0.33333333	0.00000000	0.00297029703	1377	0	candidate_contaminant
+54e5a7af94910d026d86e26b0889b505	Trip4	Bacteria;Actinomycetota;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae;NA;NA	2	6	0	95	0.33333333	0.00000000	0.00297029703	963	0	candidate_contaminant
+72a23bebd4e258d1bc58aa2004ff8166	Trip4	Bacteria;Actinomycetota;Actinobacteria;Micrococcales;Brevibacteriaceae;Brevibacterium;album	2	6	1	95	0.33333333	0.01052632	0.008670867087	3005	6227	candidate_contaminant
+5ae7b1191f2694b3c58f52bf3b23c240	Trip4	Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Alcaligenes;NA	4	6	15	95	0.66666667	0.15789474	0.0109306302	2155	6017	candidate_contaminant
+263e4e3ba1393504c1bda557b59ef4fe	Trip4	Bacteria;Pseudomonadota;Gammaproteobacteria;Lysobacterales;Lysobacteraceae;NA;NA	3	6	14	95	0.50000000	0.14736842	0.05809172964	2899	17638	candidate_contaminant
+8255e2475791d9b0927b14f28e8f0d9c	Trip4	Bacteria;Actinomycetota;Actinobacteria;Micromonosporales;Micromonosporaceae;NA;NA	2	6	6	95	0.33333333	0.06315789	0.07048162106	843	3697	candidate_contaminant

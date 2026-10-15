@@ -1,0 +1,37 @@
+Here is the read-only code review of the metabolic pilot scripts based on your specified topics.
+
+### 1. Boundary handling
+- **Finding**: The ternary logic for setting exchange bounds is reversed. For reactions where uptake is positive flux (`coef < 0`), it sets bounds to `(-u/abs(coef), 1000)`. This incorrectly limits secretion to `u` and leaves uptake completely unbounded at `1000`. The same logic reversal happens for `coef > 0`. This grants the models infinite access to all nutrients, completely invalidating all resource constraints.
+- **Severity**: Critical
+- **Location**: `lifeonair/code/metabolic_simulate.py:53`
+- **Suggested Fix**: Swap the tuple assignments to correctly restrict the uptake direction: `r.bounds = (-1000, u/abs(coef)) if coef < 0 else (-u/abs(coef), 1000)`
+
+### 2. Objective switching
+- **Finding**: When preparing to test biomass generation, the code only re-opens the single final objective reaction via `bio.bounds=(0,1000)`. However, line 105 previously forced *all* reactions containing 'biomass' or 'bio' to `(0,0)`. Because ModelSEED models often use multi-part biomass pathways (e.g., `bio` depends on a separate `biomass_core` reaction), leaving the upstream components closed artificially makes biomass synthesis impossible during the substrate tests.
+- **Severity**: High
+- **Location**: `lifeonair/code/metabolic_simulate.py:105`, `116`, and `130`
+- **Suggested Fix**: Instead of forcing all biomass reactions to `(0,0)`, store their original bounds in a dictionary and restore all of them when switching back to the biomass objective.
+
+### 3. H2 provenance restriction
+- **Finding**: The provenance check `{g.id for g in r.genes} & genes` requires the gene IDs in the SBML model to exactly match the raw fasta headers (`name.split()[0]`). Gap-filling tools (like gapsmith) and the CobraPy SBML parser strictly sanitize IDs by replacing invalid characters (like `|` or `.`) with underscores `_`. This sanitization means the intersection will silently be empty, causing the script to falsely knock out all legitimately native hydrogenases in the `filled_grounded_h2` variant.
+- **Severity**: High
+- **Location**: `lifeonair/code/metabolic_simulate.py:94`
+- **Suggested Fix**: Normalize both the SBML `g.id` and the fasta `gene` strings (e.g., by stripping non-alphanumeric characters or standardizing delimiters) before performing the set intersection.
+
+### 4. Energy QC
+- **Finding**: The script closes all exchanges (`for r in ex: r.bounds=(0,0)`) and checks if `closed_status == 'optimal'` with an ATP output near zero. However, ModelSEED models natively contain a basal ATP maintenance reaction (usually `rxn00062` or `ATPM`) with a fixed lower bound (e.g., 8.39). With all exchanges closed, the model cannot meet this maintenance requirement and will simply evaluate as 'infeasible', causing completely valid models to falsely fail the Energy QC.
+- **Severity**: High
+- **Location**: `lifeonair/code/metabolic_simulate.py:107-108`, `124`
+- **Suggested Fix**: Explicitly find the native ATP maintenance reaction and set its lower bound to 0 before running the `closed` and `inorganic` QC checks, allowing the model to feasibly solve for 0 flux.
+
+### 5. Carbon-normalization
+- **Finding**: The `MINERALS` dictionary includes `cpd00011` (CO2) with a bound of 10. Because CO2 is a carbon source, autotrophic or mixotrophic models will fix this CO2 using provided H2 to grow and generate energy. This silently adds unaccounted carbon to the 6 mmol C gradient and completely breaks the intended "zero organic carbon" anoxic controls.
+- **Severity**: Critical
+- **Location**: `lifeonair/code/metabolic_simulate.py:20` and `138`
+- **Suggested Fix**: Remove `cpd00011` (CO2) from `MINERALS` entirely, or explicitly set its uptake bound to 0 during heterotrophic carbon-normalization tests and the anoxic/hydrogen controls.
+
+### 6. Mapping exact protein sequences
+- **Finding**: The dictionary assignment `seqs[z[2]][seq] = z[3]` keys by the exact amino acid sequence. If a representative genome has multiple identical copies (paralogs) of the `hydB` marker, the dictionary will overwrite the previous protein ID. When mapping the proteome later, all identical paralogous genes will be falsely assigned to a single `typed_protein` ID, corrupting the 1-to-1 provenance audit.
+- **Severity**: Moderate
+- **Location**: `lifeonair/code/metabolic_simulate.py:74`
+- **Suggested Fix**: Store a list or set of protein IDs for each sequence (e.g., `seqs[z[2]][seq].append(z[3])`) and iterate over them to capture all paralogous matches when appending to the mapping ledger.
