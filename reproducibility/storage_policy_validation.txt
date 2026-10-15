@@ -1,0 +1,2 @@
+P3 verification: 364 checks, 0 failures; model-output checks are TABLE, not refits.
+REPRODUCIBILITY: frozen-evidence checks and manuscript build PASS

@@ -10,7 +10,7 @@ Cluster input derivations and job IDs are described in `code/upstream/README.md`
 
 ## Open release requirements
 
-The manuscript is a draft. A DOI archive, reference-sequence deposition, ENA release/accession confirmation and final publication metadata remain required before submission. Derived counts are available through the checksum-verified public release route. The repository and derived-count download are public. Full raw-read-to-paper reproducibility remains distinct from a passing frozen-evidence check. R2-25 remains partially addressed.
+The manuscript is a draft. A DOI archive, reference-sequence deposition, ENA release/accession confirmation and final publication metadata remain required before submission. Large per-sample derived counts remain on IBEX and use the checksum-verified institutional fetch route. The repository is public; bulk data require authorised IBEX access. Full raw-read-to-paper reproducibility remains distinct from a passing frozen-evidence check. R2-25 remains partially addressed.
 
 ## Round-3 sensitivity
 

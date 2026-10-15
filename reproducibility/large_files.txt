@@ -1,2 +1,2 @@
-# Frozen derived inputs downloaded from the public release; see public_inputs.json.
+# Bulk derived inputs retained on IBEX; see large_inputs.json and large_files.sha256.
 lifeonair/results/reads/per_sample_counts.tar.gz

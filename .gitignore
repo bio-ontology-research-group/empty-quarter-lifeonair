@@ -65,3 +65,6 @@ lifeonair/manuscript/*.bbl
 lifeonair/manuscript/*.blg
 lifeonair/manuscript/*.out
 lifeonair/manuscript/build.log
+
+# Large inputs remain on IBEX; never add them to Git or GitHub releases.
+/lifeonair/results/reads/per_sample_counts.tar.gz

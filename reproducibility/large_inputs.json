@@ -3,6 +3,6 @@
     "path": "lifeonair/results/reads/per_sample_counts.tar.gz",
     "bytes": 47742854,
     "sha256": "f1586bd92d0bd1af1f0015357a4b493cc8ec2eb4af863cb73a73a9ab9b2c6587",
-    "url": "https://github.com/bio-ontology-research-group/empty-quarter-lifeonair/releases/download/reproducibility-2026-10-15/f1586bd92d0b-per_sample_counts.tar.gz"
+    "ibex_path": "/ibex/scratch/projects/c2014/EmptyQuarter_Data/processed/mags-paper-large-files/lifeonair/results/reads/per_sample_counts.tar.gz"
   }
 ]
